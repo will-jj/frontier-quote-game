@@ -111,7 +111,7 @@ public partial class MainViewModel : ViewModelBase
         using Stream stream = AssetLoader.Open(new Uri("avares://FrontierQuotes/Assets/trainers.json"));
         using StreamReader reader = new(stream);
         string json =  reader.ReadToEnd();
-        return JsonSerializer.Deserialize<List<TrainerQuoted>>(json);
+        return JsonSerializer.Deserialize<List<TrainerQuoted>>(json, SourceGenerationContext.Default.ListTrainerQuoted);
     }
 
     private async Task NextQuote(bool nextAnswer = false)
