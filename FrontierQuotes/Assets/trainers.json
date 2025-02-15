@@ -1,0 +1,2402 @@
+[
+  {
+    "Class": "Youngster",
+    "Name": "Jim",
+    "Sprite": "Youngster_2_.png",
+    "Greeting": "And we\u2019re off!",
+    "Win": "We did it, yeah!",
+    "Loss": "Uncle!"
+  },
+  {
+    "Class": "Youngster",
+    "Name": "Erroll",
+    "Sprite": "Youngster_2_.png",
+    "Greeting": "My Pok\u00E9mon are a cut apart from the usual. Maybe even two cuts!",
+    "Win": "Their cutting intensity and solid attack... Top class, yeah?",
+    "Loss": "Grr... Rendered harmless..."
+  },
+  {
+    "Class": "Youngster",
+    "Name": "Casimir",
+    "Sprite": "Youngster_2_.png",
+    "Greeting": "The prince among shorts-wearing Youngsters, that is me!",
+    "Win": "I hope I lived up to my title of the prince among the shorts wearers.",
+    "Loss": "I can\u2019t lose here! Not as the prince among the wearers of shorts!"
+  },
+  {
+    "Class": "Lass",
+    "Name": "Cameron",
+    "Sprite": "Lass_3_.png",
+    "Greeting": "I can\u2019t bear this tension. Would they be mad if I went home?",
+    "Win": "I did it! I won somehow!",
+    "Loss": "That\u2019s gone past my limit! I need to be excused!"
+  },
+  {
+    "Class": "Lass",
+    "Name": "Peaches",
+    "Sprite": "Lass_3_.png",
+    "Greeting": "I\u2019m not very good at this, but please don\u2019t hold back.",
+    "Win": "Oh, didn\u2019t I say? You shouldn\u2019t have held back.",
+    "Loss": "Fweh! I wish you would have held back a little bit!"
+  },
+  {
+    "Class": "Lass",
+    "Name": "Yasmin",
+    "Sprite": "Lass_3_.png",
+    "Greeting": "In romance, fashion, and Pok\u00E9mon! Today\u2019s girls want it all!",
+    "Win": "The greed of today\u2019s girls knows no bounds!",
+    "Loss": "Did being greedy end up costing me everything?"
+  },
+  {
+    "Class": "School Kid",
+    "Name": "Foster",
+    "Sprite": "School Kid_60_.png",
+    "Greeting": "I\u2019m thinking hard about why everyone likes battling so much.",
+    "Win": "Why does winning a battle make people happy?",
+    "Loss": "Why is losing a battle so downright infuriating?"
+  },
+  {
+    "Class": "School Kid",
+    "Name": "Ken",
+    "Sprite": "School Kid_60_.png",
+    "Greeting": "I\u2019m trying to keep up with my Pok\u00E9mon training and my own schooling.",
+    "Win": "I\u2019d like to think I\u2019ve struck the right balance of fun and education.",
+    "Loss": "This isn\u2019t going to work? My grades are the best in class, but..."
+  },
+  {
+    "Class": "School Kid",
+    "Name": "Owen",
+    "Sprite": "School Kid_60_.png",
+    "Greeting": "I crammed hard for this. I can\u2019t possibly fail!",
+    "Win": "Yes! I get the win! I\u2019m glad I kept with this!",
+    "Loss": "It means I need to study at home some more."
+  },
+  {
+    "Class": "School Kid",
+    "Name": "Marcy",
+    "Sprite": "School Kid_61_.png",
+    "Greeting": "My Pok\u00E9mon are my treasures. I\u2019ll let you see them. Just you.",
+    "Win": "See? Cute and strong! Eheheheh.",
+    "Loss": "See? They\u2019re cute even when losing. Eheheheh."
+  },
+  {
+    "Class": "School Kid",
+    "Name": "Shelly",
+    "Sprite": "School Kid_61_.png",
+    "Greeting": "I won\u2019t lose ever! Please abide by my rule!",
+    "Win": "Thank you so much! I owe this win to you!",
+    "Loss": "I so did not want to lose..."
+  },
+  {
+    "Class": "School Kid",
+    "Name": "Aspen",
+    "Sprite": "School Kid_61_.png",
+    "Greeting": "I can do this... I can shine here, too!",
+    "Win": "Yes! I won! I\u2019m going to be a star!",
+    "Loss": "One day, I\u2019m going to shine as the brightest star in the world!"
+  },
+  {
+    "Class": "Rich Boy",
+    "Name": "Matt",
+    "Sprite": "Rich Boy_32_.png",
+    "Greeting": "Don\u2019t be shy. You can bring it any which way.",
+    "Win": "Yeah, I figured you\u2019d be like this. Heh.",
+    "Loss": "W-well, sometimes I have to lose, just so I don\u2019t crush everyone. Ahaha..."
+  },
+  {
+    "Class": "Rich Boy",
+    "Name": "Alvan",
+    "Sprite": "Rich Boy_32_.png",
+    "Greeting": "My father\u2019s wealthy. There\u2019s nothing he can\u2019t afford.",
+    "Win": "My father\u2019s money bought my Pok\u00E9mon.",
+    "Loss": "There are things that money can\u2019t buy. I know that..."
+  },
+  {
+    "Class": "Rich Boy",
+    "Name": "Asa",
+    "Sprite": "Rich Boy_32_.png",
+    "Greeting": "Well, shall we? Time is money, and the meter is running.",
+    "Win": "Well, I\u2019ll take my leave. Yet another fancy dinner date, you know. Adieu!",
+    "Loss": "It\u2019s my loss, is it? So be it. I had to leave for a date anyway."
+  },
+  {
+    "Class": "Lady",
+    "Name": "Isabel",
+    "Sprite": "Lady_33_.png",
+    "Greeting": "Uphold the rules of etiquette and courtesy... That\u2019s what a lady does.",
+    "Win": "If I couldn\u2019t unwind this way, I would lose my ladylike composure.",
+    "Loss": "I wish I could be free like the bird Pok\u00E9mon in the skies..."
+  },
+  {
+    "Class": "Lady",
+    "Name": "Nichole",
+    "Sprite": "Lady_33_.png",
+    "Greeting": "If I were Honey, then you would be Gooey Mulch, I would think.",
+    "Win": "Do you see now? How different we are in level and class?",
+    "Loss": "How dare you! I won\u2019t forget this humiliation ever!"
+  },
+  {
+    "Class": "Lady",
+    "Name": "Juanita",
+    "Sprite": "Lady_33_.png",
+    "Greeting": "Partying, shopping, dining... Darling, I\u2019ve grown bored of it all.",
+    "Win": "Excitement is so lacking in my life. What will send my heart racing?",
+    "Loss": "Only battling lifts me from this idle existence of boredom and apathy..."
+  },
+  {
+    "Class": "Camper",
+    "Name": "Bernard",
+    "Sprite": "Camper_4_.png",
+    "Greeting": "I\u2019m glad to make your acquaintance! May this friendship be fruitful!",
+    "Win": "Thank you very much! Thank you so very much!",
+    "Loss": "Thank you very much... ...Pah."
+  },
+  {
+    "Class": "Camper",
+    "Name": "Herbert",
+    "Sprite": "Camper_4_.png",
+    "Greeting": "The most natural Trainer is... Oh, why hide it? None other than me!",
+    "Win": "This is the natural outcome. It was inevitable!",
+    "Loss": "I was battling naturally, and ended up with the loss."
+  },
+  {
+    "Class": "Camper",
+    "Name": "Colbert",
+    "Sprite": "Camper_4_.png",
+    "Greeting": "Yes! Not a grown-up! Lucky me! I stand a chance!",
+    "Win": "Yup, battling another kid is a lot less scary.",
+    "Loss": "I get really nervous in front of grown-ups."
+  },
+  {
+    "Class": "Picnicker",
+    "Name": "Maggy",
+    "Sprite": "Picnicker_5_.png",
+    "Greeting": "It\u2019s hard to keep the streak alive, but the battles are fun.",
+    "Win": "It\u2019s more fun to win, of course!",
+    "Loss": "Even losing is fun. It\u2019s the wonder of Pok\u00E9mon!"
+  },
+  {
+    "Class": "Picnicker",
+    "Name": "Melanie",
+    "Sprite": "Picnicker_5_.png",
+    "Greeting": "My daddy is a real mountain man. Does that make my mom a mountain woman?",
+    "Win": "Mountain woman sounds icky. Not for me, thank you!",
+    "Loss": "I\u2019m their daughter. Is being a mountain woman my destiny?"
+  },
+  {
+    "Class": "Picnicker",
+    "Name": "Ann",
+    "Sprite": "Picnicker_5_.png",
+    "Greeting": "I have a packed lunch all ready, and of course I have some snacks.",
+    "Win": "My favorite Pok\u00E9mon make winning so easy!",
+    "Loss": "Oh, no, no! I forgot to bring my favorite Pok\u00E9mon!"
+  },
+  {
+    "Class": "Tuber",
+    "Name": "Manford",
+    "Sprite": "Tuber_44_.png",
+    "Greeting": "I frolic with my water Pok\u00E9mon in a pool all the time.",
+    "Win": "It sure makes me happy winning with my Pok\u00E9mon favorites.",
+    "Loss": "I\u2019d love to swim in a pool full of water Pok\u00E9mon."
+  },
+  {
+    "Class": "Tuber",
+    "Name": "Hank",
+    "Sprite": "Tuber_44_.png",
+    "Greeting": "I promised Mommy I\u2019ll practice swimming if I lose.",
+    "Win": "Yay! I won\u2019t have to go to the pool with Mommy today!",
+    "Loss": "Aww, I lost. Now I\u2019ll have to go to swimming practice today."
+  },
+  {
+    "Class": "Tuber",
+    "Name": "Percy",
+    "Sprite": "Tuber_44_.png",
+    "Greeting": "I went and caught my Pok\u00E9mon with my daddy.",
+    "Win": "I won, Daddy! Daddy, thank you!",
+    "Loss": "I wonder if Daddy will show me how to train my Pok\u00E9mon next?"
+  },
+  {
+    "Class": "Tuber",
+    "Name": "Dakota",
+    "Sprite": "Tuber_45_.png",
+    "Greeting": "I\u2019m on the way home from the pool, but OK, I can battle.",
+    "Win": "I hope I can go home soon. I need some dry clothes!",
+    "Loss": "Ah-ah-atchoo! Aww... Atchoo! We lost..."
+  },
+  {
+    "Class": "Tuber",
+    "Name": "Jenny",
+    "Sprite": "Tuber_45_.png",
+    "Greeting": "I\u2019m the captain of a heroic vessel among the crashing waves of a storm!",
+    "Win": "Made it to shore with the ease of a real swashbuckler!",
+    "Loss": "That was a bigger crash than I wanted!"
+  },
+  {
+    "Class": "Tuber",
+    "Name": "Tia",
+    "Sprite": "Tuber_45_.png",
+    "Greeting": "I just now got back from my vacation.",
+    "Win": "The beach is a good place to show off.",
+    "Loss": "Ooh, my sunburn is itching."
+  },
+  {
+    "Class": "Guitarist",
+    "Name": "Malcolm",
+    "Sprite": "Guitarist_52_.png",
+    "Greeting": "Hunh? A battle, is that it? Sure thing, sure thing.",
+    "Win": "Hey, you\u2019re something special, huh?",
+    "Loss": "Yeah, thanks for your time."
+  },
+  {
+    "Class": "Guitarist",
+    "Name": "Tad",
+    "Sprite": "Guitarist_52_.png",
+    "Greeting": "This is going out to all the ladies. Babes, I sing and battle for you!",
+    "Win": "My ladies, my babes, I won for you. Your love is my power, right?",
+    "Loss": "I lost, but my love for the babes can\u2019t be beat...maybe."
+  },
+  {
+    "Class": "Guitarist",
+    "Name": "Concord",
+    "Sprite": "Guitarist_52_.png",
+    "Greeting": "This is no guitar I have here. It\u2019s traditional and Japanese.",
+    "Win": "It has only three strings. Can you tell what this is?",
+    "Loss": "My instrument is called a shamisen."
+  },
+  {
+    "Class": "Idol",
+    "Name": "Penny",
+    "Sprite": "Idol_85_.png",
+    "Greeting": "We teen Idols have a secret code of conduct that\u2019s strictly enforced.",
+    "Win": "For example, if an Idol wins, she has to squeal and jump around.",
+    "Loss": "If an Idol loses, she must never act angry. That\u2019s a big no-no."
+  },
+  {
+    "Class": "Idol",
+    "Name": "Lana",
+    "Sprite": "Idol_85_.png",
+    "Greeting": "Do the monster Meteor Mash! It\u2019s my catchphrase!",
+    "Win": "My Meteor Mash goes to your heart!",
+    "Loss": "All Idols need a catchphrase, especially right after their debut."
+  },
+  {
+    "Class": "Idol",
+    "Name": "Crimson",
+    "Sprite": "Idol_85_.png",
+    "Greeting": "You\u2019re ever so lucky to get the chance to battle with me.",
+    "Win": "You\u2019re super lucky to even battle an Idol like me. Don\u2019t you get it?",
+    "Loss": "Huh? Huh? Now, why did you win? You know I\u2019m supposed to win!"
+  },
+  {
+    "Class": "Pok\u00E9fan",
+    "Name": "Ewan",
+    "Sprite": "Pok\u00E9fan_21_.png",
+    "Greeting": "Krink... Krak... Heheheh. Let me limber up for this.",
+    "Win": "Hah! Weak, even for a joke!",
+    "Loss": "Gnnrrr... I have only myself to blame..."
+  },
+  {
+    "Class": "Pok\u00E9fan",
+    "Name": "Kane",
+    "Sprite": "Pok\u00E9fan_21_.png",
+    "Greeting": "Aren\u2019t they pretty? Adorable? They\u2019re my beloved Pok\u00E9mon.",
+    "Win": "You worked so hard! I\u2019ll give you a nice massage at home.",
+    "Loss": "What are you doing to my Pok\u00E9mon?! What if you hurt them?!"
+  },
+  {
+    "Class": "Pok\u00E9fan",
+    "Name": "Theo",
+    "Sprite": "Pok\u00E9fan_21_.png",
+    "Greeting": "I come before you as a member of the Pok\u00E9mon Fan Club! En garde!",
+    "Win": "Long live the Pok\u00E9mon Fan Club! May it always be glorious!",
+    "Loss": "This is hardly a taste of what the Pok\u00E9mon Fan Club can bring down..."
+  },
+  {
+    "Class": "Pok\u00E9fan",
+    "Name": "Alexia",
+    "Sprite": "Pok\u00E9fan_20_.png",
+    "Greeting": "Fan Club Department Manager... I hereby accept your challenge.",
+    "Win": "Heheh... Honestly, you thought you stood a chance against the Fan Club?",
+    "Loss": "Gwah! I will be avenged... B-by the Division Manager..."
+  },
+  {
+    "Class": "Pok\u00E9fan",
+    "Name": "Luna",
+    "Sprite": "Pok\u00E9fan_20_.png",
+    "Greeting": "Raising Pok\u00E9mon with love isn\u2019t the same as coddling them. Don\u2019t you see?",
+    "Win": "Ooh, you did it! Oh, I love you so! My luvly, wuvly Pok\u00E9mon!",
+    "Loss": "How could you?! What if my Pok\u00E9mon are injured?!"
+  },
+  {
+    "Class": "Pok\u00E9fan",
+    "Name": "Celene",
+    "Sprite": "Pok\u00E9fan_20_.png",
+    "Greeting": "On behalf of my village, I take on this challenge!",
+    "Win": "Thank you, everyone! Thank you for your vocal support!",
+    "Loss": "Fellow villagers, I\u2019m sorry! My best wasn\u2019t enough!"
+  },
+  {
+    "Class": "Waiter",
+    "Name": "Cyan",
+    "Sprite": "Waiter_81_.png",
+    "Greeting": "Thank you for your patience. Here is the battle you\u2019d ordered.",
+    "Win": "I trust you were satisfied? I feel shortchanged somewhat.",
+    "Loss": "I trust you were satisfied? I\u2019ve had my fill."
+  },
+  {
+    "Class": "Waiter",
+    "Name": "Indigo",
+    "Sprite": "Waiter_81_.png",
+    "Greeting": "Work is fun, and Pok\u00E9mon also. I am happy I come to this country.",
+    "Win": "Having fun I am! I hoping to live here forever.",
+    "Loss": "Oh, why you beat me? So mean! I want go home to my country."
+  },
+  {
+    "Class": "Waiter",
+    "Name": "Orin",
+    "Sprite": "Waiter_81_.png",
+    "Greeting": "I\u2019m cool, right? So, everywhere I work, they make me the maitre d\u2019...",
+    "Win": "I\u2019m a good battler, too. I can\u2019t help it that the ladies fall for me.",
+    "Loss": "I dream of evolving from a maitre d\u2019 to a celebrity chef."
+  },
+  {
+    "Class": "Waitress",
+    "Name": "Ashley",
+    "Sprite": "Waitress_26_.png",
+    "Greeting": "There are no free deals on a battle. You\u2019ll get the full course, though.",
+    "Win": "Where\u2019s the fun if you don\u2019t battle like you mean it?",
+    "Loss": "I take work and play seriously. That\u2019s what sparks my passion!"
+  },
+  {
+    "Class": "Waitress",
+    "Name": "Noelle",
+    "Sprite": "Waitress_26_.png",
+    "Greeting": "Hi, may I interest you in a meal combo? ...I\u2019m so used to saying that at work!",
+    "Win": "Thank you, and have a great day! ...What am I saying?",
+    "Loss": "We look forward to your next visit! ...What am I thinking?"
+  },
+  {
+    "Class": "Waitress",
+    "Name": "Kandace",
+    "Sprite": "Waitress_26_.png",
+    "Greeting": "Your team looks impressive. Will I be OK...?",
+    "Win": "Oh, what? Are those Pok\u00E9mon only for Contests?",
+    "Loss": "Ouch! I said ouch! It was too much! Way, way too much!"
+  },
+  {
+    "Class": "Bug Catcher",
+    "Name": "Floyd",
+    "Sprite": "Bug Catcher_6_.png",
+    "Greeting": "I love bug Pok\u00E9mon! I love my bug net even more!",
+    "Win": "I caught my Pok\u00E9mon using my trusty bug net.",
+    "Loss": "It\u2019d be cool if there was a bug net Pok\u00E9mon."
+  },
+  {
+    "Class": "Bug Catcher",
+    "Name": "Hoffman",
+    "Sprite": "Bug Catcher_6_.png",
+    "Greeting": "The bugs are my minions, and I\u2019m the boss. Are you prepared to lose?",
+    "Win": "Wahaha! Well done, my minions!",
+    "Loss": "We were mowed down... My minions have learned the hard way!"
+  },
+  {
+    "Class": "Bug Catcher",
+    "Name": "Amadeus",
+    "Sprite": "Bug Catcher_6_.png",
+    "Greeting": "I\u2019m breaking out of my shell! I\u2019m taking it to the next level!",
+    "Win": "It\u2019s like I\u2019ve sprouted wings! Viva to the new me!",
+    "Loss": "Is it not my time yet? Do I need to stay in my shell longer?"
+  },
+  {
+    "Class": "Ninja Boy",
+    "Name": "Shia",
+    "Sprite": "Ninja Boy_28_.png",
+    "Greeting": "You transgressor! Hold still, I say!",
+    "Win": "I willed myself to victory!",
+    "Loss": "C-curses... I\u2019ve brought dishonor on us..."
+  },
+  {
+    "Class": "Ninja Boy",
+    "Name": "Vincent",
+    "Sprite": "Ninja Boy_28_.png",
+    "Greeting": "Hey, hey, what\u2019s that over there? It\u2019s... It\u2019s a legendary Pok\u00E9mon!",
+    "Win": "Kekeke... Ninjutsu misdirection! It worked to perfection!",
+    "Loss": "Ninjutsu misdirection was a failure! I\u2019ll disappear in a puff of smoke!"
+  },
+  {
+    "Class": "Ninja Boy",
+    "Name": "Pierre",
+    "Sprite": "Ninja Boy_28_.png",
+    "Greeting": "You\u2019ll be befuddled by my dazzling speed!",
+    "Win": "Your movements... It\u2019s as if you\u2019re moving in molasses.",
+    "Loss": "I didn\u2019t need to do all that dashing around, did I?"
+  },
+  {
+    "Class": "Pok\u00E9 Kid",
+    "Name": "Alice",
+    "Sprite": "Pok\u00E9 Kid_22_.png",
+    "Greeting": "I\u2019ve been wearing these clothes for a long time. Bathing is for the birds!",
+    "Win": "Changing clothes takes too much effort. Taking a bath is even worse!",
+    "Loss": "No, no, no! I won\u2019t take a bath!"
+  },
+  {
+    "Class": "Pok\u00E9 Kid",
+    "Name": "Anita",
+    "Sprite": "Pok\u00E9 Kid_22_.png",
+    "Greeting": "I like my mommy, PIKACHU, and my daddy, too.",
+    "Win": "A weak Trainer isn\u2019t cool. I don\u2019t like you.",
+    "Loss": "A not-wimpy Trainer is cool. I like you."
+  },
+  {
+    "Class": "Pok\u00E9 Kid",
+    "Name": "Allison",
+    "Sprite": "Pok\u00E9 Kid_22_.png",
+    "Greeting": "Pikapika pikaah! Pikka! Pikachuuuh!",
+    "Win": "Piika pikapikka! Pikka pikkachuuh!",
+    "Loss": "Pikka ppi pi piii..."
+  },
+  {
+    "Class": "Fisherman",
+    "Name": "Kiefer",
+    "Sprite": "Fisherman_11_.png",
+    "Greeting": "When I enter battle, I picture the vast sea in my mind.",
+    "Win": "When I can envision the sea, I feel as if I could never lose.",
+    "Loss": "When I envision the sea, I don\u2019t feel the sting of defeat."
+  },
+  {
+    "Class": "Fisherman",
+    "Name": "Basil",
+    "Sprite": "Fisherman_11_.png",
+    "Greeting": "In battle and in love, one needs to know when it is best to back off.",
+    "Win": "After all, both battle and romance can become quagmires of despair.",
+    "Loss": "I may have lost, but I said something deep, in an endless bog kind of way."
+  },
+  {
+    "Class": "Ruin Maniac",
+    "Name": "Henrik",
+    "Sprite": "Ruin Maniac_48_.png",
+    "Greeting": "I\u2019m afraid I got cursed on our last exploration of ancient ruins. Ehehe.",
+    "Win": "Even just now, I have no idea how I won. Heeheehee.",
+    "Loss": "I may be cursed, but this is fun. It is all so very good. Heeheehee."
+  },
+  {
+    "Class": "Ruin Maniac",
+    "Name": "Aubry",
+    "Sprite": "Ruin Maniac_48_.png",
+    "Greeting": "Seeing buildings and towns from the old ages sends my pulse racing.",
+    "Win": "People interested in old architecture are potential Ruin Maniacs.",
+    "Loss": "Open your eyes in towns. There will be exciting new discoveries. I mean it."
+  },
+  {
+    "Class": "Collector",
+    "Name": "Upton",
+    "Sprite": "Collector_37_.png",
+    "Greeting": "I put this team together with my Internet buddies. It took us all day!",
+    "Win": "We won! I need to thank my Internet buddies for their advice!",
+    "Loss": "Aww, darn it! We lost?! I\u2019ll report it to my Internet buddies!"
+  },
+  {
+    "Class": "Collector",
+    "Name": "Emil",
+    "Sprite": "Collector_37_.png",
+    "Greeting": "I\u2019m the main character of this story. It\u2019s impossible for me to lose.",
+    "Win": "You\u2019re good! Though, as a supporting character, you\u2019re a bit too strong.",
+    "Loss": "...The hero has to suffer a bit so the audience feels more empathy."
+  },
+  {
+    "Class": "Parasol Lady",
+    "Name": "Bridget",
+    "Sprite": "Parasol Lady_80_.png",
+    "Greeting": "I\u2019m very fickle. I can\u2019t stick with any one thing for very long.",
+    "Win": "I won, and it\u2019s enough for me. I\u2019m going to check out the Wi-Fi Plaza.",
+    "Loss": "I lost, so that\u2019s enough. I\u2019ll go to the Safari Zone."
+  },
+  {
+    "Class": "Parasol Lady",
+    "Name": "Blanche",
+    "Sprite": "Parasol Lady_80_.png",
+    "Greeting": "I have a ton more experience than you. What will you do about it?",
+    "Win": "Not bad, but you need more maturing.",
+    "Loss": "Experience alone doesn\u2019t ensure any wins, I\u2019m learning."
+  },
+  {
+    "Class": "Parasol Lady",
+    "Name": "Colette",
+    "Sprite": "Parasol Lady_80_.png",
+    "Greeting": "Don\u2019t you think Pok\u00E9mon battles are a lot like the weather?",
+    "Win": "Winning makes me feel warm and cheerful like a sunny day.",
+    "Loss": "Losing makes me sad like a dreary, cloudy day."
+  },
+  {
+    "Class": "Beauty",
+    "Name": "Tiffany",
+    "Sprite": "Beauty_36_.png",
+    "Greeting": "I was out all night at a party again. I\u2019m feeling dizzy from playing games!",
+    "Win": "I\u2019m so bored of fancy parties and silly games, too.",
+    "Loss": "Urp...!"
+  },
+  {
+    "Class": "Beauty",
+    "Name": "Britney",
+    "Sprite": "Beauty_36_.png",
+    "Greeting": "Ooh, aren\u2019t you the most darling thing! Can you win a smile from me?",
+    "Win": "Ooh, sweetie, I win, so no smile! Be sure to win next time!",
+    "Loss": "I don\u2019t feel like smiling now...but I\u2019ll be happy to wave good-bye!"
+  },
+  {
+    "Class": "Beauty",
+    "Name": "Harmony",
+    "Sprite": "Beauty_36_.png",
+    "Greeting": "...Oh, wait one second. I have to take this call.",
+    "Win": "Hi, yup... Yeah, battling... Uh-huh... Yup, I won... Well, duh... LOL...",
+    "Loss": "Hi, yup... Yes, just battled... Nope... Kid beat me... Uh-huh..."
+  },
+  {
+    "Class": "Aroma Lady",
+    "Name": "Lucy",
+    "Sprite": "Aroma Lady_7_.png",
+    "Greeting": "Snivel! Hnurrff! Snort! This hay fever is a wicked misery...",
+    "Win": "Hnurrff! Snivel! Snivel! Snivel! I won, but the misery continues!",
+    "Loss": "Sniffle. Snivel. Snort. I\u2019m not crying. My nose is running."
+  },
+  {
+    "Class": "Aroma Lady",
+    "Name": "Jackie",
+    "Sprite": "Aroma Lady_7_.png",
+    "Greeting": "My acute sense of smell tells me how tough a Trainer is.",
+    "Win": "Keep trying. My nose tells me you have great potential.",
+    "Loss": "Sniff, sniff... Snort! My nose tells me you\u2019ve been working hard!"
+  },
+  {
+    "Class": "Aroma Lady",
+    "Name": "Kara",
+    "Sprite": "Aroma Lady_7_.png",
+    "Greeting": "Kyahaha! I smell a powerful battle in the making!",
+    "Win": "The sweet smell of success!",
+    "Loss": "Defeat smells like a SKUNTANK!"
+  },
+  {
+    "Class": "Guitarist",
+    "Name": "Bernie",
+    "Sprite": "Guitarist_52_.png",
+    "Greeting": "I like hard, fast beats in my battling and my rock \u2019n\u2019 roll! Let\u2019s wail!",
+    "Win": "And, bam! That rhythm pattern ruled, if I may say so myself!",
+    "Loss": "Ouch! That\u2019s an insult to the ears! Those beats were offensive, man!"
+  },
+  {
+    "Class": "Guitarist",
+    "Name": "Curtis",
+    "Sprite": "Guitarist_52_.png",
+    "Greeting": "To show you how much this means to me, I\u2019ll use sound effects from now on.",
+    "Win": "Raaaah! Dun dun! Dun dun! Oompa-oompa-oompapa!",
+    "Loss": "Blip-bip, blip-bip... Blip... Bweeee..."
+  },
+  {
+    "Class": "Bird Keeper",
+    "Name": "Nancy",
+    "Sprite": "Bird Keeper_69_.png",
+    "Greeting": "Wait, please wait... The winds... I hear them...",
+    "Win": "I can hear them... The winds are laughing...",
+    "Loss": "I can hear them... The winds... They are in tears..."
+  },
+  {
+    "Class": "Bird Keeper",
+    "Name": "Trinity",
+    "Sprite": "Bird Keeper_69_.png",
+    "Greeting": "I can\u2019t fly... But these babies can soar...",
+    "Win": "My spirit has been uplifted to the skies... Thank you, everyone...",
+    "Loss": "You broke my wings... I won\u2019t ever forget you..."
+  },
+  {
+    "Class": "Bird Keeper",
+    "Name": "Shawna",
+    "Sprite": "Bird Keeper_69_.png",
+    "Greeting": "Every day, I\u2019m like a migratory bird, but I go in all cardinal directions.",
+    "Win": "I gained experience while traveling to all sorts of places.",
+    "Loss": "I\u2019d love to live somewhere where I can find other Trainers like you."
+  },
+  {
+    "Class": "Sailor",
+    "Name": "Layton",
+    "Sprite": "Sailor_46_.png",
+    "Greeting": "I was born unto rolling waves that washed me, with the beach, my cradle.",
+    "Win": "I was born and grew up on the seas. That\u2019s what made me the big man I am.",
+    "Loss": "I lost, did I? Time to go to the sea and stare inscrutably at it."
+  },
+  {
+    "Class": "Sailor",
+    "Name": "Godwin",
+    "Sprite": "Sailor_46_.png",
+    "Greeting": "Youths of today aim for the world! How\u2019s that for deep!",
+    "Win": "There\u2019d be some mighty cool Trainers around the world. I\u2019m sure of that.",
+    "Loss": "Go on, kid! Take on the world! I\u2019ll look forward to your return!"
+  },
+  {
+    "Class": "Hiker",
+    "Name": "Everett",
+    "Sprite": "Hiker_9_.png",
+    "Greeting": "What\u2019s that? I smell dusty? Don\u2019t you know the aroma of soil?",
+    "Win": "See, that\u2019s what you get! Your team had to eat dirt, get it?",
+    "Loss": "Dropped in the dirt by some kid who doesn\u2019t know the smell of soil!"
+  },
+  {
+    "Class": "Hiker",
+    "Name": "Raiden",
+    "Sprite": "Hiker_9_.png",
+    "Greeting": "Sorry for looking so scruffy and dirty. I\u2019ve been holed up in the mountains.",
+    "Win": "I wasn\u2019t really holed up, at least not on purpose. I was lost out there.",
+    "Loss": "It\u2019s better to be holed up in the mountains than in your room, I say."
+  },
+  {
+    "Class": "Idol",
+    "Name": "Ada",
+    "Sprite": "Idol_85_.png",
+    "Greeting": "I\u2019m not supposed to be here. Can we do this on the sly?",
+    "Win": "Even battling can draw attention. It\u2019s not easy being a pop star.",
+    "Loss": "Pop stars are ordinary girls at heart. We want to enjoy our Pok\u00E9mon, too!"
+  },
+  {
+    "Class": "Idol",
+    "Name": "Annie",
+    "Sprite": "Idol_85_.png",
+    "Greeting": "I\u2019m a self-made celebrity. Do you have a problem with that?",
+    "Win": "A celebrity is a celebrity, even if it\u2019s in my own mind.",
+    "Loss": "I want to be the center of attention, just me and only me."
+  },
+  {
+    "Class": "Idol",
+    "Name": "Basia",
+    "Sprite": "Idol_85_.png",
+    "Greeting": "I\u2019m facing retirement soon... I was never admired as an Idol.",
+    "Win": "I\u2019m going to shine as a star battler of Pok\u00E9mon!",
+    "Loss": "I would have liked to end my career with a win in this match..."
+  },
+  {
+    "Class": "Jogger",
+    "Name": "Steve",
+    "Sprite": "Jogger_19_.png",
+    "Greeting": "I think training Pok\u00E9mon shares a lot of similarities with a marathon. You agree?",
+    "Win": "There\u2019s meaning in sticking with your training regimen every day.",
+    "Loss": "If you don\u2019t pace yourself, you can\u2019t win."
+  },
+  {
+    "Class": "Jogger",
+    "Name": "Dave",
+    "Sprite": "Jogger_19_.png",
+    "Greeting": "Howdy! Let\u2019s keep it clean, fair, refreshing, and pleasant!",
+    "Win": "Whew, I feel invigorated! Pok\u00E9mon are the greatest!",
+    "Loss": "Uh, haha...ha... It actually feels kinda cleansing to be thrashed this badly."
+  },
+  {
+    "Class": "Worker",
+    "Name": "Shane",
+    "Sprite": "Worker_59_.png",
+    "Greeting": "It\u2019s the Workers of the world like us who keep the world going.",
+    "Win": "There are times we would like to lay down our tools and rest.",
+    "Loss": "Don\u2019t forget how Workers like us work for you."
+  },
+  {
+    "Class": "Worker",
+    "Name": "Benji",
+    "Sprite": "Worker_59_.png",
+    "Greeting": "My wife and boy are waiting on me back home. I can\u2019t afford to lose!",
+    "Win": "I\u2019m sorry, but I had to do this. You\u2019ll get tougher with a family behind you.",
+    "Loss": "Oh, no! How am I supposed to show my face around my dear wife and boy now?"
+  },
+  {
+    "Class": "Rancher",
+    "Name": "Pierce",
+    "Sprite": "Rancher_71_.png",
+    "Greeting": "Pok\u00E9mon are like family to me. ...Nah, they are family.",
+    "Win": "Yes! My family, you did it! We knocked off that mean Trainer!",
+    "Loss": "Fwaaaah! That\u2019s cruel! My family\u2019s hurting!"
+  },
+  {
+    "Class": "Rancher",
+    "Name": "Etienne",
+    "Sprite": "Rancher_71_.png",
+    "Greeting": "I was too lenient with my Pok\u00E9mon. They grew up all selfish on me.",
+    "Win": "Hey, now, enough. Stop attacking! The battle\u2019s long over already.",
+    "Loss": "Hey, now, the battle\u2019s over and done. No attacking the Trainer."
+  },
+  {
+    "Class": "Rancher",
+    "Name": "Leon",
+    "Sprite": "Rancher_71_.png",
+    "Greeting": "You, there. Don\u2019t look around now. Pay attention to me. Focus.",
+    "Win": "Kid, you\u2019re grossly underpowered. You ought to train with me.",
+    "Loss": "Oh, yeah. You\u2019re better than you look. I was wrong about you, kid."
+  },
+  {
+    "Class": "Cowgirl",
+    "Name": "Doris",
+    "Sprite": "Cowgirl_18_.png",
+    "Greeting": "Go, my Pok\u00E9mon. But don\u2019t strain yourselves.",
+    "Win": "Oh, wow, I like how tough everyone was. Our Pok\u00E9mon and you, yup.",
+    "Loss": "OK, nice try, gang. Thanks much for trying."
+  },
+  {
+    "Class": "Cowgirl",
+    "Name": "Paisley",
+    "Sprite": "Cowgirl_18_.png",
+    "Greeting": "My papa\u2019s dream... I\u2019m going to make it real.",
+    "Win": "Papa, did you see? We did it all for you...",
+    "Loss": "We lost... Papa, I am so sorry..."
+  },
+  {
+    "Class": "Cowgirl",
+    "Name": "Leslie",
+    "Sprite": "Cowgirl_18_.png",
+    "Greeting": "I\u2019d like to take a break. ...No? We have to begin right away?",
+    "Win": "Aww, see? You should have taken a break with me before.",
+    "Loss": "Ooh, aren\u2019t you a tough one? You should take breaks, though."
+  },
+  {
+    "Class": "Cameraman",
+    "Name": "Hudson",
+    "Sprite": "Cameraman_83_.png",
+    "Greeting": "Yes, yes, looking good! I need a smile now. Can you do that?",
+    "Win": "No, no, no. I need a smile from you. Let\u2019s see those teeth sparkle!",
+    "Loss": "Yes, that\u2019s a good smile! Now tilt your head toward me."
+  },
+  {
+    "Class": "Cameraman",
+    "Name": "Xenon",
+    "Sprite": "Cameraman_83_.png",
+    "Greeting": "You probably can\u2019t tell, but I can see right down to your pores.",
+    "Win": "Yes, I see it, indeed. I can see you clearly.",
+    "Loss": "I zoomed in on you too much. I couldn\u2019t see your Pok\u00E9mon."
+  },
+  {
+    "Class": "Cameraman",
+    "Name": "Amleth",
+    "Sprite": "Cameraman_83_.png",
+    "Greeting": "While battling, I\u2019ll keep looking for the best shot of you.",
+    "Win": "There! And there again! Decisive moments in time!",
+    "Loss": "Shots of me losing? Those get deleted immediately."
+  },
+  {
+    "Class": "Reporter",
+    "Name": "Dot",
+    "Sprite": "Reporter_84_.png",
+    "Greeting": "I\u2019ll be bringing you live coverage from my imminent battle!",
+    "Win": "Our intrepid and beautiful Reporter has carried the day! Go, me!",
+    "Loss": "Our intrepid and beautiful Reporter has gone down in defeat. Take pity on me!"
+  },
+  {
+    "Class": "Reporter",
+    "Name": "Marble",
+    "Sprite": "Reporter_84_.png",
+    "Greeting": "I hate admitting it, but I wanted to be an Idol, too.",
+    "Win": "I didn\u2019t want to lose to any Idol. That motivated me to train.",
+    "Loss": "This is crushing... I work so much harder than any silly Idol..."
+  },
+  {
+    "Class": "Reporter",
+    "Name": "Gingham",
+    "Sprite": "Reporter_84_.png",
+    "Greeting": "This microphone is what made me a star. It\u2019s my all and everything.",
+    "Win": "Even for a battle, I don\u2019t let this microphone leave my hand.",
+    "Loss": "...Thud. Bzzzzt..."
+  },
+  {
+    "Class": "Cyclist",
+    "Name": "Gaspar",
+    "Sprite": "Cyclist_13_.png",
+    "Greeting": "Hey, \u2019sup. I should warn you, I\u2019m right fast, Trainer. Hold on to your hat.",
+    "Win": "Trainer, from now on, you can start adding Mister to my name.",
+    "Loss": "Trainer, that was a real learning experience. Thank you, seriously."
+  },
+  {
+    "Class": "Cyclist",
+    "Name": "Ignatio",
+    "Sprite": "Cyclist_13_.png",
+    "Greeting": "This Bike has become an extension of my very being.",
+    "Win": "Any damage to my Bike, I feel the pain as if it were mine to bear.",
+    "Loss": "Please! I\u2019ll ask you to keep your filthy hands off my Bike."
+  },
+  {
+    "Class": "Cyclist",
+    "Name": "Kaylene",
+    "Sprite": "Cyclist_12_.png",
+    "Greeting": "When I was little, I hated cycling. I couldn\u2019t get the hang of it.",
+    "Win": "I love cycling now. I\u2019ve made many friends riding.",
+    "Loss": "Can you ride a Bike? It\u2019s healthy and a lot of fun."
+  },
+  {
+    "Class": "Cyclist",
+    "Name": "Kaya",
+    "Sprite": "Cyclist_12_.png",
+    "Greeting": "I\u2019ll ride toward the breaking dawn with you on my mind.",
+    "Win": "I will shift my gears higher and higher until I catch up to you...",
+    "Loss": "My tires have deflated, and so has my heart..."
+  },
+  {
+    "Class": "Black Belt",
+    "Name": "Clement",
+    "Sprite": "Black Belt_14_.png",
+    "Greeting": "Let the curtains rise on the festivities of muscles and Pok\u00E9mon!",
+    "Win": "Did you enjoy our demonstration of muscles and Pok\u00E9mon?",
+    "Loss": "Though I\u2019ve lost, my muscles and Pok\u00E9mon are seared into your mind."
+  },
+  {
+    "Class": "Black Belt",
+    "Name": "Mason",
+    "Sprite": "Black Belt_14_.png",
+    "Greeting": "They say I have fists of steel and the heart of a child.",
+    "Win": "Oh, yay! Yippee! I won, I won!",
+    "Loss": "Oh, boo! Boo! This stinks! I\u2019m not talking to you!"
+  },
+  {
+    "Class": "Battle Girl",
+    "Name": "Kodi",
+    "Sprite": "Battle Girl_10_.png",
+    "Greeting": "Hwoaaah... Hwoaaah...",
+    "Win": "Howatchah! Howaaatchaah!",
+    "Loss": "Fweeeh... Fweeehhh..."
+  },
+  {
+    "Class": "Battle Girl",
+    "Name": "Aileen",
+    "Sprite": "Battle Girl_10_.png",
+    "Greeting": "In my dictionary, there is no entry for \u201Crestraint.\u201D",
+    "Win": "The greatest show of respect among Trainers is to battle all out.",
+    "Loss": "I went all out and still lost. Of course it stings."
+  },
+  {
+    "Class": "Black Belt",
+    "Name": "Jericho",
+    "Sprite": "Black Belt_14_.png",
+    "Greeting": "A professional martial artist is in perpetual control of his body.",
+    "Win": "A martial artist must be more than strong. He must also be wise.",
+    "Loss": "Gah! I overdid my training and ran out of stamina early..."
+  },
+  {
+    "Class": "Black Belt",
+    "Name": "Harris",
+    "Sprite": "Black Belt_14_.png",
+    "Greeting": "When I close my eyes, I can picture you being defeated. Come on.",
+    "Win": "Why be sad? You knew this was coming.",
+    "Loss": "I berate myself for my own lack of care..."
+  },
+  {
+    "Class": "Black Belt",
+    "Name": "Soren",
+    "Sprite": "Black Belt_14_.png",
+    "Greeting": "I don\u2019t like to move much. I trained using the Net and TV.",
+    "Win": "Uhihi! I\u2019m a naturally talented pro at both karate and Pok\u00E9mon, I am.",
+    "Loss": "Oh, man, this is rotten! I\u2019m tired and hungry and want to go home!"
+  },
+  {
+    "Class": "Battle Girl",
+    "Name": "Trina",
+    "Sprite": "Battle Girl_10_.png",
+    "Greeting": "...To get this far, I had to make sacrifices. Many, many sacrifices.",
+    "Win": "It\u2019s for this one moment that I live.",
+    "Loss": "What else do I have to give up so I can beat you?"
+  },
+  {
+    "Class": "Battle Girl",
+    "Name": "Alta",
+    "Sprite": "Battle Girl_10_.png",
+    "Greeting": "First, let\u2019s battle. Talking can wait.",
+    "Win": "That wasn\u2019t bad at all, yup. That goes for you and your Pok\u00E9mon.",
+    "Loss": "You\u2019re a tough one, yup. Where do you do your training?"
+  },
+  {
+    "Class": "Battle Girl",
+    "Name": "Ingrid",
+    "Sprite": "Battle Girl_10_.png",
+    "Greeting": "Cute little Trainer! We\u2019ll squash you flat.",
+    "Win": "Eheh! You\u2019re so cute when you look angry and frustrated!",
+    "Loss": "What do you think you\u2019re doing? I hate to lose, I\u2019ll have you know!"
+  },
+  {
+    "Class": "Veteran",
+    "Name": "Beck",
+    "Sprite": "Veteran_27_.png",
+    "Greeting": "My precious Pok\u00E9mon will set you right!",
+    "Win": "My Pok\u00E9mon have no flaws that you can exploit!",
+    "Loss": "I apologize, my dear Pok\u00E9mon... I was caught unprepared..."
+  },
+  {
+    "Class": "Veteran",
+    "Name": "Eric",
+    "Sprite": "Veteran_27_.png",
+    "Greeting": "Fwo-fwo-fwo. Youngster, what\u2019s most important is to never give up.",
+    "Win": "If you give up, that\u2019s it. The game\u2019s over.",
+    "Loss": "Fwo-fwo-fwo. You\u2019re an admirable Trainer already."
+  },
+  {
+    "Class": "Veteran",
+    "Name": "Padgett",
+    "Sprite": "Veteran_27_.png",
+    "Greeting": "I can tell by the way you look, you\u2019re quite taken with my dandy style!",
+    "Win": "You shouldn\u2019t be so mesmerized by me. Like a MOTHIM drawn to a flame!",
+    "Loss": "Oh, you\u2019re not interested in me? You\u2019re just SHELLOS, if I say so myself."
+  },
+  {
+    "Class": "Socialite",
+    "Name": "Barbara",
+    "Sprite": "Socialite_35_.png",
+    "Greeting": "Oh, hello, aren\u2019t you a sweetie! Are you sure you\u2019re up to this?",
+    "Win": "Oh, now, please don\u2019t cry. You should be proud of yourself, dear.",
+    "Loss": "Oh, my... You\u2019re quite the capable practitioner of the art."
+  },
+  {
+    "Class": "Socialite",
+    "Name": "Isabel",
+    "Sprite": "Socialite_35_.png",
+    "Greeting": "You and your Pok\u00E9mon could use an obedience lesson from me.",
+    "Win": "This isn\u2019t over until I say. Once more.",
+    "Loss": "You defy me? How very amusing."
+  },
+  {
+    "Class": "Socialite",
+    "Name": "Carmen",
+    "Sprite": "Socialite_35_.png",
+    "Greeting": "Over the years, I\u2019ve crossed paths with many a Trainer.",
+    "Win": "They were all wonderful Trainers in their own way. All fond memories now...",
+    "Loss": "You\u2019re one among those many Trainers. I\u2019m sorry I wasn\u2019t younger."
+  },
+  {
+    "Class": "Psychic",
+    "Name": "Alpha",
+    "Sprite": "Psychic_49_.png",
+    "Greeting": "I am a Psychic, though I may not look like one. I\u2019ll do something psychic.",
+    "Win": "I didn\u2019t use any psychic power to win. No, really.",
+    "Loss": "Did you notice? I was levitating while I was in battle with you."
+  },
+  {
+    "Class": "Psychic",
+    "Name": "Beta",
+    "Sprite": "Psychic_49_.png",
+    "Greeting": "Fwazzam! So! You are my next victim!",
+    "Win": "Fwazzam! Have you no spine?!",
+    "Loss": "Fwizzle... Don\u2019t think there will be a next time!"
+  },
+  {
+    "Class": "Psychic",
+    "Name": "Essie",
+    "Sprite": "Psychic_49_.png",
+    "Greeting": "I can use psychic power, but I prefer ordinary sleight-of-hand magic tricks.",
+    "Win": "It\u2019s my opinion that psychic power should be left to the Pok\u00E9mon.",
+    "Loss": "I\u2019m a Psychic, but I\u2019m also a student of a magician\u2019s school."
+  },
+  {
+    "Class": "Psychic",
+    "Name": "Amelia",
+    "Sprite": "Psychic_50_.png",
+    "Greeting": "In the next few minutes, you will learn true terror at my hands!",
+    "Win": "Hah! Too weak! Too weak! What pitiful resistance!",
+    "Loss": "Noooo! I cannot lose!"
+  },
+  {
+    "Class": "Psychic",
+    "Name": "Celine",
+    "Sprite": "Psychic_50_.png",
+    "Greeting": "I see what I have no right seeing... Like there. Behind you.",
+    "Win": "Oh? You can\u2019t see it? Then, you\u2019re fortunate. Giggle...",
+    "Loss": "I wouldn\u2019t ask about what I see. It\u2019s better not to know. Really."
+  },
+  {
+    "Class": "Psychic",
+    "Name": "Jillian",
+    "Sprite": "Psychic_50_.png",
+    "Greeting": "The great unseeable power... I beseech you for help...",
+    "Win": "Oh, great unseeable power... I thank you for coming to my aid...",
+    "Loss": "Oh... Great unseeable power... Why have you forsaken me..."
+  },
+  {
+    "Class": "Pok\u00E9mon Breeder",
+    "Name": "Howard",
+    "Sprite": "Pok\u00E9mon Breeder_17_.png",
+    "Greeting": "Why do I raise Pok\u00E9mon? Because they are there!",
+    "Win": "I think I said something deep and cool! Didn\u2019t I?",
+    "Loss": "That\u2019s no reason at all? That\u2019s the reason in itself!"
+  },
+  {
+    "Class": "Pok\u00E9mon Breeder",
+    "Name": "Derrell",
+    "Sprite": "Pok\u00E9mon Breeder_17_.png",
+    "Greeting": "My team has been raised with care. I have absolute confidence in them.",
+    "Win": "You should pay closer attention to the unique aspects of your Pok\u00E9mon.",
+    "Loss": "How did you find my Pok\u00E9mon? Did you notice their significance?"
+  },
+  {
+    "Class": "Pok\u00E9mon Breeder",
+    "Name": "Baldwin",
+    "Sprite": "Pok\u00E9mon Breeder_17_.png",
+    "Greeting": "Everyone, it\u2019s showtime! Get out and do some clobbering!",
+    "Win": "Oh, bravo! Nicely won!",
+    "Loss": "Arrgh! How humiliating! Quick! Out of the spotlight!"
+  },
+  {
+    "Class": "Pok\u00E9mon Breeder",
+    "Name": "Adriana",
+    "Sprite": "Pok\u00E9mon Breeder_16_.png",
+    "Greeting": "I love raising Pok\u00E9mon. It\u2019s what I live for!",
+    "Win": "Seeing them try so hard to please... It\u2019s so unbearably adorable.",
+    "Loss": "Don\u2019t you dare do that again!"
+  },
+  {
+    "Class": "Pok\u00E9mon Breeder",
+    "Name": "Sonya",
+    "Sprite": "Pok\u00E9mon Breeder_16_.png",
+    "Greeting": "I\u2019ve been devising ways of raising tough Pok\u00E9mon from the genetic level.",
+    "Win": "You can\u2019t overlook the role of knowledge in raising tough Pok\u00E9mon.",
+    "Loss": "I need to study and understand what genetics is about first."
+  },
+  {
+    "Class": "Pok\u00E9mon Breeder",
+    "Name": "Tatyana",
+    "Sprite": "Pok\u00E9mon Breeder_16_.png",
+    "Greeting": "Raise them with love, and Pok\u00E9mon will answer in kind. Probably.",
+    "Win": "They responded to my love. Probably.",
+    "Loss": "You\u2019re raising your Pok\u00E9mon with a lot of love. I think."
+  },
+  {
+    "Class": "Gentleman",
+    "Name": "Zante",
+    "Sprite": "Gentleman_34_.png",
+    "Greeting": "I believe I will approach this battle from the perspective of a newborn.",
+    "Win": "Abuboo dah.",
+    "Loss": "Ababaa. Manmaa."
+  },
+  {
+    "Class": "Gentleman",
+    "Name": "Giliam",
+    "Sprite": "Gentleman_34_.png",
+    "Greeting": "If you prevail, I\u2019ll recount to you a tale from my youth.",
+    "Win": "Seeing you brings back a flood of memories. Ah, yes, indeed...",
+    "Loss": "...Hm? I seem to have forgotten..."
+  },
+  {
+    "Class": "Roughneck",
+    "Name": "Rodney",
+    "Sprite": "Roughneck_57_.png",
+    "Greeting": "There\u2019s no end to either adolescence or Pok\u00E9mon.",
+    "Win": "See ya! That was fun! Enjoy your youth!",
+    "Loss": "I\u2019m still a dreamer. A precious, unspoiled snowflake..."
+  },
+  {
+    "Class": "Roughneck",
+    "Name": "Rainier",
+    "Sprite": "Roughneck_57_.png",
+    "Greeting": "Daddy... Mommy... Can you hear me? Please watch over me...",
+    "Win": "Daddy... Mommy... Did you see? I won, and it\u2019s all for you...",
+    "Loss": "Oh... Daddy... Mommy... I couldn\u2019t win..."
+  },
+  {
+    "Class": "Scientist",
+    "Name": "Jean",
+    "Sprite": "Scientist_113_.png",
+    "Greeting": "Finally... The time has come to put the fruits of my research to the test...",
+    "Win": "Success... Sacrificing my youth was worthwhile.",
+    "Loss": "No! Nooooooo! Give me back my youth!"
+  },
+  {
+    "Class": "Scientist",
+    "Name": "Brad",
+    "Sprite": "Scientist_113_.png",
+    "Greeting": "I developed a special Pok\u00E9mon drink. Have some! Bottoms up!",
+    "Win": "Glug, glug... Belch! It\u2019ll make you strong! Don\u2019t waste it!",
+    "Loss": "My Pok\u00E9mon drink contains no actual Pok\u00E9mon or their byproducts."
+  },
+  {
+    "Class": "Clown",
+    "Name": "Francis",
+    "Sprite": "Clown_58_.png",
+    "Greeting": "An analogy for battling is... I\u2019d say a bachelor guy.",
+    "Win": "Heheh, do you get it? I doubt you\u2019d get it. No one does.",
+    "Loss": "Do you get what I\u2019m saying? I doubt you\u2019d get it. No one ever does."
+  },
+  {
+    "Class": "Clown",
+    "Name": "Prescot",
+    "Sprite": "Clown_58_.png",
+    "Greeting": "Myself, I have been born, raised, and spent my life under a circus tent.",
+    "Win": "My Pok\u00E9mon, too. They were born and raised under a circus tent.",
+    "Loss": "The outside world is so very cruel... We shall return to our circus tent."
+  },
+  {
+    "Class": "Ace Trainer",
+    "Name": "Yardley",
+    "Sprite": "Ace Trainer_53_.png",
+    "Greeting": "Oi, you! Yeah, you! Snap to it! I\u2019ll be training you!",
+    "Win": "What?! You\u2019re down and out already?! This is no bed! Get up!",
+    "Loss": "Good! Enough! That will do for today!"
+  },
+  {
+    "Class": "Ace Trainer",
+    "Name": "Stavros",
+    "Sprite": "Ace Trainer_53_.png",
+    "Greeting": "Fwah? You mean to challenge me?",
+    "Win": "Fwahaha! I win! Better luck next time, punk!",
+    "Loss": "Fwaah?! You defeated me? Who are you to do that?!"
+  },
+  {
+    "Class": "Ace Trainer",
+    "Name": "Zane",
+    "Sprite": "Ace Trainer_53_.png",
+    "Greeting": "Ooh, it gives me shivers... I live for this moment.",
+    "Win": "Oh, yeah... That\u2019s it... Perfection doesn\u2019t come better...",
+    "Loss": "It\u2019s gotten so I can\u2019t live without battling anymore."
+  },
+  {
+    "Class": "Ace Trainer",
+    "Name": "Kim",
+    "Sprite": "Ace Trainer_54_.png",
+    "Greeting": "OK! I\u2019m going to do it! I\u2019m going to show you my best!",
+    "Win": "Gasp, gasp...",
+    "Loss": "Never again! You can forget about a next time!"
+  },
+  {
+    "Class": "Ace Trainer",
+    "Name": "Macy",
+    "Sprite": "Ace Trainer_54_.png",
+    "Greeting": "Um... I\u2019m honestly quite tough. Please keep up.",
+    "Win": "I\u2019m sorry. I don\u2019t think you measure up after all.",
+    "Loss": "I\u2019m amazed. I didn\u2019t think you\u2019d win..."
+  },
+  {
+    "Class": "Ace Trainer",
+    "Name": "Faun",
+    "Sprite": "Ace Trainer_54_.png",
+    "Greeting": "Let\u2019s go, me! Go, me, go! Don\u2019t lose, don\u2019t lose, rah, rah, rah!",
+    "Win": "Way to go, me! I\u2019m so wonderful! Rah, rah, rah! Gooooooo, me!",
+    "Loss": "It\u2019s OK, me! Don\u2019t cry! Don\u2019t cry! Go home, go home, goooooo!"
+  },
+  {
+    "Class": "Pok\u00E9mon Ranger",
+    "Name": "Doyle",
+    "Sprite": "Pok\u00E9mon Ranger_39_.png",
+    "Greeting": "Woohoo! Here comes a cool Trainer! Let\u2019s see what you can bring!",
+    "Win": "Yes! Bravo! You have some good attacks, Trainer!",
+    "Loss": "Whaaaaat?! Nooooo! I can\u2019t get over how tough you are!"
+  },
+  {
+    "Class": "Pok\u00E9mon Ranger",
+    "Name": "Duke",
+    "Sprite": "Pok\u00E9mon Ranger_39_.png",
+    "Greeting": "To serve and protect Pok\u00E9mon and nature. That\u2019s my mission!",
+    "Win": "My skills I developed in the embrace of Mother Nature!",
+    "Loss": "My mission needs me! This is where we bid good-bye!"
+  },
+  {
+    "Class": "Pok\u00E9mon Ranger",
+    "Name": "Deacon",
+    "Sprite": "Pok\u00E9mon Ranger_39_.png",
+    "Greeting": "Never fear, this Pok\u00E9mon Ranger is here to protect my own personal peace!",
+    "Win": "My personal peace has been protected!",
+    "Loss": "You vile Trainer, you! You\u2019ve shattered my peace!"
+  },
+  {
+    "Class": "Pok\u00E9mon Ranger",
+    "Name": "Mena",
+    "Sprite": "Pok\u00E9mon Ranger_40_.png",
+    "Greeting": "Any bad kids littering the fields? Any bad kids fouling the sea?",
+    "Win": "Be sure to sort your recyclables from the trash when you\u2019re throwing it out!",
+    "Loss": "Trash is like a battle. Don\u2019t be too quick to throw it!"
+  },
+  {
+    "Class": "Pok\u00E9mon Ranger",
+    "Name": "Mercy",
+    "Sprite": "Pok\u00E9mon Ranger_40_.png",
+    "Greeting": "Watch me, darling! I\u2019m putting my best into this!",
+    "Win": "See, darling? Did you see? I put in my best effort for you.",
+    "Loss": "I can\u2019t have my darling see me like this. How pathetic I must look..."
+  },
+  {
+    "Class": "Pok\u00E9mon Ranger",
+    "Name": "Evita",
+    "Sprite": "Pok\u00E9mon Ranger_40_.png",
+    "Greeting": "So, I lead with this... Then, counter... Ugh, I can\u2019t get our strategy right!",
+    "Win": "To overanalyze can be a bad thing, I guess.",
+    "Loss": "Waaah! Couldn\u2019t you have waited? Until I\u2019m ready at least?"
+  },
+  {
+    "Class": "Dragon Tamer",
+    "Name": "Harold",
+    "Sprite": "Dragon Tamer_29_.png",
+    "Greeting": "How do you like my cape? I had it specially made!",
+    "Win": "What is my cape made of? I\u2019m afraid I can\u2019t tell you.",
+    "Loss": "Rip... Riiiiiiiiiiiipppppp! ...What?! My cape! Waaaaah!"
+  },
+  {
+    "Class": "Dragon Tamer",
+    "Name": "Herman",
+    "Sprite": "Dragon Tamer_29_.png",
+    "Greeting": "Do you know what real terror is? I am familiar with it. Intimately so...",
+    "Win": "You learned something today, yes? The true meaning of terror.",
+    "Loss": "Aiyeeh! What\u2019s with you? I\u2019m pleading for mercy here!"
+  },
+  {
+    "Class": "Dragon Tamer",
+    "Name": "Emmett",
+    "Sprite": "Dragon Tamer_29_.png",
+    "Greeting": "See it! Hear it! Smell it! Marvel at my power!",
+    "Win": "That\u2019s right! Use all your senses and realize what you were up against!",
+    "Loss": "I didn\u2019t see anything! I\u2019m not listening! And I don\u2019t smell a thing!"
+  },
+  {
+    "Class": "Dragon Tamer",
+    "Name": "Erich",
+    "Sprite": "Dragon Tamer_29_.png",
+    "Greeting": "Unluckily for you, your winning streak ends with me.",
+    "Win": "You lost to me, but you\u2019re still on your feet. Kudos to you!",
+    "Loss": "This can\u2019t be. I won\u2019t accept it. There has to be a mistake somewhere."
+  },
+  {
+    "Class": "Ace Trainer",
+    "Name": "Garvey",
+    "Sprite": "Ace Trainer_53_.png",
+    "Greeting": "I c-c-can\u2019t stop shivering. B-but this is a b-battle. I have to.",
+    "Win": "Urrff... Ch-chatter... I won, I won...",
+    "Loss": "Sh-shiver... Urf... My eyelids are getting droopy..."
+  },
+  {
+    "Class": "Ace Trainer",
+    "Name": "Cruz",
+    "Sprite": "Ace Trainer_53_.png",
+    "Greeting": "I\u2019ll say good-bye to you now. Battles always end in tears.",
+    "Win": "Fweeeeh! My tears of joy flow freely!",
+    "Loss": "Fweeeeh! My tears of anguish flow freely!"
+  },
+  {
+    "Class": "Ace Trainer",
+    "Name": "Pamela",
+    "Sprite": "Ace Trainer_54_.png",
+    "Greeting": "How amusing! You came here knowing of your certain defeat?",
+    "Win": "Ahahahah! Very entertaining! I shall be happy to see you again!",
+    "Loss": "Wh-what is happening...? M-my vision is turning milky white..."
+  },
+  {
+    "Class": "Ace Trainer",
+    "Name": "Daniela",
+    "Sprite": "Ace Trainer_54_.png",
+    "Greeting": "A Trainer am I, a new ray of hope from the land of the midnight sun.",
+    "Win": "In the frigid falls of the north, I honed my skills. With them, I made you fall.",
+    "Loss": "Your foul trickery deserves contempt. But effective it was, too."
+  },
+  {
+    "Class": "Youngster",
+    "Name": "Kaden",
+    "Sprite": "Youngster_2_.png",
+    "Greeting": "I\u2019ve been pondering lately... How much longer will I be wearing shorts?",
+    "Win": "Will I still be in shorts as a grown-up?",
+    "Loss": "If I grow old like this, will they call me something silly like \u201CShorts Man\u201D?"
+  },
+  {
+    "Class": "Youngster",
+    "Name": "Kolby",
+    "Sprite": "Youngster_2_.png",
+    "Greeting": "That\u2019s right, I\u2019m the legendary kid in shorts who\u2019s the talk of the town.",
+    "Win": "Even a Youngster in shorts like me can be the stuff of a legend or two.",
+    "Loss": "My legend is over..."
+  },
+  {
+    "Class": "Lass",
+    "Name": "Karissa",
+    "Sprite": "Lass_3_.png",
+    "Greeting": "Uh... Um... H-hello. P-pleased to meet you.",
+    "Win": "S-s-sorry. I\u2019m r-really n-nervous.",
+    "Loss": "Uh... Th-thank you. That was f-fun."
+  },
+  {
+    "Class": "Lass",
+    "Name": "Liliana",
+    "Sprite": "Lass_3_.png",
+    "Greeting": "Oh, this place is so pass\u00E9 now. I\u2019m missing out on shopping.",
+    "Win": "You\u2019re kind of stylish, actually. Oh, I wish I had new clothes.",
+    "Loss": "Maybe I\u2019ll collect Accessories for some Contests..."
+  },
+  {
+    "Class": "School Kid",
+    "Name": "Jonas",
+    "Sprite": "School Kid_60_.png",
+    "Greeting": "Exam season\u2019s coming up, but I\u2019m neck-deep in battling...",
+    "Win": "Mom\u2019s going to cut me off. I just know it...",
+    "Loss": "I have to keep up on both my studying and Pok\u00E9mon..."
+  },
+  {
+    "Class": "School Kid",
+    "Name": "Keon",
+    "Sprite": "School Kid_60_.png",
+    "Greeting": "Hiya, you Trainer there! Slip on some glasses. They\u2019ll make you look better.",
+    "Win": "Nothing\u2019s the matter with my eyes. I wear glasses for the looks I get.",
+    "Loss": "Whoops! My glasses, my glasses."
+  },
+  {
+    "Class": "School Kid",
+    "Name": "Chelsie",
+    "Sprite": "School Kid_61_.png",
+    "Greeting": "I\u2019ve been taught every opponent has a weakness. If I can find yours...",
+    "Win": "Eheheh. I figured out your weakness.",
+    "Loss": "Did you figure out my weakness?"
+  },
+  {
+    "Class": "School Kid",
+    "Name": "Regina",
+    "Sprite": "School Kid_61_.png",
+    "Greeting": "It\u2019s been so long since I had my last battle.",
+    "Win": "You know, battling is fun after all.",
+    "Loss": "Battling is so much fun, but..."
+  },
+  {
+    "Class": "Rich Boy",
+    "Name": "Daulton",
+    "Sprite": "Rich Boy_32_.png",
+    "Greeting": "The age of money has come to Pok\u00E9mon battling. I\u2019ll teach you who is right.",
+    "Win": "You understand, don\u2019t you? What is right, and who is stronger?",
+    "Loss": "M-my Pok\u00E9mon! What have you done? What am I to do?!"
+  },
+  {
+    "Class": "Rich Boy",
+    "Name": "Hanson",
+    "Sprite": "Rich Boy_32_.png",
+    "Greeting": "You\u2019re my opponent? Oh, all right... Try not to disappoint me too badly.",
+    "Win": "My Pok\u00E9mon are all tops in luxury. Do you see? This is what power is about.",
+    "Loss": "Nyah! I don\u2019t care! I\u2019ve got enough  money to fill a swimming pool!"
+  },
+  {
+    "Class": "Lady",
+    "Name": "Amory",
+    "Sprite": "Lady_33_.png",
+    "Greeting": "You there. Yes, you. I\u2019m feeling rather bored.",
+    "Win": "I suppose that was enjoyable for what it was. I thank you for it.",
+    "Loss": "You are rather good. Quite remarkable, even."
+  },
+  {
+    "Class": "Lady",
+    "Name": "Juliana",
+    "Sprite": "Lady_33_.png",
+    "Greeting": "I can sink your sort with minimal effort.",
+    "Win": "It took the barest of efforts to win this match.",
+    "Loss": "You swamped us with no effort at all..."
+  },
+  {
+    "Class": "Bug Catcher",
+    "Name": "Camui",
+    "Sprite": "Bug Catcher_6_.png",
+    "Greeting": "My room is always full of bugs. That drives my mom just wild.",
+    "Win": "I want to collect more bug Pok\u00E9mon for my bug appreciation station.",
+    "Loss": "Bugs are loose under my shirt. I\u2019m starting to itch..."
+  },
+  {
+    "Class": "Bug Catcher",
+    "Name": "Orlando",
+    "Sprite": "Bug Catcher_6_.png",
+    "Greeting": "People claim I\u2019m like an adult. Whatever could they mean, do you suppose?",
+    "Win": "Ah, yes, quite enjoyable! We must do this again, surely.",
+    "Loss": "Oh, yes! Smashing! That chilled me to my toes, it did!"
+  },
+  {
+    "Class": "Ninja Boy",
+    "Name": "Zack",
+    "Sprite": "Ninja Boy_28_.png",
+    "Greeting": "I have made my choice. When I fall, it shall be forward!",
+    "Win": "You lack conviction.",
+    "Loss": "...Thud."
+  },
+  {
+    "Class": "Ninja Boy",
+    "Name": "Vance",
+    "Sprite": "Ninja Boy_28_.png",
+    "Greeting": "So, what exactly is a ninja, you may ask.",
+    "Win": "A ninja is powerful. That will do as a start.",
+    "Loss": "Maybe some ninjas are weak?"
+  },
+  {
+    "Class": "Pok\u00E9 Kid",
+    "Name": "Kyla",
+    "Sprite": "Pok\u00E9 Kid_22_.png",
+    "Greeting": "I once saw a lady wearing the same outfit as me.",
+    "Win": "She said, \u201CYou\u2019re showing serious fashion chops.\u201D",
+    "Loss": "She said, \u201CYou\u2019re kidding me, am I right?\u201D"
+  },
+  {
+    "Class": "Pok\u00E9 Kid",
+    "Name": "Ruby",
+    "Sprite": "Pok\u00E9 Kid_22_.png",
+    "Greeting": "Will you believe that inside this costume is a grown-up Beauty?",
+    "Win": "My dream is to live as a Pok\u00E9mon one day. To become a Pok\u00E9mon!",
+    "Loss": "I\u2019m an adult, but I want to be a Pok\u00E9mon. Does that make me weird?"
+  },
+  {
+    "Class": "Idol",
+    "Name": "Kiley",
+    "Sprite": "Idol_85_.png",
+    "Greeting": "My profile\u2019s riding high now, so my schedule\u2019s filled solid!",
+    "Win": "Oh, no! It\u2019s this late already? I\u2019d better check my timetable!",
+    "Loss": "Talent manager! Do I have time for a rematch?"
+  },
+  {
+    "Class": "Idol",
+    "Name": "Utah",
+    "Sprite": "Idol_85_.png",
+    "Greeting": "Are you another of my fans? I can give you an autograph if you\u2019d lose?",
+    "Win": "Here\u2019s your autograph! Cherish it! Oh, sorry! I don\u2019t do handshakes.",
+    "Loss": "I\u2019m sorry, I was acting GASTLY! It was very DELCATTY of me!"
+  },
+  {
+    "Class": "Jogger",
+    "Name": "Colt",
+    "Sprite": "Jogger_19_.png",
+    "Greeting": "I need to diet. I have to get out jogging.",
+    "Win": "Well, I guess I\u2019ll go for a quick trot around here...",
+    "Loss": "Your Pok\u00E9mon know how to punch hard. You see, I\u2019m really a boxer."
+  },
+  {
+    "Class": "Jogger",
+    "Name": "Tory",
+    "Sprite": "Jogger_19_.png",
+    "Greeting": "I look to bug Pok\u00E9mon for hints on running all the time.",
+    "Win": "I admire the light and agile footwork of bug Pok\u00E9mon.",
+    "Loss": "Skitter..."
+  },
+  {
+    "Class": "Fisherman",
+    "Name": "Farley",
+    "Sprite": "Fisherman_11_.png",
+    "Greeting": "Listen, I\u2019m feeling bushed today. Can we do this tomorrow first thing?",
+    "Win": "Oh, all right. You\u2019re impatient. Couldn\u2019t wait till tomorrow, oh no.",
+    "Loss": "That\u2019s why I said tomorrow. I can barely stay awake now."
+  },
+  {
+    "Class": "Fisherman",
+    "Name": "Mark",
+    "Sprite": "Fisherman_11_.png",
+    "Greeting": "Feed the Pok\u00E9mon you catch, or they will flee. Do you see?",
+    "Win": "Once a Pok\u00E9mon has fled, it will never return. Do you see?",
+    "Loss": "What I said about Pok\u00E9mon--it is a parable. Do you see?"
+  },
+  {
+    "Class": "Ruin Maniac",
+    "Name": "Samuel",
+    "Sprite": "Ruin Maniac_48_.png",
+    "Greeting": "When I was younger, I went out on digs chasing rumors of hidden treasures.",
+    "Win": "Of course, there are no such things. But it\u2019s about chasing a dream.",
+    "Loss": "Well, it sure left huge holes... In the ground and in my bank account."
+  },
+  {
+    "Class": "Ruin Maniac",
+    "Name": "Penn",
+    "Sprite": "Ruin Maniac_48_.png",
+    "Greeting": "I\u2019ll launch an avalanche of moves! I\u2019ll test your limits of endurance!",
+    "Win": "Well, Trainer? Should I try out some more moves?",
+    "Loss": "That\u2019s it! I\u2019m all out of stock! I\u2019d like you to leave so I can close up!"
+  },
+  {
+    "Class": "Collector",
+    "Name": "Marquez",
+    "Sprite": "Collector_37_.png",
+    "Greeting": "I collect and battle Pok\u00E9mon so I can brag to my peers.",
+    "Win": "I\u2019m not all that interested in winning or losing to begin with.",
+    "Loss": "You\u2019ve won the battle. But, in terms of the Pok\u00E9mon involved, I clearly win."
+  },
+  {
+    "Class": "Collector",
+    "Name": "Arnold",
+    "Sprite": "Collector_37_.png",
+    "Greeting": "Did you want to see my Pok\u00E9mon? OK, sure. Just a peek, though.",
+    "Win": "How\u2019s that for classy? My Pok\u00E9mon are tops in both moves and character.",
+    "Loss": "Hold it right there! You can look, but don\u2019t touch!"
+  },
+  {
+    "Class": "Guitarist",
+    "Name": "Fred",
+    "Sprite": "Guitarist_52_.png",
+    "Greeting": "Rock? Samba? Traditional folk? I can play in any style. It\u2019s all good!",
+    "Win": "Music and Pok\u00E9mon uplift me! I\u2019m carried up among the stars!",
+    "Loss": "Sigh... I\u2019m seeing stars... You\u2019ve got me singing the blues..."
+  },
+  {
+    "Class": "Guitarist",
+    "Name": "Chase",
+    "Sprite": "Guitarist_52_.png",
+    "Greeting": "Let my exquisite melody ring out! Hear my Pok\u00E9mon shout out!",
+    "Win": "The melody from my Pok\u00E9mon and me... Did it reach out and touch your heart?",
+    "Loss": "I\u2019ve been known to throw matches, but I\u2019ll never throw a guitar on stage!"
+  },
+  {
+    "Class": "Bird Keeper",
+    "Name": "McKenna",
+    "Sprite": "Bird Keeper_69_.png",
+    "Greeting": "I\u2019m free like a bird! I feel like I could fly!",
+    "Win": "That\u2019s how I ended up becoming a Bird Keeper.",
+    "Loss": "Like most birds, I can\u2019t see very well at night."
+  },
+  {
+    "Class": "Bird Keeper",
+    "Name": "Sally",
+    "Sprite": "Bird Keeper_69_.png",
+    "Greeting": "As a Trainer, I\u2019m as fragile as an egg. Please be gentle on me.",
+    "Win": "Do you think I\u2019m getting ready to take flight?",
+    "Loss": "One of these days, I\u2019ll break out of my shell and defeat you."
+  },
+  {
+    "Class": "Sailor",
+    "Name": "Casper",
+    "Sprite": "Sailor_46_.png",
+    "Greeting": "Bear witness to my display of machismo and masculinity!",
+    "Win": "There! That\u2019s how a real man lives and battles!",
+    "Loss": "Waaaah! Waaaah! Mommy!"
+  },
+  {
+    "Class": "Sailor",
+    "Name": "Derrian",
+    "Sprite": "Sailor_46_.png",
+    "Greeting": "I\u2019ve got a showdown coming up with a Hiker. Let me see if I\u2019m ready!",
+    "Win": "Yep, I\u2019d say my team\u2019s about ready. That Hiker won\u2019t know what hit him!",
+    "Loss": "Aww, blast it, no! I can\u2019t beat that Hiker like this!"
+  },
+  {
+    "Class": "Hiker",
+    "Name": "Monty",
+    "Sprite": "Hiker_9_.png",
+    "Greeting": "My showdown against a man of the sea draws near! Let me test my team!",
+    "Win": "Everything went as calculated... Be ready for me, man of the sea!",
+    "Loss": "Beating the man of the sea is impossible with an outcome this lame..."
+  },
+  {
+    "Class": "Hiker",
+    "Name": "Rockie",
+    "Sprite": "Hiker_9_.png",
+    "Greeting": "Uhho uho-uho uhho hohoi! This dance I use to psych myself up.",
+    "Win": "Uhho uho-uho uhho hohoi! So much fun, I cannot stop.",
+    "Loss": "Uhho uho-uho uhho hohoi! I dance to stem my tears from losing..."
+  },
+  {
+    "Class": "Policeman",
+    "Name": "Reggie",
+    "Sprite": "Policeman_38_.png",
+    "Greeting": "I\u2019m not really with the police. I\u2019m a collector of uniforms.",
+    "Win": "Battling as a Policeman made for a very fun battle, it did.",
+    "Loss": "That\u2019s it for me. I bid you a fond farewell."
+  },
+  {
+    "Class": "Policeman",
+    "Name": "Quincy",
+    "Sprite": "Policeman_38_.png",
+    "Greeting": "I\u2019m a Policeman. But on holidays, I\u2019m an entirely different kind of guy.",
+    "Win": "Usually, I chase after bad guys as a Policeman.",
+    "Loss": "On my days off, I chase after the waves and the ladies as a Swimmer."
+  },
+  {
+    "Class": "PI",
+    "Name": "Neil",
+    "Sprite": "PI_51_.png",
+    "Greeting": "Perseverance pays off. A case can turn on that.",
+    "Win": "It makes for more excitement when you come from behind to take the win.",
+    "Loss": "That was more thrilling than any stakeout! Thanks for that!"
+  },
+  {
+    "Class": "PI",
+    "Name": "Sergei",
+    "Sprite": "PI_51_.png",
+    "Greeting": "My present case can go either way. It\u2019s a coin toss.",
+    "Win": "So, I won this time... All decided by a fickle coin...",
+    "Loss": "Best two out of three?"
+  },
+  {
+    "Class": "Camper",
+    "Name": "Freddy",
+    "Sprite": "Camper_4_.png",
+    "Greeting": "I live in the woods. You know, I\u2019m a Camper.",
+    "Win": "I\u2019m working on making camp life more comfortable.",
+    "Loss": "I am sick and tired of camping out in the woods..."
+  },
+  {
+    "Class": "Camper",
+    "Name": "Andre",
+    "Sprite": "Camper_4_.png",
+    "Greeting": "No, no, I can\u2019t do this! I\u2019m not cut out for battling!",
+    "Win": "Oh, wow! I won! What\u2019ll I do? You\u2019re not mad at me, are you?",
+    "Loss": "See! I told you before we started! Battling just isn\u2019t for me."
+  },
+  {
+    "Class": "Picnicker",
+    "Name": "Inga",
+    "Sprite": "Picnicker_5_.png",
+    "Greeting": "Trainer spotted! It\u2019s time to get cooking!",
+    "Win": "A battle should be enjoyed like a tasty meal!",
+    "Loss": "I ended up getting cooked!"
+  },
+  {
+    "Class": "Picnicker",
+    "Name": "Tonya",
+    "Sprite": "Picnicker_5_.png",
+    "Greeting": "Fweeoo-fwee-fwee-fyoo... I saunter into battle, whistling...",
+    "Win": "Too easy! I was whistling all the way through that.",
+    "Loss": "Fwee-ooo fwee-ooo fwee-ooo... I switched to an ambulance siren..."
+  },
+  {
+    "Class": "Guitarist",
+    "Name": "Tobias",
+    "Sprite": "Guitarist_52_.png",
+    "Greeting": "I can hear it... The screaming adulation of 100,000 fans rising in unison...",
+    "Win": "Right on, everyone! You saw that! I dedicate my win to you!",
+    "Loss": "You\u2019re scorching... You\u2019ve made a fan out of me."
+  },
+  {
+    "Class": "Guitarist",
+    "Name": "Cecil",
+    "Sprite": "Guitarist_52_.png",
+    "Greeting": "Number one worldwide, that\u2019s my dream. Well, to start, anyway.",
+    "Win": "\u201CNumber one worldwide,\u201D now doesn\u2019t that have a good ring to it?",
+    "Loss": "I can\u2019t quite decide what I should be number one worldwide at."
+  },
+  {
+    "Class": "Idol",
+    "Name": "Maranda",
+    "Sprite": "Idol_85_.png",
+    "Greeting": "I\u2019m not some cheap Idol! I\u2019m an actress! Please remember that!",
+    "Win": "My career isn\u2019t anything like your typical Idol\u2019s career!",
+    "Loss": "I\u2019m an actress... It sounds so deliciously right..."
+  },
+  {
+    "Class": "Idol",
+    "Name": "Helene",
+    "Sprite": "Idol_85_.png",
+    "Greeting": "We\u2019re not here for a long time, so let\u2019s make it a good time!",
+    "Win": "Thank you! That was soooo fun! I really hope we can battle again!",
+    "Loss": "It makes me sad having to say good-bye... Please come see me again!"
+  },
+  {
+    "Class": "Pok\u00E9fan",
+    "Name": "Simon",
+    "Sprite": "Pok\u00E9fan_21_.png",
+    "Greeting": "I am the Fan Club Division Manager... Bring your best to bear...",
+    "Win": "Kneel before the might of the Fan Club!",
+    "Loss": "Gweh! But I did my best! Regrets, I have none!"
+  },
+  {
+    "Class": "Pok\u00E9fan",
+    "Name": "Turner",
+    "Sprite": "Pok\u00E9fan_21_.png",
+    "Greeting": "I welcome you, young Trainer. Allow me to demonstrate my power.",
+    "Win": "Young Trainer, do you have any idea what my power signifies?",
+    "Loss": "You\u2019ve surpassed me in your love of Pok\u00E9mon. You\u2019re the truest of fans."
+  },
+  {
+    "Class": "Pok\u00E9fan",
+    "Name": "Europa",
+    "Sprite": "Pok\u00E9fan_20_.png",
+    "Greeting": "I think I\u2019ll try out the TM the woman next door gave me.",
+    "Win": "I am impressed. That woman actually gave me something useful.",
+    "Loss": "Oh, that nasty woman! This TM is worthless!"
+  },
+  {
+    "Class": "Pok\u00E9fan",
+    "Name": "Pandora",
+    "Sprite": "Pok\u00E9fan_20_.png",
+    "Greeting": "I heard that! I may be old enough to be your mom, but I\u2019m still young!",
+    "Win": "Look at my skin tone and my Pok\u00E9mon! Both firm but supple!",
+    "Loss": "Please don\u2019t make that mistake again! I\u2019m young, I tell you!"
+  },
+  {
+    "Class": "Rancher",
+    "Name": "Vern",
+    "Sprite": "Rancher_71_.png",
+    "Greeting": "Whether it be work or play, I\u2019m with my Pok\u00E9mon all day.",
+    "Win": "Life without Pok\u00E9mon? I can\u2019t picture that.",
+    "Loss": "It\u2019s like I\u2019m married to my Pok\u00E9mon. I\u2019m not married, though."
+  },
+  {
+    "Class": "Rancher",
+    "Name": "Boris",
+    "Sprite": "Rancher_71_.png",
+    "Greeting": "You get to be the best by working harder than everyone else.",
+    "Win": "I reckon I\u2019ve been a hard worker.",
+    "Loss": "Work at battling over and over. Your star will shine one day."
+  },
+  {
+    "Class": "Cowgirl",
+    "Name": "Carly",
+    "Sprite": "Cowgirl_18_.png",
+    "Greeting": "I\u2019m going to become famous here so I can rebuild the ranch.",
+    "Win": "I can\u2019t lose. It\u2019s for my pa and ma.",
+    "Loss": "If I can get famous, folks\u2019ll pay to visit my ranch..."
+  },
+  {
+    "Class": "Cowgirl",
+    "Name": "Ginger",
+    "Sprite": "Cowgirl_18_.png",
+    "Greeting": "From sundown, I live by candlelight until I go to sleep.",
+    "Win": "That\u2019s not to say I don\u2019t have electric power on the homestead.",
+    "Loss": "Candlelight can be very romantic."
+  },
+  {
+    "Class": "Pok\u00E9mon Breeder",
+    "Name": "Peter",
+    "Sprite": "Pok\u00E9mon Breeder_17_.png",
+    "Greeting": "I\u2019d like to introduce you to my cherished partners.",
+    "Win": "Good, good. Good going, gang. You guys all did great.",
+    "Loss": "Wheeze... Wheeze... I\u2019m feeling faint..."
+  },
+  {
+    "Class": "Pok\u00E9mon Breeder",
+    "Name": "Tyron",
+    "Sprite": "Pok\u00E9mon Breeder_17_.png",
+    "Greeting": "I\u2019m no green thumb at growing Berries. Raising Pok\u00E9mon is where I shine.",
+    "Win": "I can give you tips on raising Pok\u00E9mon so they\u2019ll grow tough.",
+    "Loss": "Raising a living thing is never an easy job..."
+  },
+  {
+    "Class": "Pok\u00E9mon Breeder",
+    "Name": "Zorya",
+    "Sprite": "Pok\u00E9mon Breeder_16_.png",
+    "Greeting": "Pok\u00E9mon are Pok\u00E9mon, no matter how tough, weak, cute, or scary.",
+    "Win": "Raise Pok\u00E9mon with love, and they\u2019ll return it.",
+    "Loss": "I think it\u2019s the Trainer who needs to pick up the pace here."
+  },
+  {
+    "Class": "Pok\u00E9mon Breeder",
+    "Name": "Antonia",
+    "Sprite": "Pok\u00E9mon Breeder_16_.png",
+    "Greeting": "Raising a Pok\u00E9mon right takes money and time.",
+    "Win": "But it\u2019s all worthwhile when the Pok\u00E9mon grows up.",
+    "Loss": "To raise the ideal Pok\u00E9mon, I\u2019m willing to work hard."
+  },
+  {
+    "Class": "Ace Trainer",
+    "Name": "Sawyer",
+    "Sprite": "Ace Trainer_53_.png",
+    "Greeting": "That\u2019s right, I\u2019m tough. I won\u2019t lose. I don\u2019t think losing\u2019s possible.",
+    "Win": "Yup, I\u2019m so tough... Ehehe... Heeheehee...",
+    "Loss": "I lost? But, how...? What now? What do I do?"
+  },
+  {
+    "Class": "Ace Trainer",
+    "Name": "Charlie",
+    "Sprite": "Ace Trainer_53_.png",
+    "Greeting": "I\u2019m an Ace Trainer, so this is for bragging rights.",
+    "Win": "Yup, you did good. No, seriously.",
+    "Loss": "Heh... I\u2019ve got a long ways to go..."
+  },
+  {
+    "Class": "Ace Trainer",
+    "Name": "Chloe",
+    "Sprite": "Ace Trainer_54_.png",
+    "Greeting": "I was looking forward to a battle with you!",
+    "Win": "I was right! You are pretty decent. Why not become an Ace Trainer?",
+    "Loss": "You\u2019re as good as the rumors say... May I have a rematch one day?"
+  },
+  {
+    "Class": "Ace Trainer",
+    "Name": "Daphne",
+    "Sprite": "Ace Trainer_54_.png",
+    "Greeting": "Look at me. I\u2019m what you should be aspiring to be.",
+    "Win": "You expected anything else?",
+    "Loss": "You\u2019ve already surpassed me. But you can aim so much higher."
+  },
+  {
+    "Class": "Ace Trainer",
+    "Name": "Thad",
+    "Sprite": "Ace Trainer_53_.png",
+    "Greeting": "My whole life hinges on this one battle! ...Lose for me, pretty please?",
+    "Win": "Yeah! I won! It\u2019s all smooth sailing for me now!",
+    "Loss": "I wasn\u2019t supposed to lose... That\u2019s my life derailed..."
+  },
+  {
+    "Class": "Ace Trainer",
+    "Name": "Lew",
+    "Sprite": "Ace Trainer_53_.png",
+    "Greeting": "I\u2019m running a fever here. Just so\u2019s you know.",
+    "Win": "Oogh, my head\u2019s burning up. It makes me feel more inspired.",
+    "Loss": "Like I said, I have a cold. I\u2019m not on top of my game."
+  },
+  {
+    "Class": "Ace Trainer",
+    "Name": "Opal",
+    "Sprite": "Ace Trainer_54_.png",
+    "Greeting": "When we battle, I want you to be very careful. My coat\u2019s very expensive.",
+    "Win": "Yikes! Eek! Watch out! You almost got Pok\u00E9mon sweat on my coat!",
+    "Loss": "I was worried about getting my coat dirty. Who cares about your battle?"
+  },
+  {
+    "Class": "Ace Trainer",
+    "Name": "Leda",
+    "Sprite": "Ace Trainer_54_.png",
+    "Greeting": "I wish you\u2019d leave. I don\u2019t want to see you lose.",
+    "Win": "I told you so... Can you leave, please?",
+    "Loss": "Listen...is being tough not always a good thing?"
+  },
+  {
+    "Class": "Pok\u00E9mon Ranger",
+    "Name": "Geoff",
+    "Sprite": "Pok\u00E9mon Ranger_39_.png",
+    "Greeting": "Whoa-whoa-whoa... Careful now! Maintaining balance is the key!",
+    "Win": "Whoops...! Almost went over! Have to be careful here...",
+    "Loss": "...Waaaaaah... Thud!"
+  },
+  {
+    "Class": "Pok\u00E9mon Ranger",
+    "Name": "Gunther",
+    "Sprite": "Pok\u00E9mon Ranger_39_.png",
+    "Greeting": "Now don\u2019t you worry about a thing. You leave everything to me, OK?",
+    "Win": "What do you say? Fun, hey? It\u2019d be nice if we could meet again.",
+    "Loss": "Well, I\u2019ll be! You sure got the best of me!"
+  },
+  {
+    "Class": "Pok\u00E9mon Ranger",
+    "Name": "Alma",
+    "Sprite": "Pok\u00E9mon Ranger_40_.png",
+    "Greeting": "I will battle. It\u2019s not likely I will lose. I\u2019m tough.",
+    "Win": "I win. I could do a dance right now.",
+    "Loss": "What is the matter? Why couldn\u2019t I win?"
+  },
+  {
+    "Class": "Pok\u00E9mon Ranger",
+    "Name": "Elise",
+    "Sprite": "Pok\u00E9mon Ranger_40_.png",
+    "Greeting": "Mother Nature, I beseech you! Please, lend me strength!",
+    "Win": "Oh, Mother Nature, I thank you! To you, I dedicate this victory!",
+    "Loss": "I\u2019m sorry, Mother Nature! I\u2019m sorry to disappoint you!"
+  },
+  {
+    "Class": "Dragon Tamer",
+    "Name": "Harvey",
+    "Sprite": "Dragon Tamer_29_.png",
+    "Greeting": "A good Trainer takes on all challenges regardless of the foe or the rules.",
+    "Win": "No Trainer can be considered bad if they battle the best they can.",
+    "Loss": "A good Trainer doesn\u2019t gloat over a win. They just prepare for the next battle."
+  },
+  {
+    "Class": "Dragon Tamer",
+    "Name": "Nicolas",
+    "Sprite": "Dragon Tamer_29_.png",
+    "Greeting": "Come hither, my Pok\u00E9mon! Please get rid of this mean Trainer!",
+    "Win": "Ooh, yes, I love you, my sweeties!Come here and give me a kiss!",
+    "Loss": "How could you?! You hurt my sweet little ones!"
+  },
+  {
+    "Class": "Black Belt",
+    "Name": "Fergus",
+    "Sprite": "Black Belt_14_.png",
+    "Greeting": "I\u2019m fine with practice and training, but I wilt when the chips are down.",
+    "Win": "I feel sick from tension! I\u2019d rather be at home practicing!",
+    "Loss": "If it\u2019s about practice, I\u2019d be the champ without a doubt."
+  },
+  {
+    "Class": "Black Belt",
+    "Name": "Ronni",
+    "Sprite": "Black Belt_14_.png",
+    "Greeting": "Hi-yah! Hah! Hah! One more! Hah! Hah!",
+    "Win": "Boo-yah!",
+    "Loss": "Hi-yah! ...No, wait! No!"
+  },
+  {
+    "Class": "Battle Girl",
+    "Name": "Eve",
+    "Sprite": "Battle Girl_10_.png",
+    "Greeting": "Wanna?",
+    "Win": "Heh...",
+    "Loss": "You beat me? Where\u2019s your dojo?"
+  },
+  {
+    "Class": "Battle Girl",
+    "Name": "Mariane",
+    "Sprite": "Battle Girl_10_.png",
+    "Greeting": "Come oooon! C\u2019mon, c\u2019mon! Hey! Hey! C\u2019mon, hey!",
+    "Win": "Oh, yesssss!",
+    "Loss": "Oh, noooooo!"
+  },
+  {
+    "Class": "Veteran",
+    "Name": "Costin",
+    "Sprite": "Veteran_27_.png",
+    "Greeting": "Your eyes are unclouded by doubt. This match will be entertaining...",
+    "Win": "From the bottom of my heart, I look forward to your return.",
+    "Loss": "Whew... A most entertaining match. I hope you\u2019ll grant me a rematch."
+  },
+  {
+    "Class": "Veteran",
+    "Name": "Alfred",
+    "Sprite": "Veteran_27_.png",
+    "Greeting": "You need to be taught what wisdom of age means in battle!",
+    "Win": "I\u2019ll have you know that no child can hope to defeat me!",
+    "Loss": "That did not happen! Unfair! I demand a rematch right now!"
+  },
+  {
+    "Class": "Socialite",
+    "Name": "Rioha",
+    "Sprite": "Socialite_35_.png",
+    "Greeting": "I\u2019m feeling cranky today! Help me get my mind off it!",
+    "Win": "Whew... A battle is the perfect stress reliever!",
+    "Loss": "Eeeeeeeeh! You\u2019ve pushed me over to furious!"
+  },
+  {
+    "Class": "Socialite",
+    "Name": "Janice",
+    "Sprite": "Socialite_35_.png",
+    "Greeting": "Cue battle music, please! I want to trumpet my victory!",
+    "Win": "I love the battle music. It sets my heart racing.",
+    "Loss": "Fine, that will do. Back to the regular theme music."
+  },
+  {
+    "Class": "Psychic",
+    "Name": "Denver",
+    "Sprite": "Psychic_49_.png",
+    "Greeting": "When you\u2019ve been a Trainer as long as I have, let\u2019s just say you\u2019ll see a lot.",
+    "Win": "Things like this happen. Don\u2019t let it get you down.",
+    "Loss": "People and Pok\u00E9mon are all different. Isn\u2019t that what makes it beautiful?"
+  },
+  {
+    "Class": "Psychic",
+    "Name": "Berkley",
+    "Sprite": "Psychic_49_.png",
+    "Greeting": "My big brother told me to go for the eyes! Aim for the eyes!",
+    "Win": "I did it, big brother!",
+    "Loss": "My big brother told me to wreck the other Trainer\u2019s accuracy!"
+  },
+  {
+    "Class": "Psychic",
+    "Name": "Irene",
+    "Sprite": "Psychic_50_.png",
+    "Greeting": "I hear my Pok\u00E9mon calling out... They clamor to battle...",
+    "Win": "I hear my Pok\u00E9mon calling out... They call for your return...",
+    "Loss": "I hear my Pok\u00E9mon calling out... They tell me of the fun they had..."
+  },
+  {
+    "Class": "Psychic",
+    "Name": "Sylvie",
+    "Sprite": "Psychic_50_.png",
+    "Greeting": "Behind you, I see light. What is its significance?",
+    "Win": "I thought I saw an aura of invincibility. I must have been mistaken.",
+    "Loss": "Now I see... You glow with the light of victory..."
+  },
+  {
+    "Class": "Waiter",
+    "Name": "Xander",
+    "Sprite": "Waiter_81_.png",
+    "Greeting": "I\u2019ll deliver defeat to you elegantly and speedily.",
+    "Win": "Thank you for your patience!",
+    "Loss": "I\u2019m so terribly sorry. I ended up with your intended defeat."
+  },
+  {
+    "Class": "Waiter",
+    "Name": "Warren",
+    "Sprite": "Waiter_81_.png",
+    "Greeting": "Great, another tough-looking Trainer. The fun never ends for me.",
+    "Win": "Bleah, that was too close for comfort. Nothing ever comes easy for me.",
+    "Loss": "Yeah, see? I knew I\u2019d lose. If only that move landed..."
+  },
+  {
+    "Class": "Waitress",
+    "Name": "Leslie",
+    "Sprite": "Waitress_26_.png",
+    "Greeting": "Everyone has too much to say about Pok\u00E9mon! If it\u2019s fun, that\u2019s enough!",
+    "Win": "Excuse me, but are you all right? Maybe you\u2019re a little too tired?",
+    "Loss": "If you get too caught up in winning and losing, you\u2019ll burn yourself out."
+  },
+  {
+    "Class": "Waitress",
+    "Name": "Kathy",
+    "Sprite": "Waitress_26_.png",
+    "Greeting": "Aren\u2019t you the cutest guest! You can expect the best service from me!",
+    "Win": "Well, were you impressed by the level of service I provided?",
+    "Loss": "Oh, wait, please! I\u2019m not done serving you!"
+  },
+  {
+    "Class": "Cameraman",
+    "Name": "Darren",
+    "Sprite": "Cameraman_83_.png",
+    "Greeting": "I keep a journal about the lives of the Trainers who arrive here.",
+    "Win": "In our vast world, I wonder how many Trainers will cross my path?",
+    "Loss": "Every encounter ends in parting. That\u2019s why I keep a journal."
+  },
+  {
+    "Class": "Cameraman",
+    "Name": "Skip",
+    "Sprite": "Cameraman_83_.png",
+    "Greeting": "I\u2019ve waited all my life for someone like you. I\u2019m never letting you go.",
+    "Win": "It was a ploy to confuse you with words out of some romance movie.",
+    "Loss": "Now, go on, don\u2019t let me hold you back. Seize your chance at happiness!"
+  },
+  {
+    "Class": "Reporter",
+    "Name": "Katie",
+    "Sprite": "Reporter_84_.png",
+    "Greeting": "Will you give me an interview if you win?",
+    "Win": "You made my job too easy. You need to buckle down.",
+    "Loss": "Your feelings now, in a word! Shout it into the mike, please!"
+  },
+  {
+    "Class": "Reporter",
+    "Name": "Elaine",
+    "Sprite": "Reporter_84_.png",
+    "Greeting": "I\u2019m on a diet... I\u2019m so famished...",
+    "Win": "I\u2019m happy, but if I get excited, I\u2019ll get hungry. No thanks...",
+    "Loss": "Oh... Your Pok\u00E9mon look delicious..."
+  },
+  {
+    "Class": "Cyclist",
+    "Name": "Clive",
+    "Sprite": "Cyclist_13_.png",
+    "Greeting": "Let me make it clear right now, I\u2019m tougher than you can stand!",
+    "Win": "See? I wasn\u2019t exaggerating!",
+    "Loss": "Who are you exactly?!"
+  },
+  {
+    "Class": "Cyclist",
+    "Name": "Ward",
+    "Sprite": "Cyclist_13_.png",
+    "Greeting": "Clear the way! Out of the way! Wait! Don\u2019t go! We have to battle!",
+    "Win": "Come on, take it up a gear! Keep up with me!",
+    "Loss": "OK, out of the way! Clear the way! Let this loser run away!"
+  },
+  {
+    "Class": "Cyclist",
+    "Name": "Hilda",
+    "Sprite": "Cyclist_12_.png",
+    "Greeting": "Safe driving and safer battling. That\u2019s my motto.",
+    "Win": "You can be patient in a battle. Victory will come eventually.",
+    "Loss": "I\u2019ll keep to my own pace. I\u2019ll catch up to you one day."
+  },
+  {
+    "Class": "Cyclist",
+    "Name": "Vanita",
+    "Sprite": "Cyclist_12_.png",
+    "Greeting": "I only have this Bike to look good for the guys. I can\u2019t actually ride.",
+    "Win": "It was a pain getting this Bike here. I had to push it all the way!",
+    "Loss": "I\u2019m only concerned about looking good. I don\u2019t practice enough."
+  },
+  {
+    "Class": "PI",
+    "Name": "Ralph",
+    "Sprite": "PI_51_.png",
+    "Greeting": "I\u2019m not looking for any excitement. I don\u2019t need any drama.",
+    "Win": "A battle is all the excitement I need.",
+    "Loss": "I recently realized that I\u2019m not cut out for this scary job."
+  },
+  {
+    "Class": "PI",
+    "Name": "Conway",
+    "Sprite": "PI_51_.png",
+    "Greeting": "I\u2019ll battle my way. You battle yours.",
+    "Win": "People are people. I\u2019ll go my own way.",
+    "Loss": "People are people. You go your own way."
+  },
+  {
+    "Class": "Idol",
+    "Name": "Kristi",
+    "Sprite": "Idol_85_.png",
+    "Greeting": "Today, I have a special treat for all my fans!",
+    "Win": "Thank you! I love your support!",
+    "Loss": "Are you really one of my fans?"
+  },
+  {
+    "Class": "Idol",
+    "Name": "Trista",
+    "Sprite": "Idol_85_.png",
+    "Greeting": "I\u2019m burnt out on being an Idol. I want to go home to the country...",
+    "Win": "I can\u2019t quit now! Kids dream of being me!",
+    "Loss": "I miss hearing my mother\u2019s voice..."
+  },
+  {
+    "Class": "Jogger",
+    "Name": "Austin",
+    "Sprite": "Jogger_19_.png",
+    "Greeting": "I\u2019m one of a kind. That\u2019s what I\u2019m saying.",
+    "Win": "I keep it real. That\u2019s what makes me tough.",
+    "Loss": "I kept it real, but you won anyway. Your reality was more real."
+  },
+  {
+    "Class": "Jogger",
+    "Name": "Dimitri",
+    "Sprite": "Jogger_19_.png",
+    "Greeting": "Hi! Are you my next opponent? Let\u2019s keep it clean and fair!",
+    "Win": "It feels great going all out with no dirty tricks.",
+    "Loss": "That was an awesome workout! We have to do this again sometime!"
+  },
+  {
+    "Class": "Fisherman",
+    "Name": "Delaney",
+    "Sprite": "Fisherman_11_.png",
+    "Greeting": "My needs are simple. Fishing and Moomoo Milk are all I need.",
+    "Win": "Winning or losing isn\u2019t something I pay heed to.",
+    "Loss": "I could use some Moomoo Milk right about now."
+  },
+  {
+    "Class": "Fisherman",
+    "Name": "Keaton",
+    "Sprite": "Fisherman_11_.png",
+    "Greeting": "You there! Take a look at the Pok\u00E9mon I fished up the other day.",
+    "Win": "I can tell you\u2019re impressed. This guy, I don\u2019t know how long it took to land.",
+    "Loss": "A word of advice: when an older person is bragging, pretend to be interested."
+  },
+  {
+    "Class": "Sailor",
+    "Name": "Carlo",
+    "Sprite": "Sailor_46_.png",
+    "Greeting": "You\u2019re a Trainer. Let your Pok\u00E9mon do the talking.",
+    "Win": "Where\u2019s your spirit? That didn\u2019t speak to me at all.",
+    "Loss": "Great! Great! Your feelings came across!"
+  },
+  {
+    "Class": "Sailor",
+    "Name": "Horatio",
+    "Sprite": "Sailor_46_.png",
+    "Greeting": "Here comes your prey! Get \u2019em! Chaaaarge!",
+    "Win": "Gaahahaha! That\u2019s it! Good job!",
+    "Loss": "We\u2019re outmatched! Pull back, guys! Run away!"
+  },
+  {
+    "Class": "Hiker",
+    "Name": "Lyle",
+    "Sprite": "Hiker_9_.png",
+    "Greeting": "Bring it on! Ooooh! Haaah!",
+    "Win": "Thank you kindly!",
+    "Loss": "Thanks for having me!"
+  },
+  {
+    "Class": "Hiker",
+    "Name": "Glen",
+    "Sprite": "Hiker_9_.png",
+    "Greeting": "I am captivated by the mountains. They\u2019re the main thing in my life!",
+    "Win": "The mountains mean more to me than any battle, no matter how fun!",
+    "Loss": "Your battle skills are impressive, but I can\u2019t wait to return to the mountains."
+  },
+  {
+    "Class": "Ruin Maniac",
+    "Name": "Isadore",
+    "Sprite": "Ruin Maniac_48_.png",
+    "Greeting": "We\u2019re going to hammer you, kid. Don\u2019t freeze up and close your eyes.",
+    "Win": "I like how you stay defiant even after losing. Good attitude, kid.",
+    "Loss": "Honest, I didn\u2019t let up one bit or let down my guard because you\u2019re a kid."
+  },
+  {
+    "Class": "Ruin Maniac",
+    "Name": "Walton",
+    "Sprite": "Ruin Maniac_48_.png",
+    "Greeting": "I battle around the globe. I\u2019m a worldwide bad boy!",
+    "Win": "I don\u2019t lose at battling. I can\u2019t get over how cool I am!",
+    "Loss": "I\u2019m hitting the road over that loss. It\u2019s good-bye to the old me!"
+  },
+  {
+    "Class": "Guitarist",
+    "Name": "Roget",
+    "Sprite": "Guitarist_52_.png",
+    "Greeting": "Battles, I\u2019m good at. But musical aptitude? Forget it.",
+    "Win": "This whole battling thing is good, but I wish I could play music as well.",
+    "Loss": "Music or Pok\u00E9mon... It\u2019s a tough choice."
+  },
+  {
+    "Class": "Guitarist",
+    "Name": "Iggy",
+    "Sprite": "Guitarist_52_.png",
+    "Greeting": "I wrote a song using the cries of Pok\u00E9mon. I\u2019d like you to hear it.",
+    "Win": "Graaah wagyaaah! Wagyaaaah! Chu! Chu! Gyaroooh-gah!",
+    "Loss": "Giiyaaaah! Drundundun! Garoo-gah! Wawawaaah!"
+  },
+  {
+    "Class": "Collector",
+    "Name": "Leroy",
+    "Sprite": "Collector_37_.png",
+    "Greeting": "I\u2019m bored of collecting and hoarding. I\u2019m getting rid of everything now.",
+    "Win": "There\u2019s nothing that I really want now. Maybe I\u2019ll become a clown...",
+    "Loss": "I threw the match for a start. It\u2019s nice to be unburdened of things."
+  },
+  {
+    "Class": "Collector",
+    "Name": "Newman",
+    "Sprite": "Collector_37_.png",
+    "Greeting": "Oh! Hold on a second! Incoming text message!",
+    "Win": "Ticka-ticka-ticka... Ticka-tick... Huh? Is it over already?",
+    "Loss": "Hey, stop that! No peeking at my text messages!"
+  },
+  {
+    "Class": "Roughneck",
+    "Name": "Ross",
+    "Sprite": "Roughneck_57_.png",
+    "Greeting": "There\u2019s no meaning to this battle! Pok\u00E9mon should be about love!",
+    "Win": "Battling leaves me empty. Hug your Pok\u00E9mon and show your love!",
+    "Loss": "Battling creates nothing. Hug your Pok\u00E9mon and show your love!"
+  },
+  {
+    "Class": "Roughneck",
+    "Name": "Ron",
+    "Sprite": "Roughneck_57_.png",
+    "Greeting": "Are you challenging me? ...You are. Kids these days...",
+    "Win": "Now run along home, and go help your mommy with her chores!",
+    "Loss": "Hey, you... If you think playtime will last forever, you\u2019ll end up like me."
+  },
+  {
+    "Class": "Scientist",
+    "Name": "Irwin",
+    "Sprite": "Scientist_113_.png",
+    "Greeting": "How will you counter my implacable logic?",
+    "Win": "Everything according to calculation... This victory is a complete one.",
+    "Loss": "You outcalculated me. I\u2019m incredulous."
+  },
+  {
+    "Class": "Scientist",
+    "Name": "Flynn",
+    "Sprite": "Scientist_113_.png",
+    "Greeting": "I\u2019ve been ensconced in the lab. My shoulders are all knotted up.",
+    "Win": "What a refreshing break! I\u2019m feeling loose and relaxed now.",
+    "Loss": "My Pok\u00E9mon and I, we all need to get outside and exercise more."
+  },
+  {
+    "Class": "Gentleman",
+    "Name": "Joachim",
+    "Sprite": "Gentleman_34_.png",
+    "Greeting": "Hmmm... So young... I may have to go easy...",
+    "Win": "You\u2019re so depressingly young... It\u2019s fine. You may go.",
+    "Loss": "Consider the loser\u2019s feelings. That\u2019s where you young people fail..."
+  },
+  {
+    "Class": "Gentleman",
+    "Name": "Karston",
+    "Sprite": "Gentleman_34_.png",
+    "Greeting": "You see an old man, yes? Don\u2019t be fooled by the way I look.",
+    "Win": "I find it abhorrent to lose to any young Trainer.",
+    "Loss": "I was fooled by your youth. Foolish, foolish me..."
+  },
+  {
+    "Class": "Worker",
+    "Name": "Boyce",
+    "Sprite": "Worker_59_.png",
+    "Greeting": "As a Worker, it\u2019s my job to both build and demolish.",
+    "Win": "Why don\u2019t you become a Worker, too? I find it fun and rewarding.",
+    "Loss": "Making things is harder than demolishing, but it\u2019s more satisfying."
+  },
+  {
+    "Class": "Worker",
+    "Name": "Tyrell",
+    "Sprite": "Worker_59_.png",
+    "Greeting": "You and your Pok\u00E9mon, I\u2019ll clean up on you easily.",
+    "Win": "Well, well, how pathetic was that. Take your passengers and go home.",
+    "Loss": "Gwaah... So heavy... My guys buckled under the load."
+  },
+  {
+    "Class": "Clown",
+    "Name": "Frank",
+    "Sprite": "Clown_58_.png",
+    "Greeting": "Outstanding athleticism and a great sense of humor; that\u2019s a clown!",
+    "Win": "A clown is a job of greatness. Only the chosen can become one!",
+    "Loss": "The ability to laugh off disappointment is another requirement for a clown!"
+  },
+  {
+    "Class": "Clown",
+    "Name": "Enzo",
+    "Sprite": "Clown_58_.png",
+    "Greeting": "Laugh with the face and cry with the heart; that\u2019s how a clown lives.",
+    "Win": "Ahahahahaha!",
+    "Loss": "Gah! ...Ahahahaha!"
+  },
+  {
+    "Class": "Policeman",
+    "Name": "Hugh",
+    "Sprite": "Policeman_38_.png",
+    "Greeting": "Oi, listen! I\u2019m a Policeman, sure, but a Trainer before that!",
+    "Win": "What? A Policeman can\u2019t lose his temper?",
+    "Loss": "Yes, I\u2019m a Policeman, but I have dreams and aspirations, and, and... Snivel..."
+  },
+  {
+    "Class": "Policeman",
+    "Name": "Kegan",
+    "Sprite": "Policeman_38_.png",
+    "Greeting": "Hands up! Put \u2019em where I can see \u2019em! You\u2019re all under arrest!",
+    "Win": "Case closed!",
+    "Loss": "This is a gross miscarriage of justice!"
+  },
+  {
+    "Class": "PI",
+    "Name": "Chester",
+    "Sprite": "PI_51_.png",
+    "Greeting": "I\u2019ll have you know that I\u2019m an Internet detective.",
+    "Win": "My powers of observation and logic prevailed!",
+    "Loss": "Think you\u2019ve outsmarted me? Maybe this was just a sting operation!"
+  },
+  {
+    "Class": "PI",
+    "Name": "River",
+    "Sprite": "PI_51_.png",
+    "Greeting": "Wherever, whenever, and with whomever. That\u2019s my motto!",
+    "Win": "When, where, or whom... It doesn\u2019t matter at all to me.",
+    "Loss": "Hahaha! This is great! I want to keep this going!"
+  },
+  {
+    "Class": "Bird Keeper",
+    "Name": "Kira",
+    "Sprite": "Bird Keeper_69_.png",
+    "Greeting": "The loser has to pretend to be a STUNKY, OK?",
+    "Win": "Giggle, you lose. I want to see your STUNKY impression!",
+    "Loss": "OK, here\u2019s my STUNKY impression! Three, two, one..."
+  },
+  {
+    "Class": "Bird Keeper",
+    "Name": "Eliza",
+    "Sprite": "Bird Keeper_69_.png",
+    "Greeting": "A good breeze has sprung up... This is good! I can win this!",
+    "Win": "The tailwind put us over the top! ...As they say!",
+    "Loss": "The headwind worked against us! ...As they say!"
+  },
+  {
+    "Class": "Parasol Lady",
+    "Name": "Angie",
+    "Sprite": "Parasol Lady_80_.png",
+    "Greeting": "Even though I always have my parasol up, I actually like sunny days.",
+    "Win": "I hope it will be sunny tomorrow...",
+    "Loss": "The heavy downpour in my heart... When will it ever stop...?"
+  },
+  {
+    "Class": "Parasol Lady",
+    "Name": "Sami",
+    "Sprite": "Parasol Lady_80_.png",
+    "Greeting": "My, you\u2019re very eager to go. I\u2019d better take the tension up a notch, too!",
+    "Win": "I had a lot of fun with that match! Wouldn\u2019t it be nice to see you again!",
+    "Loss": "You\u2019re so full of energy! Why, I feel energized, too!"
+  },
+  {
+    "Class": "Beauty",
+    "Name": "Nadia",
+    "Sprite": "Beauty_36_.png",
+    "Greeting": "How much longer do I have to wait for a Trainer that\u2019s any good?",
+    "Win": "I\u2019m so bored by the weak competition. Maybe I\u2019ll just retire.",
+    "Loss": "Oh, hello, there. Now, you\u2019re a little special."
+  },
+  {
+    "Class": "Beauty",
+    "Name": "Becky",
+    "Sprite": "Beauty_36_.png",
+    "Greeting": "My ladylike charms don\u2019t mean a thing to a little kid...",
+    "Win": "That was too close for comfort! It doesn\u2019t pay to underestimate foes.",
+    "Loss": "Battling fair and square doesn\u2019t appeal to me. I\u2019d rather win."
+  },
+  {
+    "Class": "Aroma Lady",
+    "Name": "Elisha",
+    "Sprite": "Aroma Lady_7_.png",
+    "Greeting": "Like everything else, people have likes and dislikes when it comes to scents.",
+    "Win": "I love how Pok\u00E9mon smell after a battle.",
+    "Loss": "I feel a little thrill if I catch a whiff of intense effort postbattle."
+  },
+  {
+    "Class": "Aroma Lady",
+    "Name": "Ambre",
+    "Sprite": "Aroma Lady_7_.png",
+    "Greeting": "Sniff, sniff... Yes! Here it comes! Aroma power!",
+    "Win": "With aroma power, I\u2019m invincible!",
+    "Loss": "Fizzle... I\u2019m out of aroma power..."
+  },
+  {
+    "Class": "Idol",
+    "Name": "Cocoa",
+    "Sprite": "Idol_85_.png",
+    "Greeting": "Turn, step, turn, turn... I\u2019ll practice my dance steps while battling!",
+    "Win": "I dance with passion and precision. How can there be a weakness?",
+    "Loss": "You\u2019re throwing off my rhythm! My dance routine is ruined!"
+  },
+  {
+    "Class": "Idol",
+    "Name": "Nissa",
+    "Sprite": "Idol_85_.png",
+    "Greeting": "I\u2019m always ready for the public eye. You can come at me at your own pace.",
+    "Win": "That\u2019s why people consider me the perfect Idol.",
+    "Loss": "I didn\u2019t know how bad it feels to lose. This is a first for me."
+  }
+]

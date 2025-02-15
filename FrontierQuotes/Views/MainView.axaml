@@ -1,0 +1,28 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:vm="clr-namespace:FrontierQuotes.ViewModels"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+             x:Class="FrontierQuotes.Views.MainView"
+             x:DataType="vm:MainViewModel">
+    <Design.DataContext>
+        <!-- This only sets the DataContext for the previewer in an IDE,
+         to set the actual DataContext for runtime, set the DataContext property in code (look at App.axaml.cs) -->
+        <vm:MainViewModel />
+    </Design.DataContext>
+    <Grid ColumnDefinitions="0.3*,0.7*" RowDefinitions="0.2*,0.7*,0.1*" Margin="50" HorizontalAlignment="Center">
+        <TextBlock Grid.Row="0" Grid.Column="1" Text="{Binding StreakText}" FontSize="32" HorizontalAlignment="Right" />
+        <AutoCompleteBox Grid.Row="0" Grid.Column="0" MinWidth="100" ItemsSource="{Binding Names}" Text="{Binding NameInput, Mode=TwoWay}"
+                         SelectedItem="{Binding SelectedName}" Watermark="Name" FontSize="32" FilterMode="StartsWith"
+                         HorizontalAlignment="Left" />
+        <Image Grid.Row="1" Grid.Column="0" Source="{Binding SelectedSprite}"
+               VerticalAlignment="Center"  HorizontalAlignment="Left"/>
+        <TextBlock Grid.Row="1" Grid.Column="1" Text="{Binding SelectedQuote}"
+                  HorizontalAlignment="Right" VerticalAlignment="Center" FontSize="32" TextWrapping="Wrap" />
+        <StackPanel Grid.Row="2" Grid.Column="1" Orientation="Horizontal" HorizontalAlignment="Right">
+            <CheckBox Margin="5" IsChecked="{Binding IncludeWinning}">Include Winning quotes</CheckBox>
+            <CheckBox Margin="5" IsChecked="{Binding IncludeLosing}">Include Losing quotes</CheckBox>
+        </StackPanel>
+    </Grid>
+</UserControl>
