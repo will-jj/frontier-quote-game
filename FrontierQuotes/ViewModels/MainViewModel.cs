@@ -48,11 +48,17 @@ public partial class MainViewModel : ViewModelBase
     [ObservableProperty]
     public partial bool IncludeLosing { get; set; }
     
+    [ObservableProperty]
+    public partial bool AnswerVisible { get; set; }
+    
+    [ObservableProperty]
+    public partial string? AnswerText {get; set;}
+    
     public string StreakText => $"Streak: {Streak}";
-
-    private string _correctName = "";
     
     private List<TrainerQuoted> _trainerQuoteds;
+    
+    private TrainerQuoted? _correctTrainerQuoted;
     
     public MainViewModel()
     {
@@ -73,7 +79,7 @@ public partial class MainViewModel : ViewModelBase
     partial void OnSelectedNameChanged(string? value)
     {
         if(value is null) return;
-        if (_correctName == value)
+        if (_correctTrainerQuoted?.Name == value)
         {
             Streak++;
         }
@@ -81,7 +87,7 @@ public partial class MainViewModel : ViewModelBase
         {
             Streak = 0;
         }
-        _ = NextQuote();
+        _ = NextQuote(true);
     }
 
     partial void OnIncludeLosingChanged(bool value)
@@ -108,7 +114,7 @@ public partial class MainViewModel : ViewModelBase
         return JsonSerializer.Deserialize<List<TrainerQuoted>>(json);
     }
 
-    private async Task NextQuote()
+    private async Task NextQuote(bool nextAnswer = false)
     {
         
         // TODO: Look into sorting this "properly"
@@ -116,11 +122,19 @@ public partial class MainViewModel : ViewModelBase
         SelectedName = null;
         await Task.Delay(TimeSpan.FromSeconds(0.01));
         NameInput = string.Empty;
+        
+        if (nextAnswer && _correctTrainerQuoted != null)
+        {
+            AnswerText = $"- {_correctTrainerQuoted.Class} {_correctTrainerQuoted.Name}";
+            AnswerVisible = true;
+            await Task.Delay(TimeSpan.FromSeconds(2));
+            AnswerVisible = false;
+        }
 
         int trainerId = RandomNumberGenerator.GetInt32(0, Names.Length);
         int spriteId = _loadedSprites.FindIndex(s => s.Equals(_trainerQuoteds[trainerId].Sprite));
         SelectedSprite = Sprites[spriteId];
-        _correctName = _trainerQuoteds[trainerId].Name;
+        _correctTrainerQuoted = _trainerQuoteds[trainerId];
         
         // TODO: Revisit this logic...
         List<string> choices = ["Greeting"];

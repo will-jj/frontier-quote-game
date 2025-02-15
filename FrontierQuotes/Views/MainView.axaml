@@ -11,16 +11,18 @@
          to set the actual DataContext for runtime, set the DataContext property in code (look at App.axaml.cs) -->
         <vm:MainViewModel />
     </Design.DataContext>
-    <Grid ColumnDefinitions="0.3*,0.7*" RowDefinitions="0.2*,0.7*,0.1*" Margin="50" HorizontalAlignment="Center">
+    <Grid ColumnDefinitions="0.3*,0.7*" RowDefinitions="0.2*,0.5*,0.1*,0.1*" Margin="50" HorizontalAlignment="Center">
         <TextBlock Grid.Row="0" Grid.Column="1" Text="{Binding StreakText}" FontSize="32" HorizontalAlignment="Right" />
         <AutoCompleteBox Grid.Row="0" Grid.Column="0" MinWidth="100" ItemsSource="{Binding Names}" Text="{Binding NameInput, Mode=TwoWay}"
                          SelectedItem="{Binding SelectedName}" Watermark="Name" FontSize="32" FilterMode="StartsWith"
                          HorizontalAlignment="Left" />
-        <Image Grid.Row="1" Grid.Column="0" Source="{Binding SelectedSprite}"
+        <Image Grid.Row="1" Grid.Column="0" Grid.RowSpan="1" Source="{Binding SelectedSprite}"
                VerticalAlignment="Center"  HorizontalAlignment="Left"/>
         <TextBlock Grid.Row="1" Grid.Column="1" Text="{Binding SelectedQuote}"
                   HorizontalAlignment="Right" VerticalAlignment="Center" FontSize="32" TextWrapping="Wrap" />
-        <StackPanel Grid.Row="2" Grid.Column="1" Orientation="Horizontal" HorizontalAlignment="Right">
+        <TextBlock Grid.Column="1" Grid.Row="2" FontSize="32" HorizontalAlignment="Right" VerticalAlignment="Top" IsVisible="{Binding AnswerVisible}" Text="{Binding AnswerText}"></TextBlock>
+        <StackPanel Grid.Row="3" Grid.Column="1" Orientation="Horizontal" HorizontalAlignment="Right">
+            
             <CheckBox Margin="5" IsChecked="{Binding IncludeWinning}">Include Winning quotes</CheckBox>
             <CheckBox Margin="5" IsChecked="{Binding IncludeLosing}">Include Losing quotes</CheckBox>
         </StackPanel>
