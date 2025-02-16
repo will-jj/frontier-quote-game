@@ -20,7 +20,7 @@
         <Image Margin="5" MaxHeight="200" Stretch="Uniform" Grid.Row="1" Grid.Column="0" Source="{Binding SelectedSprite}"
                VerticalAlignment="Center" HorizontalAlignment="Left"/>
         <TextBlock Grid.Row="1" Grid.Column="1" Text="{Binding SelectedQuote}"
-                   HorizontalAlignment="Right" VerticalAlignment="Center" FontSize="24" TextWrapping="Wrap" />
+                   MaxWidth="400" HorizontalAlignment="Right" VerticalAlignment="Center" FontSize="24" TextWrapping="Wrap" />
         <TextBlock Grid.Column="1" Grid.Row="2" FontSize="24" HorizontalAlignment="Right" VerticalAlignment="Top" IsVisible="{Binding AnswerVisible}" Text="{Binding AnswerText}"/>
         <StackPanel Grid.Row="3" Grid.Column="1" Orientation="Vertical" HorizontalAlignment="Right">
             <CheckBox Margin="5" IsChecked="{Binding IncludeWinning}">Include Winning quotes</CheckBox>
