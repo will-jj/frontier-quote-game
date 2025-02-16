@@ -11,20 +11,17 @@
          to set the actual DataContext for runtime, set the DataContext property in code (look at App.axaml.cs) -->
         <vm:MainViewModel />
     </Design.DataContext>
-    <Grid Margin="10" HorizontalAlignment="Center" RowDefinitions="Auto,*,Auto,Auto" ColumnDefinitions="*,2*">
+    <Grid Margin="10" HorizontalAlignment="Center" RowDefinitions="Auto,Auto,Auto,Auto" ColumnDefinitions="*,2*">
 
         <TextBlock Grid.Row="0" Grid.Column="1" Text="{Binding StreakText}" FontSize="24" HorizontalAlignment="Right" />
-        <AutoCompleteBox Grid.Row="0" Grid.Column="0" MinWidth="100" ItemsSource="{Binding Names}"
-                         Text="{Binding NameInput, Mode=TwoWay}"
+        <AutoCompleteBox Grid.Row="0" Grid.Column="0" MinWidth="100" ItemsSource="{Binding Names}" Text="{Binding NameInput, Mode=TwoWay}"
                          SelectedItem="{Binding SelectedName}" Watermark="Name" FontSize="24" FilterMode="StartsWith"
                          HorizontalAlignment="Left" />
-        <Image Margin="5" MaxHeight="200" Stretch="Uniform" Grid.Row="1" Grid.Column="0"
-               Source="{Binding SelectedSprite}"
-               VerticalAlignment="Center" HorizontalAlignment="Left" />
+        <Image Margin="5" MaxHeight="200" Stretch="Uniform" Grid.Row="1" Grid.Column="0" Source="{Binding SelectedSprite}"
+               VerticalAlignment="Center" HorizontalAlignment="Left"/>
         <TextBlock Grid.Row="1" Grid.Column="1" Text="{Binding SelectedQuote}"
                    HorizontalAlignment="Right" VerticalAlignment="Center" FontSize="24" TextWrapping="Wrap" />
-        <TextBlock Grid.Column="1" Grid.Row="2" FontSize="24" HorizontalAlignment="Right" VerticalAlignment="Top"
-                   IsVisible="{Binding AnswerVisible}" Text="{Binding AnswerText}" />
+        <TextBlock Grid.Column="1" Grid.Row="2" FontSize="24" HorizontalAlignment="Right" VerticalAlignment="Top" IsVisible="{Binding AnswerVisible}" Text="{Binding AnswerText}"/>
         <StackPanel Grid.Row="3" Grid.Column="1" Orientation="Vertical" HorizontalAlignment="Right">
             <CheckBox Margin="5" IsChecked="{Binding IncludeWinning}">Include Winning quotes</CheckBox>
             <CheckBox Margin="5" IsChecked="{Binding IncludeLosing}">Include Losing quotes</CheckBox>
