@@ -15,7 +15,7 @@
 
         <TextBlock Grid.Row="0" Grid.Column="1" Text="{Binding StreakText}" FontSize="24" HorizontalAlignment="Right" />
         <AutoCompleteBox Grid.Row="0" Grid.Column="0" MinWidth="100" ItemsSource="{Binding Names}" Text="{Binding NameInput, Mode=TwoWay}"
-                         SelectedItem="{Binding SelectedName}" Watermark="Name" FontSize="40" FilterMode="StartsWith"
+                         SelectedItem="{Binding SelectedName}" Watermark="Name" FontSize="60" FilterMode="StartsWith"
                          HorizontalAlignment="Left" />
         <Image Margin="5" MaxHeight="200" Stretch="Uniform" Grid.Row="1" Grid.Column="0" Source="{Binding SelectedSprite}"
                VerticalAlignment="Center" HorizontalAlignment="Left"/>
