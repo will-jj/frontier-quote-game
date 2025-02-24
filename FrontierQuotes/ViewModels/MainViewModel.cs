@@ -11,6 +11,7 @@ using Avalonia.Platform;
 using CommunityToolkit.Mvvm.ComponentModel;
 using FrontierQuotes.Models;
 using System.Security.Cryptography;
+using CommunityToolkit.Mvvm.Input;
 
 namespace FrontierQuotes.ViewModels;
 
@@ -157,6 +158,12 @@ public partial class MainViewModel : ViewModelBase
             _ => _trainerQuoteds[trainerId].Greeting
         };
         
+    }
+
+    [RelayCommand]
+    public async Task Skip()
+    {
+        await NextQuote(true);
     }
     
 }

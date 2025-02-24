@@ -14,9 +14,12 @@
     <Grid Margin="10" HorizontalAlignment="Center" RowDefinitions="Auto,Auto,Auto,Auto" ColumnDefinitions="*,2*">
 
         <TextBlock Grid.Row="0" Grid.Column="1" Text="{Binding StreakText}" FontSize="24" HorizontalAlignment="Right" />
-        <AutoCompleteBox Grid.Row="0" Grid.Column="0" MinWidth="100" ItemsSource="{Binding Names}" Text="{Binding NameInput, Mode=TwoWay}"
+        <StackPanel Grid.Row="0" Grid.Column="0" Orientation="Horizontal">
+        <AutoCompleteBox Margin="5" MinWidth="100" ItemsSource="{Binding Names}" Text="{Binding NameInput, Mode=TwoWay}"
                          SelectedItem="{Binding SelectedName}" Watermark="Name" FontSize="24" FilterMode="StartsWith"
                          HorizontalAlignment="Left" />
+        <Button FontSize="24" Margin="5 4 5 5" Command="{Binding SkipCommand}" >Skip</Button>
+        </StackPanel>
         <Image Margin="5" MaxHeight="200" Stretch="Uniform" Grid.Row="1" Grid.Column="0" Source="{Binding SelectedSprite}"
                VerticalAlignment="Center" HorizontalAlignment="Left"/>
         <TextBlock Grid.Row="1" Grid.Column="1" Text="{Binding SelectedQuote}"
