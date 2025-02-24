@@ -163,6 +163,7 @@ public partial class MainViewModel : ViewModelBase
     [RelayCommand]
     public async Task Skip()
     {
+        Streak = 0;
         await NextQuote(true);
     }
     
