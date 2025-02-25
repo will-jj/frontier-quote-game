@@ -1122,7 +1122,7 @@
   {
     "Class": "Ace Trainer",
     "Name": "Yardley",
-    "Sprite": "Ace Trainer_53_.png",
+    "Sprite": "Ace Trainer_24_.png",
     "Greeting": "Oi, you! Yeah, you! Snap to it! I\u2019ll be training you!",
     "Win": "What?! You\u2019re down and out already?! This is no bed! Get up!",
     "Loss": "Good! Enough! That will do for today!"
@@ -1130,7 +1130,7 @@
   {
     "Class": "Ace Trainer",
     "Name": "Stavros",
-    "Sprite": "Ace Trainer_53_.png",
+    "Sprite": "Ace Trainer_24_.png",
     "Greeting": "Fwah? You mean to challenge me?",
     "Win": "Fwahaha! I win! Better luck next time, punk!",
     "Loss": "Fwaah?! You defeated me? Who are you to do that?!"
@@ -1138,7 +1138,7 @@
   {
     "Class": "Ace Trainer",
     "Name": "Zane",
-    "Sprite": "Ace Trainer_53_.png",
+    "Sprite": "Ace Trainer_24_.png",
     "Greeting": "Ooh, it gives me shivers... I live for this moment.",
     "Win": "Oh, yeah... That\u2019s it... Perfection doesn\u2019t come better...",
     "Loss": "It\u2019s gotten so I can\u2019t live without battling anymore."
@@ -1146,7 +1146,7 @@
   {
     "Class": "Ace Trainer",
     "Name": "Kim",
-    "Sprite": "Ace Trainer_54_.png",
+    "Sprite": "Ace Trainer_25_.png",
     "Greeting": "OK! I\u2019m going to do it! I\u2019m going to show you my best!",
     "Win": "Gasp, gasp...",
     "Loss": "Never again! You can forget about a next time!"
@@ -1154,7 +1154,7 @@
   {
     "Class": "Ace Trainer",
     "Name": "Macy",
-    "Sprite": "Ace Trainer_54_.png",
+    "Sprite": "Ace Trainer_25_.png",
     "Greeting": "Um... I\u2019m honestly quite tough. Please keep up.",
     "Win": "I\u2019m sorry. I don\u2019t think you measure up after all.",
     "Loss": "I\u2019m amazed. I didn\u2019t think you\u2019d win..."
@@ -1162,7 +1162,7 @@
   {
     "Class": "Ace Trainer",
     "Name": "Faun",
-    "Sprite": "Ace Trainer_54_.png",
+    "Sprite": "Ace Trainer_25_.png",
     "Greeting": "Let\u2019s go, me! Go, me, go! Don\u2019t lose, don\u2019t lose, rah, rah, rah!",
     "Win": "Way to go, me! I\u2019m so wonderful! Rah, rah, rah! Gooooooo, me!",
     "Loss": "It\u2019s OK, me! Don\u2019t cry! Don\u2019t cry! Go home, go home, goooooo!"
