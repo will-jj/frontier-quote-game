@@ -26,6 +26,8 @@
                    MaxWidth="400" HorizontalAlignment="Right" VerticalAlignment="Center" FontSize="24" TextWrapping="Wrap" />
         <TextBlock Grid.Column="1" Grid.Row="2" FontSize="24" HorizontalAlignment="Right" VerticalAlignment="Top" IsVisible="{Binding AnswerVisible}" Text="{Binding AnswerText}"/>
         <StackPanel Grid.Row="3" Grid.Column="1" Orientation="Vertical" HorizontalAlignment="Right">
+            <CheckBox Margin="5" IsChecked="{Binding IncludeGen3}">Include Emerald quotes</CheckBox>
+            <CheckBox Margin="5" IsChecked="{Binding IncludeGen4}">Include HGSS quotes</CheckBox>
             <CheckBox Margin="5" IsChecked="{Binding IncludeWinning}">Include Winning quotes</CheckBox>
             <CheckBox Margin="5" IsChecked="{Binding IncludeLosing}">Include Losing quotes</CheckBox>
         </StackPanel>

@@ -55,6 +55,12 @@ public partial class MainViewModel : ViewModelBase
     [ObservableProperty]
     public partial string? AnswerText {get; set;}
     
+    [ObservableProperty]
+    public partial bool IncludeGen3 { get; set; }
+
+    [ObservableProperty]
+    public partial bool IncludeGen4 { get; set; } = true;
+    
     public string StreakText => $"Streak: {Streak}";
     
     private List<TrainerQuoted> _trainerQuoteds;
@@ -107,6 +113,18 @@ public partial class MainViewModel : ViewModelBase
         _ = NextQuote();
     }
 
+    partial void OnIncludeGen3Changed(bool oldValue, bool newValue)
+    {
+        Streak = 0;
+        _ = NextQuote();
+    }
+
+    partial void OnIncludeGen4Changed(bool oldValue, bool newValue)
+    {
+        Streak = 0;
+        _ = NextQuote();
+    }
+
     private List<TrainerQuoted>? LoadInfo()
     {
         using Stream stream = AssetLoader.Open(new Uri("avares://FrontierQuotes/Assets/trainers.json"));
@@ -131,8 +149,26 @@ public partial class MainViewModel : ViewModelBase
             await Task.Delay(TimeSpan.FromSeconds(2));
             AnswerVisible = false;
         }
-
-        int trainerId = RandomNumberGenerator.GetInt32(0, Names.Length);
+        int startIdx = 0;
+        int endIdx = 0;
+        
+        if (IncludeGen4 && !IncludeGen3)
+        {
+            startIdx = 0;
+            endIdx = 300;
+        }
+        else if (IncludeGen3 && !IncludeGen4)
+        {
+            startIdx = 300;
+            endIdx = Names.Length;
+        }
+        else
+        {
+            // Empty or both, you get them all
+            startIdx = 0;
+            endIdx = Names.Length;
+        }
+        int trainerId = RandomNumberGenerator.GetInt32(startIdx, endIdx);
         int spriteId = _loadedSprites.FindIndex(s => s.Equals(_trainerQuoteds[trainerId].Sprite));
         SelectedSprite = Sprites[spriteId];
         _correctTrainerQuoted = _trainerQuoteds[trainerId];
