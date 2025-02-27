@@ -2553,14 +2553,6 @@
   },
   {
     "Class": "Camper",
-    "Name": "Al",
-    "Greeting": "YOUR LOOK SAYS YOU'RE REALLY TOUGH",
-    "Win": "IT'S ME WHO IS REALLY TOUGH",
-    "Loss": "I AM RIGHT! YOU'RE REALLY TOUGH",
-    "Sprite": "gen3/camper.png"
-  },
-  {
-    "Class": "Camper",
     "Name": "Mitch",
     "Greeting": "MOTHER NATURE IS MY ALLY!",
     "Win": "WAS THAT ENOUGH FOR YOU?",
