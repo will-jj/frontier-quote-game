@@ -54,9 +54,9 @@ public partial class MainViewModel : ViewModelBase
     
     [ObservableProperty]
     public partial string? AnswerText {get; set;}
-    
+
     [ObservableProperty]
-    public partial bool IncludeGen3 { get; set; }
+    public partial bool IncludeGen3 { get; set; } = true;
 
     [ObservableProperty]
     public partial bool IncludeGen4 { get; set; } = true;
@@ -66,7 +66,15 @@ public partial class MainViewModel : ViewModelBase
     private List<TrainerQuoted> _trainerQuoteds;
     
     private TrainerQuoted? _correctTrainerQuoted;
-    
+
+    private string[] _allNames;
+
+
+    private const int Gen4TrainerCount = 300;
+    private int _startIdx = 0;
+    private int _endIdx = 0;
+
+
     public MainViewModel()
     {
         _trainerQuoteds = LoadInfo()!;
@@ -79,7 +87,23 @@ public partial class MainViewModel : ViewModelBase
             Sprites.Add(new Bitmap(AssetLoader.Open(new Uri($"avares://FrontierQuotes/Assets/Sprites/{trainer.Sprite}"))));
             _loadedSprites.Add(trainer.Sprite);
         }
-        Names = _trainerQuoteds.Select(s => s.Name).ToArray();
+        var allNames = _trainerQuoteds.Select(s => s.Name); 
+        List<string> names = new();
+        foreach(var name in allNames)
+        {
+            // check if name is the start of another name
+            if (allNames.Any(n => n.StartsWith(name) && n != name))
+            {
+                names.Add($"{name}.");
+            }
+            else
+            {
+                names.Add(name);
+            }
+        }
+        _allNames = [.. names];
+        Names = [.. names];
+        _endIdx = Names.Length;
         _ = NextQuote();
     }
     
@@ -115,12 +139,35 @@ public partial class MainViewModel : ViewModelBase
 
     partial void OnIncludeGen3Changed(bool oldValue, bool newValue)
     {
-        Streak = 0;
-        _ = NextQuote();
+        GenChanged();
     }
 
     partial void OnIncludeGen4Changed(bool oldValue, bool newValue)
     {
+        GenChanged();
+    }
+
+    private void GenChanged()
+    {
+        if (IncludeGen4 && !IncludeGen3)
+        {
+            _startIdx = 0;
+            _endIdx = Gen4TrainerCount;
+            Names = _allNames[.._endIdx];
+        }
+        else if (IncludeGen3 && !IncludeGen4)
+        {
+            _startIdx = Gen4TrainerCount;
+            _endIdx = Names.Length;
+            Names = _allNames[_startIdx..];
+        }
+        else
+        {
+            // Empty or both, you get them all
+            _startIdx = 0;
+            _endIdx = Names.Length;
+            Names = _allNames;
+        }
         Streak = 0;
         _ = NextQuote();
     }
@@ -149,26 +196,8 @@ public partial class MainViewModel : ViewModelBase
             await Task.Delay(TimeSpan.FromSeconds(2));
             AnswerVisible = false;
         }
-        int startIdx = 0;
-        int endIdx = 0;
         
-        if (IncludeGen4 && !IncludeGen3)
-        {
-            startIdx = 0;
-            endIdx = 300;
-        }
-        else if (IncludeGen3 && !IncludeGen4)
-        {
-            startIdx = 300;
-            endIdx = Names.Length;
-        }
-        else
-        {
-            // Empty or both, you get them all
-            startIdx = 0;
-            endIdx = Names.Length;
-        }
-        int trainerId = RandomNumberGenerator.GetInt32(startIdx, endIdx);
+        int trainerId = RandomNumberGenerator.GetInt32(_startIdx, _endIdx);
         int spriteId = _loadedSprites.FindIndex(s => s.Equals(_trainerQuoteds[trainerId].Sprite));
         SelectedSprite = Sprites[spriteId];
         _correctTrainerQuoted = _trainerQuoteds[trainerId];
