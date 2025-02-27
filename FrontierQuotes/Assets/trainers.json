@@ -2848,7 +2848,7 @@
     "Sprite": "gen3/bug_maniac.png"
   },
   {
-    "Class": "isherman",
+    "Class": "Fisherman",
     "Name": "Trenton",
     "Greeting": "COME OVER FOR SOME TASTY WATER",
     "Win": "MMM DO YOU WANT SOME?",
@@ -2856,7 +2856,7 @@
     "Sprite": "gen3/fisherman.png"
   },
   {
-    "Class": "isherman",
+    "Class": "Fisherman",
     "Name": "Jenson",
     "Greeting": "MY POKEMON WILL MAKE YOU DOWNCAST",
     "Win": "YOUR POKEMON DON'T MAKE THE CUT",
@@ -2864,7 +2864,7 @@
     "Sprite": "gen3/fisherman.png"
   },
   {
-    "Class": "isherman",
+    "Class": "Fisherman",
     "Name": "Wesley",
     "Greeting": "MEW MEW IS HOW I CRY",
     "Win": "YES I KNOW I AM CUTE!",
@@ -3848,7 +3848,7 @@
     "Sprite": "gen3/bug_maniac.png"
   },
   {
-    "Class": "isherman",
+    "Class": "Fisherman",
     "Name": "Ramiro",
     "Greeting": "I WENT TO A FISHING SCHOOL",
     "Win": "SERIOUSLY I AM IN THE FISHING HALL OF FAME",
@@ -3856,7 +3856,7 @@
     "Sprite": "gen3/fisherman.png"
   },
   {
-    "Class": "isherman",
+    "Class": "Fisherman",
     "Name": "Hunter",
     "Greeting": "SHOW ME A TOTALLY COOL CROSS CHOP",
     "Win": "YOU'RE TOO WEAK TO DO A CROSS CHOP",
@@ -4616,7 +4616,7 @@
     "Sprite": "gen3/bug_maniac.png"
   },
   {
-    "Class": "isherman",
+    "Class": "Fisherman",
     "Name": "Theo",
     "Greeting": "FISHING IS MY CHOICE IN LIFE",
     "Win": "WATER POKEMON ATTRACT ME WITHOUT END",
@@ -4624,7 +4624,7 @@
     "Sprite": "gen3/fisherman.png"
   },
   {
-    "Class": "isherman",
+    "Class": "Fisherman",
     "Name": "Bailey",
     "Greeting": "I AM AN ADULT I BATTLE EASY",
     "Win": "I AM AN ADULT I SWALLOW JOY",
