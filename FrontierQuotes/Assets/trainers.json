@@ -2906,7 +2906,7 @@
   {
     "Class": "Collector",
     "Name": "Arnie",
-    "Greeting": "I AM NO  I HAVE NO RIVAL",
+    "Greeting": "I AM NUMBER ONE I HAVE NO RIVAL",
     "Win": "YOU SEE? I CAN'T LOSE",
     "Loss": "NO! I WON'T ACCEPT THIS",
     "Sprite": "gen3/collector.png"
@@ -3306,7 +3306,7 @@
   {
     "Class": "Battle Girl",
     "Name": "Rayna",
-    "Greeting": "I AM NO  WHEN IT'S ABOUT POWER",
+    "Greeting": "I AM NUMBER ONE WHEN IT'S ABOUT POWER",
     "Win": "UNDERSTAND MY POWER NOW?",
     "Loss": "TERRIBLE... I AM TERRIBLE...",
     "Sprite": "gen3/battle_girl.png"
@@ -4274,7 +4274,7 @@
   {
     "Class": "Dragon Tamer",
     "Name": "Maddox",
-    "Greeting": "DRAGON POKEMON ARE MY NO  CHOICE",
+    "Greeting": "DRAGON POKEMON ARE MY NUMBER ONE CHOICE",
     "Win": "IT'S NO SECRET DRAGON POKEMON WIN",
     "Loss": "DRAGON POKEMON SHOULD NOT LOSE!",
     "Sprite": "gen3/dragon_tamer.png"
@@ -4746,9 +4746,9 @@
   {
     "Class": "Kindler",
     "Name": "Ferris",
-    "Greeting": "I AM NO  IN THE OLD CLASS",
-    "Win": "NO  THAT'S WHAT I AM!",
-    "Loss": "I AM NOT NO  ANY MORE...",
+    "Greeting": "I AM NUMBER ONE IN THE OLD CLASS",
+    "Win": "NUMBER ONE THAT'S WHAT I AM!",
+    "Loss": "I AM NOT NUMBER ONE ANY MORE...",
     "Sprite": "gen3/kindler.png"
   },
   {
