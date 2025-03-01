@@ -1762,7 +1762,7 @@
   {
     "Class": "Ace Trainer",
     "Name": "Sawyer",
-    "Sprite": "gen4/Ace Trainer_53_.png",
+    "Sprite": "gen4/Ace Trainer_24_.png",
     "Greeting": "That\u2019s right, I\u2019m tough. I won\u2019t lose. I don\u2019t think losing\u2019s possible.",
     "Win": "Yup, I\u2019m so tough... Ehehe... Heeheehee...",
     "Loss": "I lost? But, how...? What now? What do I do?"
@@ -1770,7 +1770,7 @@
   {
     "Class": "Ace Trainer",
     "Name": "Charlie",
-    "Sprite": "gen4/Ace Trainer_53_.png",
+    "Sprite": "gen4/Ace Trainer_24_.png",
     "Greeting": "I\u2019m an Ace Trainer, so this is for bragging rights.",
     "Win": "Yup, you did good. No, seriously.",
     "Loss": "Heh... I\u2019ve got a long ways to go..."
@@ -1778,7 +1778,7 @@
   {
     "Class": "Ace Trainer",
     "Name": "Chloe",
-    "Sprite": "gen4/Ace Trainer_54_.png",
+    "Sprite": "gen4/Ace Trainer_25_.png",
     "Greeting": "I was looking forward to a battle with you!",
     "Win": "I was right! You are pretty decent. Why not become an Ace Trainer?",
     "Loss": "You\u2019re as good as the rumors say... May I have a rematch one day?"
@@ -1786,7 +1786,7 @@
   {
     "Class": "Ace Trainer",
     "Name": "Daphne",
-    "Sprite": "gen4/Ace Trainer_54_.png",
+    "Sprite": "gen4/Ace Trainer_25_.png",
     "Greeting": "Look at me. I\u2019m what you should be aspiring to be.",
     "Win": "You expected anything else?",
     "Loss": "You\u2019ve already surpassed me. But you can aim so much higher."
