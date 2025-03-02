@@ -1090,7 +1090,7 @@
   {
     "Class": "Scientist",
     "Name": "Jean",
-    "Sprite": "gen4/Scientist_113_.png",
+    "Sprite": "gen4/Scientist_41_.png",
     "Greeting": "Finally... The time has come to put the fruits of my research to the test...",
     "Win": "Success... Sacrificing my youth was worthwhile.",
     "Loss": "No! Nooooooo! Give me back my youth!"
@@ -1098,7 +1098,7 @@
   {
     "Class": "Scientist",
     "Name": "Brad",
-    "Sprite": "gen4/Scientist_113_.png",
+    "Sprite": "gen4/Scientist_41_.png",
     "Greeting": "I developed a special Pok\u00E9mon drink. Have some! Bottoms up!",
     "Win": "Glug, glug... Belch! It\u2019ll make you strong! Don\u2019t waste it!",
     "Loss": "My Pok\u00E9mon drink contains no actual Pok\u00E9mon or their byproducts."
@@ -2226,7 +2226,7 @@
   {
     "Class": "Scientist",
     "Name": "Irwin",
-    "Sprite": "gen4/Scientist_113_.png",
+    "Sprite": "gen4/Scientist_41_.png",
     "Greeting": "How will you counter my implacable logic?",
     "Win": "Everything according to calculation... This victory is a complete one.",
     "Loss": "You outcalculated me. I\u2019m incredulous."
@@ -2234,7 +2234,7 @@
   {
     "Class": "Scientist",
     "Name": "Flynn",
-    "Sprite": "gen4/Scientist_113_.png",
+    "Sprite": "gen4/Scientist_41_.png",
     "Greeting": "I\u2019ve been ensconced in the lab. My shoulders are all knotted up.",
     "Win": "What a refreshing break! I\u2019m feeling loose and relaxed now.",
     "Loss": "My Pok\u00E9mon and I, we all need to get outside and exercise more."
