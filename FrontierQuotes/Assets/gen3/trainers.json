@@ -1,0 +1,2402 @@
+[
+  {
+    "Class": "Youngster",
+    "Name": "Brady",
+    "Greeting": "I AM NEVER GOING TO LOSE!",
+    "Win": "I AM STRONG AREN'T I?",
+    "Loss": "WHAT? BUT HOW?",
+    "Sprite": "em_youngster.png"
+  },
+  {
+    "Class": "Youngster",
+    "Name": "Conner",
+    "Greeting": "LOSING DOESN'T BUG ME",
+    "Win": "A WIN IS JUST AWESOME",
+    "Loss": "DARN... LOSING DOES BUG ME",
+    "Sprite": "em_youngster.png"
+  },
+  {
+    "Class": "Youngster",
+    "Name": "Bradley",
+    "Greeting": "HEY THERE! YOU'RE MY OPPONENT TODAY",
+    "Win": "HAHAHA! SEE YA LATER!",
+    "Loss": "TOMORROW IS WHEN WE REALLY BATTLE",
+    "Sprite": "em_youngster.png"
+  },
+  {
+    "Class": "Lass",
+    "Name": "Cybil",
+    "Greeting": "YOU'RE REALLY NOT VERY SCARY AT ALL",
+    "Win": "IT'S SAD TO SEE YOU STRUGGLE",
+    "Loss": "THIS CAN'T BE HAPPENING TO ME!",
+    "Sprite": "em_lass.png"
+  },
+  {
+    "Class": "Lass",
+    "Name": "Rodette",
+    "Greeting": "OH THIS IS SO EXCITING!",
+    "Win": "IT'S INCREDIBLE HOW STRONG I AM!",
+    "Loss": "OH DEAR... I AM JUST NO GOOD",
+    "Sprite": "em_lass.png"
+  },
+  {
+    "Class": "Lass",
+    "Name": "Peggy",
+    "Greeting": "GET READY TO BE DESTROYED!",
+    "Win": "HAHAHA!! I AM LOLLING!",
+    "Loss": "I AM FEELING SAD THANKS TO YOU",
+    "Sprite": "em_lass.png"
+  },
+  {
+    "Class": "School Kid",
+    "Name": "Keith",
+    "Greeting": "I DON'T JUST STUDY YOU KNOW",
+    "Win": "YOU DON'T STUDY ENOUGH...",
+    "Loss": "I NEED TO STUDY MORE...",
+    "Sprite": "em_school_kid_m.png"
+  },
+  {
+    "Class": "School Kid",
+    "Name": "Grayson",
+    "Greeting": "A POKEMON BATTLE ISN'T CHILDS PLAY!",
+    "Win": "YOU'RE DONE AREN'T YOU?",
+    "Loss": "WE WERE LIKE TOYS TO YOU",
+    "Sprite": "em_school_kid_m.png"
+  },
+  {
+    "Class": "School Kid",
+    "Name": "Glenn",
+    "Greeting": "I WOULD BE COOL IF I WIN",
+    "Win": "COOL! THAT'S WHAT I AM",
+    "Loss": "I AM NOT GOING TO BE COOL",
+    "Sprite": "em_school_kid_m.png"
+  },
+  {
+    "Class": "School Kid",
+    "Name": "Liliana",
+    "Greeting": "I WON'T GIVE UP UNTIL I WIN",
+    "Win": "THERE IS NO SURRENDER IN ME",
+    "Loss": "THAT'S IT... I GIVE UP...",
+    "Sprite": "em_school_kid_f.png"
+  },
+  {
+    "Class": "School Kid",
+    "Name": "Elise",
+    "Greeting": "MY STRATEGY IS FROM MY FATHER",
+    "Win": "I WIN! FATHER I'VE WON",
+    "Loss": "FORGIVE ME FATHER FOR I'VE LOST",
+    "Sprite": "em_school_kid_f.png"
+  },
+  {
+    "Class": "School Kid",
+    "Name": "Zoey",
+    "Greeting": "PLEASE BATTLE LIKE YOU MEAN IT",
+    "Win": "THANK YOU!! THANK YOU SO MUCH",
+    "Loss": "WERE YOU REALLY BEING SERIOUS?",
+    "Sprite": "em_school_kid_f.png"
+  },
+  {
+    "Class": "Rich Boy",
+    "Name": "Manuel",
+    "Greeting": "ME LOSE? THAT'S PREPOSTEROUS!",
+    "Win": "NATURALLY I WIN",
+    "Loss": "WAAAH! I LOST MOTHER",
+    "Sprite": "em_rich_boy.png"
+  },
+  {
+    "Class": "Rich Boy",
+    "Name": "Russ",
+    "Greeting": "THEY ALL WANT MY FABULOUS POKEMON",
+    "Win": "I WILL HAVE A POKEMON PARTY",
+    "Loss": "HOW COULD YOU DO THAT?",
+    "Sprite": "em_rich_boy.png"
+  },
+  {
+    "Class": "Rich Boy",
+    "Name": "Dustin",
+    "Greeting": "I REALLY LIKE COOL POKEMON",
+    "Win": "I LIKE MYSELF WHEN I WIN!",
+    "Loss": "I LIKE MYSELF IF I LOSE TOO",
+    "Sprite": "em_rich_boy.png"
+  },
+  {
+    "Class": "Lady",
+    "Name": "Tina",
+    "Greeting": "IF I WIN YOU CAN HAVE A SWEET KISS",
+    "Win": "HERE IT IS YOUR SWEET KISS FROM MY JYNX",
+    "Loss": "YOU WANT A SWIFT MEGA KICK INSTEAD",
+    "Sprite": "em_lady.png"
+  },
+  {
+    "Class": "Lady",
+    "Name": "Gillian",
+    "Greeting": "THE GOURMET THING IS SO YESTERDAY",
+    "Win": "POKEMON NEVER GO OUT OF FASHION",
+    "Loss": "LOSING DOESN'T DISAPPOINT ME",
+    "Sprite": "em_lady.png"
+  },
+  {
+    "Class": "Lady",
+    "Name": "Zoe",
+    "Greeting": "I HAVEN'T A WORRY AT ALL",
+    "Win": "LIFE IS ALWAYS GOOD TO ME",
+    "Loss": "I WORRY ABOUT MY POKEMON SKILL",
+    "Sprite": "em_lady.png"
+  },
+  {
+    "Class": "Camper",
+    "Name": "Chen",
+    "Greeting": "I AM TOTALLY READY TO ROCK TODAY",
+    "Win": "I AM READY TO GO ON!",
+    "Loss": "I'VE LOST MY FOCUS ENERGY AND TOUGHNESS",
+    "Sprite": "em_camper.png"
+  },
+  {
+    "Class": "Camper",
+    "Name": "Al",
+    "Greeting": "YOUR LOOK SAYS YOU'RE REALLY TOUGH",
+    "Win": "IT'S ME WHO IS REALLY TOUGH",
+    "Loss": "I AM RIGHT! YOU'RE REALLY TOUGH",
+    "Sprite": "em_camper.png"
+  },
+  {
+    "Class": "Camper",
+    "Name": "Mitch",
+    "Greeting": "MOTHER NATURE IS MY ALLY!",
+    "Win": "WAS THAT ENOUGH FOR YOU?",
+    "Loss": "MOTHER NATURE DIDN'T LET ME WIN?",
+    "Sprite": "em_camper.png"
+  },
+  {
+    "Class": "Picnicker",
+    "Name": "Anne",
+    "Greeting": "I CAN'T WAIT LET'S BATTLE NOW",
+    "Win": "MY HAPPINESS IS OVERWHELMING!",
+    "Loss": "YOU'VE DESTROYED MY HAPPINESS...",
+    "Sprite": "em_picnicker.png"
+  },
+  {
+    "Class": "Picnicker",
+    "Name": "Alize",
+    "Greeting": "CUTE AND AWFULLY STRONG THAT'S ME",
+    "Win": "YUP I AM CUTE AND AWFULLY STRONG",
+    "Loss": "I AM WEAK... BUT I AM CUTE",
+    "Sprite": "em_picnicker.png"
+  },
+  {
+    "Class": "Picnicker",
+    "Name": "Lauren",
+    "Greeting": "I AM OLD BUT I AM ALSO GOOD",
+    "Win": "I SAID I WAS OLD BUT GOOD",
+    "Loss": "WHAT A WEIRD DREAM THAT WAS!",
+    "Sprite": "em_picnicker.png"
+  },
+  {
+    "Class": "Tuber",
+    "Name": "Kipp",
+    "Greeting": "IF I WIN I AM GOING TO GO SURF",
+    "Win": "YEAH! I AM OFF TO SURF",
+    "Loss": "OH NO! A WHIRLPOOL!",
+    "Sprite": "em_tuber_m.png"
+  },
+  {
+    "Class": "Tuber",
+    "Name": "Jason",
+    "Greeting": "TEACH ME A GOOD STRATEGY",
+    "Win": "THAT WAS YOUR GOOD STRATEGY?!",
+    "Loss": "WOW THAT IS AN AWESOME STRATEGY",
+    "Sprite": "em_tuber_m.png"
+  },
+  {
+    "Class": "Tuber",
+    "Name": "John",
+    "Greeting": "I AM A PRETTY NEW TRAINER",
+    "Win": "I AM NEW BUT I WON!",
+    "Loss": "I AM NEW SO WHAT IF I LOSE?",
+    "Sprite": "em_tuber_m.png"
+  },
+  {
+    "Class": "Tuber",
+    "Name": "Ann",
+    "Greeting": "IT'S SO EXCITING IT REALLY IS",
+    "Win": "I AM SO HAPPY I CAN CRY",
+    "Loss": "I AM SO SAD I WILL CRY",
+    "Sprite": "em_tuber_f.png"
+  },
+  {
+    "Class": "Tuber",
+    "Name": "Eileen",
+    "Greeting": "LET'S PRETEND I AM AN ADULT OK?",
+    "Win": "SO THIS IS AN ADULT FEELING",
+    "Loss": "AN ADULT CAN'T BEAT YOU?",
+    "Sprite": "em_tuber_f.png"
+  },
+  {
+    "Class": "Tuber",
+    "Name": "Carlie",
+    "Greeting": "MY SUMMER VACATION IS FOR POKEMON",
+    "Win": "MY SUMMER VACATION WILL BE AWESOME",
+    "Loss": "I CAN'T WIN LIKE THIS...",
+    "Sprite": "em_tuber_f.png"
+  },
+  {
+    "Class": "Swimmer",
+    "Name": "Gordon",
+    "Greeting": "VICTORY WILL COME TO ME!",
+    "Win": "OH YEAH! I REALLY WON",
+    "Loss": "NOTHING IS WORKING OUT FOR ME",
+    "Sprite": "em_swimmer_m.png"
+  },
+  {
+    "Class": "Swimmer",
+    "Name": "Ayden",
+    "Greeting": "COME ON I NEED A HOT BATTLE",
+    "Win": "I NEED WATER TO COOL DOWN",
+    "Loss": "YOU HAVE ME FEELING ICE COLD",
+    "Sprite": "em_swimmer_m.png"
+  },
+  {
+    "Class": "Swimmer",
+    "Name": "Marco",
+    "Greeting": "I SURF IN THE WINTER TOO",
+    "Win": "I WILL GO SURF RIGHT NOW",
+    "Loss": "I WILL BEAT UP MY SURF BOARD",
+    "Sprite": "em_swimmer_m.png"
+  },
+  {
+    "Class": "Swimmer",
+    "Name": "Cierra",
+    "Greeting": "I LIKE TO SYNCHRONIZE MY SWIFT SWIM",
+    "Win": "MY POKEMON SYNCHRONIZE WITH ME",
+    "Loss": "I NEED TO SYNCHRONIZE BETTER...",
+    "Sprite": "em_swimmer_f.png"
+  },
+  {
+    "Class": "Swimmer",
+    "Name": "Marcy",
+    "Greeting": "I AM A KNOCKOUT YOU CAN'T WIN!",
+    "Win": "AFTER ALL I AM A KNOCKOUT!",
+    "Loss": "THAT'S NOT THE KNOCKOUT I MEAN",
+    "Sprite": "em_swimmer_f.png"
+  },
+  {
+    "Class": "Swimmer",
+    "Name": "Kathy",
+    "Greeting": "I'VE WON EVERY MATCH TODAY!",
+    "Win": "IT'S SO GREAT TO WIN!",
+    "Loss": "HUH? I SHOULD NOT HAVE LOST",
+    "Sprite": "em_swimmer_f.png"
+  },
+  {
+    "Class": "Pokefan",
+    "Name": "Peyton",
+    "Greeting": "I AM NEVER DISAPPOINTED WITH MY POKEMON",
+    "Win": "I AM HAPPY IF WE WIN TOGETHER",
+    "Loss": "I ADORE MY POKEMON MORE IF I LOSE",
+    "Sprite": "em_pokefan_m.png"
+  },
+  {
+    "Class": "Pokefan",
+    "Name": "Julian",
+    "Greeting": "YOU ADORE YOUR POKEMON RIGHT?",
+    "Win": "YOU'RE TOTALLY OUT OF THE QUESTION",
+    "Loss": "YOU DO ADORE YOUR POKEMON!",
+    "Sprite": "em_pokefan_m.png"
+  },
+  {
+    "Class": "Pokefan",
+    "Name": "Quinn",
+    "Greeting": "MY POKEMON ARE BUT A DREAM",
+    "Win": "THIS IS A BEAUTIFUL DREAM!",
+    "Loss": "THIS IS AN AWFUL NIGHTMARE!",
+    "Sprite": "em_pokefan_m.png"
+  },
+  {
+    "Class": "Pokefan",
+    "Name": "Haylee",
+    "Greeting": "I DON'T KNOW HOW I AM FEELING",
+    "Win": "I AM FEELING OVERWHELMING JOY OVER THIS",
+    "Loss": "DESTROYED IS THE WAY I AM FEELING",
+    "Sprite": "em_pokefan_f.png"
+  },
+  {
+    "Class": "Pokefan",
+    "Name": "Amanda",
+    "Greeting": "I COME FROM A TRAINER FAMILY",
+    "Win": "I WILL TREASURE THIS WIN",
+    "Loss": "I WANT TO GO HOME RIGHT NOW",
+    "Sprite": "em_pokefan_f.png"
+  },
+  {
+    "Class": "Pokefan",
+    "Name": "Stacy",
+    "Greeting": "ALL POKEMON HAVE THEIR OWN CUTE CHARM",
+    "Win": "YOU SEE WHAT I MEAN?",
+    "Loss": "SHOULD I NOT ADORE POKEMON?",
+    "Sprite": "em_pokefan_f.png"
+  },
+  {
+    "Class": "Pok\u00e9mon Breeder",
+    "Name": "Rafael",
+    "Greeting": "COME ON! LET'S SEE SOME SPIRIT",
+    "Win": "THAT'S IT! THAT'S THE SPIRIT!",
+    "Loss": "WELL SO MUCH FOR OUR SPIRIT",
+    "Sprite": "em_pkmn_breeder_m.png"
+  },
+  {
+    "Class": "Pok\u00e9mon Breeder",
+    "Name": "Oliver",
+    "Greeting": "A GENIUS THAT'S WHAT I AM!",
+    "Win": "THAT'S HOW A GENIUS WORKS!",
+    "Loss": "YOU'RE MORE A GENIUS THAN I AM",
+    "Sprite": "em_pkmn_breeder_m.png"
+  },
+  {
+    "Class": "Pok\u00e9mon Breeder",
+    "Name": "Payton",
+    "Greeting": "I TRAIN FROM THE EGG UP",
+    "Win": "WELL DONE!",
+    "Loss": "THAT WAS A SOFT BOILED LOSS...",
+    "Sprite": "em_pkmn_breeder_m.png"
+  },
+  {
+    "Class": "Pok\u00e9mon Breeder",
+    "Name": "Pamela",
+    "Greeting": "ALL POKEMON ADORE A KIND TRAINER",
+    "Win": "IT'S TOO BAD YOU LOST",
+    "Loss": "YOU'RE KIND AND YOU'RE ALSO STRONG",
+    "Sprite": "em_pkmn_breeder_f.png"
+  },
+  {
+    "Class": "Pok\u00e9mon Breeder",
+    "Name": "Eliza",
+    "Greeting": "I ADORE POKEMON LIKE MY CHILDREN",
+    "Win": "I AM SO HAPPY FOR MY POKEMON",
+    "Loss": "OH DEAR I AM SO SORRY ABOUT THIS",
+    "Sprite": "em_pkmn_breeder_f.png"
+  },
+  {
+    "Class": "Pok\u00e9mon Breeder",
+    "Name": "Marisa",
+    "Greeting": "I PROMISE TO BATTLE SERIOUSLY",
+    "Win": "PROMISE ME YOU WILL DO BETTER",
+    "Loss": "PROMISE ME ANOTHER BATTLE PLEASE!",
+    "Sprite": "em_pkmn_breeder_f.png"
+  },
+  {
+    "Class": "Bug Catcher",
+    "Name": "Lewis",
+    "Greeting": "A LITTLE BUG IS SCARY? HAHAHA",
+    "Win": "LOOK LOOK! A SCARY BUG",
+    "Loss": "OH A BUG ISN'T SCARY...",
+    "Sprite": "em_bug_catcher.png"
+  },
+  {
+    "Class": "Bug Catcher",
+    "Name": "Yoshi",
+    "Greeting": "BUG POKEMON MAKE ME FEELING LOVEY DOVEY",
+    "Win": "BUG POKEMON ARE THE BEST!",
+    "Loss": "YOU'RE IGNORANT ABOUT BUG POKEMON",
+    "Sprite": "em_bug_catcher.png"
+  },
+  {
+    "Class": "Bug Catcher",
+    "Name": "Destin",
+    "Greeting": "IT'S WAY TOO HOT HERE",
+    "Win": "I AM ABOUT TO OVERHEAT",
+    "Loss": "PLEASE I NEED SOME WATER",
+    "Sprite": "em_bug_catcher.png"
+  },
+  {
+    "Class": "Ninja Boy",
+    "Name": "Keon",
+    "Greeting": "FORGIVE ME BUT HERE I COME!",
+    "Win": "FORGIVE ME FOR MY OVERWHELMING POWER",
+    "Loss": "I AM SORRY...",
+    "Sprite": "em_ninja_boy.png"
+  },
+  {
+    "Class": "Ninja Boy",
+    "Name": "Stuart",
+    "Greeting": "I PROMISE YOU A HOT BATTLE",
+    "Win": "THE MASTER OF COOL THAT'S ME",
+    "Loss": "I SEE I AM NOT SO COOL",
+    "Sprite": "em_ninja_boy.png"
+  },
+  {
+    "Class": "Ninja Boy",
+    "Name": "Nestor",
+    "Greeting": "SHOW ME A REALLY SMOOTH MOVE",
+    "Win": "THERE WAS NOTHING SMOOTH ABOUT THAT",
+    "Loss": "YOU REALLY ARE SMOOTH!",
+    "Sprite": "em_ninja_boy.png"
+  },
+  {
+    "Class": "Bug Maniac",
+    "Name": "Derrick",
+    "Greeting": "LET'S SEE YOU MEDITATE LIKE ME",
+    "Win": "HOW I MEDITATE IS JUST BEAUTIFUL",
+    "Loss": "I WILL MEDITATE FOR A CALM MIND",
+    "Sprite": "em_bug_maniac.png"
+  },
+  {
+    "Class": "Bug Maniac",
+    "Name": "Bryson",
+    "Greeting": "POISON POWDER IS IN OUR COTTON SPORE MOVE",
+    "Win": "HOW DO YOU LIKE OUR POISON POWDER?",
+    "Loss": "MY COTTON SPORE WAS USELESS",
+    "Sprite": "em_bug_maniac.png"
+  },
+  {
+    "Class": "Bug Maniac",
+    "Name": "Clayton",
+    "Greeting": "HUH? WHERE IS IT?",
+    "Win": "WHERE IS IT? I'VE LOST MY POKENAV",
+    "Loss": "WHERE IS IT? I'VE LOST MY SENSE",
+    "Sprite": "em_bug_maniac.png"
+  },
+  {
+    "Class": "Fisherman",
+    "Name": "Trenton",
+    "Greeting": "COME OVER FOR SOME TASTY WATER",
+    "Win": "MMM DO YOU WANT SOME?",
+    "Loss": "I GOT THIS TASTY WATER SHOPPING",
+    "Sprite": "em_fisherman.png"
+  },
+  {
+    "Class": "Fisherman",
+    "Name": "Jenson",
+    "Greeting": "MY POKEMON WILL MAKE YOU DOWNCAST",
+    "Win": "YOUR POKEMON DON'T MAKE THE CUT",
+    "Loss": "I AM THE TRAINER WHO IS FEELING DOWNCAST",
+    "Sprite": "em_fisherman.png"
+  },
+  {
+    "Class": "Fisherman",
+    "Name": "Wesley",
+    "Greeting": "MEW MEW IS HOW I CRY",
+    "Win": "YES I KNOW I AM CUTE!",
+    "Loss": "MEW MEW! MEW!!",
+    "Sprite": "em_fisherman.png"
+  },
+  {
+    "Class": "Ruin Maniac",
+    "Name": "Anton",
+    "Greeting": "GET READY FOR ME TO THRASH",
+    "Win": "WAHAHAHA! SORRY ABOUT THAT!",
+    "Loss": "IT'S A TOUGH LOSS TO SWALLOW",
+    "Sprite": "em_ruin_maniac.png"
+  },
+  {
+    "Class": "Ruin Maniac",
+    "Name": "Lawson",
+    "Greeting": "I AM YOUNG AT HEART!",
+    "Win": "NOT COOL! NOT AT ALL",
+    "Loss": "I AM OLD AND FEELING SHAKY...",
+    "Sprite": "em_ruin_maniac.png"
+  },
+  {
+    "Class": "Ruin Maniac",
+    "Name": "Sammy",
+    "Greeting": "MY PARTY IS READY TO ROCK",
+    "Win": "MY PARTY IS JUST INCREDIBLE!",
+    "Loss": "I CRY FOR MY PARTY...",
+    "Sprite": "em_ruin_maniac.png"
+  },
+  {
+    "Class": "Collector",
+    "Name": "Arnie",
+    "Greeting": "I AM NUMBER ONE I HAVE NO RIVAL",
+    "Win": "YOU SEE? I CAN'T LOSE",
+    "Loss": "NO! I WON'T ACCEPT THIS",
+    "Sprite": "em_collector.png"
+  },
+  {
+    "Class": "Collector",
+    "Name": "Adrian",
+    "Greeting": "YAHOO! YAHOO!!",
+    "Win": "THANK YOU! THANK YOU!!",
+    "Loss": "GOOD BYE! GOOD BYE!!",
+    "Sprite": "em_collector.png"
+  },
+  {
+    "Class": "Collector",
+    "Name": "Tristan",
+    "Greeting": "CONFUSED? I AM A GENIUS",
+    "Win": "SEE? I AM A GENIUS",
+    "Loss": "I AM NOT A GENIUS IN BATTLE",
+    "Sprite": "em_collector.png"
+  },
+  {
+    "Class": "Parasol Lady",
+    "Name": "Juliana",
+    "Greeting": "I THINK I AM SHOPPING TOO MUCH",
+    "Win": "BUT I WANT A POKEMON PLUSH DOLL",
+    "Loss": "I SO WANT ANOTHER POKEMON PLUSH DOLL",
+    "Sprite": "parasol_lady.png"
+  },
+  {
+    "Class": "Parasol Lady",
+    "Name": "Rylee",
+    "Greeting": "SHOW ME THAT YOU HAVE GUTS",
+    "Win": "BYE BYE! YOU HAVE NO GUTS",
+    "Loss": "THAT WAS GUTSY... YOU'RE QUITE SUPER",
+    "Sprite": "parasol_lady.png"
+  },
+  {
+    "Class": "Parasol Lady",
+    "Name": "Chelsea",
+    "Greeting": "I SERIOUSLY MEAN TO WIN!",
+    "Win": "THAT WAS MY WILL TO WIN",
+    "Loss": "YOU'RE FAR TOO STRONG FOR ME",
+    "Sprite": "parasol_lady.png"
+  },
+  {
+    "Class": "Beauty",
+    "Name": "Danela",
+    "Greeting": "YOU MUST BE MY OPPONENT NOW!",
+    "Win": "OH DEAR TOO WEAK! DON'T GIVE UP!",
+    "Loss": "THAT WAS GOOD AND THIS IS GOOD BYE",
+    "Sprite": "em_beauty.png"
+  },
+  {
+    "Class": "Beauty",
+    "Name": "Lizbeth",
+    "Greeting": "IF I LOSE YOU CAN HAVE A PRESENT",
+    "Win": "HERE IT IS A LITTLE PRAISE AS YOUR PRESENT",
+    "Loss": "YOUR PRESENT?! HERE IT IS A DOUBLE SLAP",
+    "Sprite": "em_beauty.png"
+  },
+  {
+    "Class": "Beauty",
+    "Name": "Amelia",
+    "Greeting": "I BELIEVE IN CUTE FASHION APPEAL",
+    "Win": "YOUR FASHION SENSE IS A DISASTER",
+    "Loss": "THAT WAS AWFUL! I AM GOING HOME",
+    "Sprite": "em_beauty.png"
+  },
+  {
+    "Class": "Aroma Lady",
+    "Name": "Jillian",
+    "Greeting": "WHAT IS THAT I SMELL?",
+    "Win": "IT'S THE SWEET SCENT OF TASTY WATER",
+    "Loss": "IT'S YOUR OFFENSIVE STENCH THAT'S WHAT",
+    "Sprite": "em_aroma_lady.png"
+  },
+  {
+    "Class": "Aroma Lady",
+    "Name": "Abbie",
+    "Greeting": "YOU TRY MY SECRET AROMATHERAPY OK?",
+    "Win": "MY AROMATHERAPY IS TERRIBLE FOR YOU",
+    "Loss": "DIDN'T YOU SMELL A THING?!",
+    "Sprite": "em_aroma_lady.png"
+  },
+  {
+    "Class": "Aroma Lady",
+    "Name": "Briana",
+    "Greeting": "MY BOY FRIEND WORKS TOO MUCH",
+    "Win": "I ONLY MISS HIM MORE...",
+    "Loss": "I AM SO LONESOME WITHOUT HIM...",
+    "Sprite": "em_aroma_lady.png"
+  },
+  {
+    "Class": "Guitarist",
+    "Name": "Antonio",
+    "Greeting": "I KNOW HOW TO GO GO",
+    "Win": "BUT I DON'T LIKE TO DANCE",
+    "Loss": "GO GO... JUST FLAIL ABOUT",
+    "Sprite": "em_guitarist.png"
+  },
+  {
+    "Class": "Guitarist",
+    "Name": "Jaden",
+    "Greeting": "HELLO I THINK I ADORE YOU",
+    "Win": "YOU MAKE ME THRASH IN FRUSTRATION",
+    "Loss": "THIS IS IT! GOOD BYE FOREVER!",
+    "Sprite": "em_guitarist.png"
+  },
+  {
+    "Class": "Guitarist",
+    "Name": "Dakota",
+    "Greeting": "YOU HAVE TO DANCE WITH POWER",
+    "Win": "GOT IT? DANCE WITH POWER",
+    "Loss": "OKAY YOU UNDERSTAND ALL RIGHT!",
+    "Sprite": "em_guitarist.png"
+  },
+  {
+    "Class": "Bird Keeper",
+    "Name": "Brayden",
+    "Greeting": "COLOR CHANGE VERSION TOYS ARE USELESS!",
+    "Win": "I ONLY COLLECT NORMAL VERSION TOYS",
+    "Loss": "I ATTRACT COLOR CHANGE VERSION TOYS...",
+    "Sprite": "em_bird_keeper.png"
+  },
+  {
+    "Class": "Bird Keeper",
+    "Name": "Corson",
+    "Greeting": "I GET TO BEAT UP ON YOU",
+    "Win": "TOO EASY! I AM SO COOL",
+    "Loss": "WHY?! I CURSE YOU",
+    "Sprite": "em_bird_keeper.png"
+  },
+  {
+    "Class": "Bird Keeper",
+    "Name": "Trevin",
+    "Greeting": "THERE IS NONE BETTER THAN ME",
+    "Win": "YES SIR! I AM THE BEST",
+    "Loss": "SERIOUS?!",
+    "Sprite": "em_bird_keeper.png"
+  },
+  {
+    "Class": "Sailor",
+    "Name": "Patrick",
+    "Greeting": "I AM PERFECT! GIVE UP NOW",
+    "Win": "DON'T BE DISAPPOINTED I AM PERFECT",
+    "Loss": "BUT HOW? I AM PERFECT...",
+    "Sprite": "em_sailor.png"
+  },
+  {
+    "Class": "Sailor",
+    "Name": "Kaden",
+    "Greeting": "WHAT ARE YOU UP TO?",
+    "Win": "YOU WERE A SURPRISE TO ME!",
+    "Loss": "I DON'T KNOW WHO I AM...",
+    "Sprite": "em_sailor.png"
+  },
+  {
+    "Class": "Sailor",
+    "Name": "Maxwell",
+    "Greeting": "HEY THERE WHO IS YOUR RIVAL?",
+    "Win": "MY RIVAL IS MY GIRL FRIEND",
+    "Loss": "I AM MAKING YOU MY RIVAL",
+    "Sprite": "em_sailor.png"
+  },
+  {
+    "Class": "Hiker",
+    "Name": "Daryl",
+    "Greeting": "I ONLY KNOW HOW TO CHARGE",
+    "Win": "AM I OVERWHELMING OR WHAT?",
+    "Loss": "YOU'RE GOING TO A LEGEND!",
+    "Sprite": "em_hiker.png"
+  },
+  {
+    "Class": "Hiker",
+    "Name": "Kenneth",
+    "Greeting": "YOU BETTER NOT SLACK OFF WITH ME",
+    "Win": "DID MY TAUNT INTIMIDATE YOU?",
+    "Loss": "I AM SORRY...",
+    "Sprite": "em_hiker.png"
+  },
+  {
+    "Class": "Hiker",
+    "Name": "Rich",
+    "Greeting": "YOUR FACADE DOESN'T TRICK ME",
+    "Win": "SERIOUSLY ARE YOU REALLY OK?",
+    "Loss": "THAT WAS REALLY TOUGH ON ME",
+    "Sprite": "em_hiker.png"
+  },
+  {
+    "Class": "Kindler",
+    "Name": "Caden",
+    "Greeting": "I CAN'T BE DEFEATED!",
+    "Win": "FIRE! FIRE!!",
+    "Loss": "I AM TIRED... IT'S SO HOT",
+    "Sprite": "em_kindler.png"
+  },
+  {
+    "Class": "Kindler",
+    "Name": "Marlon",
+    "Greeting": "A POKEDEX IS A LITTLE RADIO?",
+    "Win": "A LITTLE RADIO HUH? THAT'S TOTALLY COOL",
+    "Loss": "IT'S NOT? IS POKENAV?",
+    "Sprite": "em_kindler.png"
+  },
+  {
+    "Class": "Kindler",
+    "Name": "Nash",
+    "Greeting": "I AM ON FIRE BABY!",
+    "Win": "I LEFT YOU JUST AN EMBER",
+    "Loss": "AIYEEH!! NO WATER PLEASE",
+    "Sprite": "em_kindler.png"
+  },
+  {
+    "Class": "Running Triathlete",
+    "Name": "Robby",
+    "Greeting": "HAHAHA! HAPPY TO MEET YOU!",
+    "Win": "I AM THE LEADER WITH REFRESHING SERENE GRACE",
+    "Loss": "I WILL THRASH MY TOYS!",
+    "Sprite": "em_running_triathlete_m.png"
+  },
+  {
+    "Class": "Running Triathlete",
+    "Name": "Reece",
+    "Greeting": "MY QUICK ATTACK CAN BEAT A TELEPORT",
+    "Win": "LIKE I SAID I AM DARN FAST",
+    "Loss": "I WAS KIDDING ABOUT THAT TELEPORT THING",
+    "Sprite": "em_running_triathlete_m.png"
+  },
+  {
+    "Class": "Running Triathlete",
+    "Name": "Kathryn",
+    "Greeting": "I DON'T TRAIN GOOD ENOUGH?",
+    "Win": "DON'T TAUNT ME LIKE THAT OK?",
+    "Loss": "WHY COULDN'T I WIN THIS?",
+    "Sprite": "em_running_triathlete_f.png"
+  },
+  {
+    "Class": "Running Triathlete",
+    "Name": "Ellen",
+    "Greeting": "CRUSH YOU LIKE AN EGG!",
+    "Win": "THAT WAS A TASTY VICTORY FOR ME",
+    "Loss": "TOO TOUGH TO CRUSH!",
+    "Sprite": "em_running_triathlete_f.png"
+  },
+  {
+    "Class": "Swimming Triathlete",
+    "Name": "Ramon",
+    "Greeting": "OKAY! THIS IS PERFECTION",
+    "Win": "I AM HAPPY THAT I WON!",
+    "Loss": "IT'S A SECRET WHY I AM HAPPY",
+    "Sprite": "em_swimming_triathlete_m.png"
+  },
+  {
+    "Class": "Swimming Triathlete",
+    "Name": "Arthur",
+    "Greeting": "HERE I COME FEELING READY FOR IT ALL",
+    "Win": "THAT'S IT! THAT WAS FABULOUS!",
+    "Loss": "THAT WAS NOT WHAT I NEED",
+    "Sprite": "em_swimming_triathlete_m.png"
+  },
+  {
+    "Class": "Swimming Triathlete",
+    "Name": "Alondra",
+    "Greeting": "EVERY DAY IS A GREAT DAY",
+    "Win": "MY DIVE WILL BE A LEGEND",
+    "Loss": "MY DIVE LEFT ME COLD...",
+    "Sprite": "em_swimming_triathlete_f.png"
+  },
+  {
+    "Class": "Swimming Triathlete",
+    "Name": "Adriana",
+    "Greeting": "COME SEE AN INCREDIBLE SWIFT SWIM!",
+    "Win": "I MAKE IT LOOK SO EASY",
+    "Loss": "I AM FEELING BEAT UP AND TIRED",
+    "Sprite": "em_swimming_triathlete_f.png"
+  },
+  {
+    "Class": "Cycling Triathlete",
+    "Name": "Malik",
+    "Greeting": "OH NOT ANOTHER BATTLE PLEASE...",
+    "Win": "I FINALLY WON... I AM TIRED",
+    "Loss": "I FINALLY LOST... I AM TIRED",
+    "Sprite": "em_cycling_triathlete_m.png"
+  },
+  {
+    "Class": "Cycling Triathlete",
+    "Name": "Jill",
+    "Greeting": "I AM THE QUICK ATTACK TRAINER!",
+    "Win": "THE QUICK ATTACK TRAINER WINS!",
+    "Loss": "THE QUICK ATTACK TRAINER GIVES UP!",
+    "Sprite": "em_cycling_triathlete_f.png"
+  },
+  {
+    "Class": "Running Triathlete",
+    "Name": "Erik",
+    "Greeting": "I AM THE SPEED BOOST HERO!",
+    "Win": "THANK YOU FROM THE SPEED BOOST HERO!",
+    "Loss": "WAAAH!! NO NO!!",
+    "Sprite": "em_running_triathlete_m.png"
+  },
+  {
+    "Class": "Running Triathlete",
+    "Name": "Yazmin",
+    "Greeting": "I WOULD RATHER RUN THAN BIKE",
+    "Win": "YES I WOULD MUCH RATHER RUN",
+    "Loss": "BYE BYE! I AM GOING TO RUN AWAY",
+    "Sprite": "em_running_triathlete_f.png"
+  },
+  {
+    "Class": "Swimming Triathlete",
+    "Name": "Jamal",
+    "Greeting": "I AM GOING TO BE A FATHER",
+    "Win": "I CAN'T WAIT FOR MY BABY",
+    "Loss": "MY BABY WILL BE TOTALLY AWESOME",
+    "Sprite": "em_swimming_triathlete_m.png"
+  },
+  {
+    "Class": "Swimming Triathlete",
+    "Name": "Leslie",
+    "Greeting": "I AM GOING TO BE A MOTHER",
+    "Win": "A BABY WILL BE A LITTLE CHALLENGE",
+    "Loss": "I AM TOO HAPPY TO BE ANGRY",
+    "Sprite": "em_swimming_triathlete_f.png"
+  },
+  {
+    "Class": "Cycling Triathlete",
+    "Name": "Dave",
+    "Greeting": "WHAT SHOULD I DO TODAY?",
+    "Win": "I SHOULD ENJOY SOME SPORTS!",
+    "Loss": "I WILL GO PLAY A GAME",
+    "Sprite": "em_cycling_triathlete_m.png"
+  },
+  {
+    "Class": "Cycling Triathlete",
+    "Name": "Carlo",
+    "Greeting": "HAH!! YEAH!!",
+    "Win": "I DO THINGS AT EXTREME SPEED!",
+    "Loss": "I LOST AT EXTREME SPEED...",
+    "Sprite": "em_cycling_triathlete_m.png"
+  },
+  {
+    "Class": "Cycling Triathlete",
+    "Name": "Emilia",
+    "Greeting": "ME WORRY? I HAVE NONE",
+    "Win": "AHAHA SEE? THAT WAS FANTASTIC!",
+    "Loss": "AHAHA SEE? THAT WAS ENTERTAINING!",
+    "Sprite": "em_cycling_triathlete_f.png"
+  },
+  {
+    "Class": "Cycling Triathlete",
+    "Name": "Dalia",
+    "Greeting": "MY BIKE IS VERY EXPENSIVE",
+    "Win": "DON'T COME NEAR MY BIKE!",
+    "Loss": "MY BIKE IS MY BEST FRIEND",
+    "Sprite": "em_cycling_triathlete_f.png"
+  },
+  {
+    "Class": "Black Belt",
+    "Name": "Hitomi",
+    "Greeting": "YEAH!! HAH!!",
+    "Win": "WHAT?! I WON?!",
+    "Loss": "AIYEEH!! I AM SORRY!!",
+    "Sprite": "em_black_belt.png"
+  },
+  {
+    "Class": "Black Belt",
+    "Name": "Ricardo",
+    "Greeting": "COME ON! PLAY TIME IS OVER",
+    "Win": "YOU'RE OUT OF HERE!",
+    "Loss": "PLEASE DON'T HIT ME!",
+    "Sprite": "em_black_belt.png"
+  },
+  {
+    "Class": "Black Belt",
+    "Name": "Shizuka",
+    "Greeting": "SHOW ME THAT YOU'RE SERIOUS!",
+    "Win": "I WON'T FORGET ABOUT YOU",
+    "Loss": "YOU'RE PERFECT IN EVERY WAY!",
+    "Sprite": "em_black_belt.png"
+  },
+  {
+    "Class": "Battle Girl",
+    "Name": "Joana",
+    "Greeting": "YOU'RE GOING TO LOSE RIGHT AWAY",
+    "Win": "I AM THE WINNER HEAR ME ROAR",
+    "Loss": "I REFUSE TO ACCEPT THAT OUTRAGE",
+    "Sprite": "em_battle_girl.png"
+  },
+  {
+    "Class": "Battle Girl",
+    "Name": "Kelly",
+    "Greeting": "MY NIGHT SCHOOL IS REALLY SCARY",
+    "Win": "A LADY GHOST APPEARS THERE",
+    "Loss": "THE HOME WORK IS AWFULLY SCARY",
+    "Sprite": "em_battle_girl.png"
+  },
+  {
+    "Class": "Battle Girl",
+    "Name": "Rayna",
+    "Greeting": "I AM NUMBER ONE WHEN IT'S ABOUT POWER",
+    "Win": "UNDERSTAND MY POWER NOW?",
+    "Loss": "TERRIBLE... I AM TERRIBLE...",
+    "Sprite": "em_battle_girl.png"
+  },
+  {
+    "Class": "Expert",
+    "Name": "Evan",
+    "Greeting": "EVERY BATTLE HAS A SMELL",
+    "Win": "OH! THE SWEET SCENT OF VICTORY",
+    "Loss": "THE AWFUL STENCH OF A LOSS",
+    "Sprite": "em_expert_m.png"
+  },
+  {
+    "Class": "Expert",
+    "Name": "Jordan",
+    "Greeting": "GOOD! COME ON!!",
+    "Win": "YOU CAN'T BEAT ME!",
+    "Loss": "WHAT?! BUT HOW?",
+    "Sprite": "em_expert_m.png"
+  },
+  {
+    "Class": "Expert",
+    "Name": "Joel",
+    "Greeting": "FUFUFU...",
+    "Win": "GIGGLE...",
+    "Loss": "HAHAHA...",
+    "Sprite": "em_expert_m.png"
+  },
+  {
+    "Class": "Expert",
+    "Name": "Kristen",
+    "Greeting": "HAHAHA... A KID...",
+    "Win": "JUST A LITTLE KID AFTER ALL!",
+    "Loss": "A TOUGH KID HUH? HUMPH!",
+    "Sprite": "em_expert_f.png"
+  },
+  {
+    "Class": "Expert",
+    "Name": "Selphy",
+    "Greeting": "HUH? WHAT IS IT?",
+    "Win": "OH YES! WHY NOT?",
+    "Loss": "OH NO! WHY NOT?",
+    "Sprite": "em_expert_f.png"
+  },
+  {
+    "Class": "Expert",
+    "Name": "Chloe",
+    "Greeting": "COME WE WILL DO BATTLE NOW",
+    "Win": "MORE! ANOTHER BATTLE!",
+    "Loss": "OH! STRONG YOU ARE",
+    "Sprite": "em_expert_f.png"
+  },
+  {
+    "Class": "Psychic",
+    "Name": "Norton",
+    "Greeting": "I KNOW ONLY YOU",
+    "Win": "EXCUSE ME BUT YOU'RE A PUSHOVER!",
+    "Loss": "YOU'RE SOME KIND OF AWESOME!",
+    "Sprite": "em_psychic_m.png"
+  },
+  {
+    "Class": "Psychic",
+    "Name": "Lukas",
+    "Greeting": "MY JOKING IS PRETTY TERRIBLE...",
+    "Win": "YOUR ROCK HEAD EXISTS TO SHINE!",
+    "Loss": "YOUR ROCK HEAD COME TO SHINE",
+    "Sprite": "em_psychic_m.png"
+  },
+  {
+    "Class": "Psychic",
+    "Name": "Zach",
+    "Greeting": "I AM AN EXCELLENT MIMIC OF POKEMON",
+    "Win": "I AM HAPPY LIKE A LITTLE TOGEPI!",
+    "Loss": "I AM ANGRY LIKE A MANKEY!",
+    "Sprite": "em_psychic_m.png"
+  },
+  {
+    "Class": "Psychic",
+    "Name": "Kaitlyn",
+    "Greeting": "I CRUSH THINGS WITH PSYCHIC POWER",
+    "Win": "MY VICTORY WILL MAKE THE NEWS",
+    "Loss": "NO NO... THIS WON'T DO",
+    "Sprite": "em_psychic_f.png"
+  },
+  {
+    "Class": "Psychic",
+    "Name": "Breanna",
+    "Greeting": "MY POKEMON WILL CRUSH YOU!",
+    "Win": "HAVE SOME MORE OF THIS!",
+    "Loss": "YOU HAVE GUTS AND SKILL",
+    "Sprite": "em_psychic_f.png"
+  },
+  {
+    "Class": "Psychic",
+    "Name": "Kendra",
+    "Greeting": "IF YOU'RE SMART STOP RIGHT NOW",
+    "Win": "I SAID THAT YOU SHOULD STOP",
+    "Loss": "WHY DIDN'T YOU STOP?",
+    "Sprite": "em_psychic_f.png"
+  },
+  {
+    "Class": "Hex Maniac",
+    "Name": "Molly",
+    "Greeting": "WILL MY CUTE CHARM ATTRACT YOU?",
+    "Win": "YOUR POKEMON ARE MY TOYS NOW",
+    "Loss": "OH HOW COULD YOU?",
+    "Sprite": "em_hex_maniac.png"
+  },
+  {
+    "Class": "Hex Maniac",
+    "Name": "Jazmin",
+    "Greeting": "I FORECAST TERRIBLE THINGS FOR YOU",
+    "Win": "THERE WASN'T MY FORECAST RIGHT?",
+    "Loss": "MY FORESIGHT DIDN'T SHOW ME THIS",
+    "Sprite": "em_hex_maniac.png"
+  },
+  {
+    "Class": "Hex Maniac",
+    "Name": "Kelsey",
+    "Greeting": "I HAVEN'T SLEPT IN DAYS...",
+    "Win": "MY SLEEP WILL BE EXCELLENT NOW",
+    "Loss": "YOU HAVE DESTROYED MY SLEEP...",
+    "Sprite": "em_hex_maniac.png"
+  },
+  {
+    "Class": "Pokemaniac",
+    "Name": "Jalen",
+    "Greeting": "I DON'T ALLOW POKEMON TO THRASH",
+    "Win": "HAHAHA! ARE YOU ANGRY?",
+    "Loss": "WHY IS THIS SO HARD?",
+    "Sprite": "em_pokemaniac.png"
+  },
+  {
+    "Class": "Pokemaniac",
+    "Name": "Griffen",
+    "Greeting": "I SWALLOW SLUDGE TO TRANSFORM MYSELF",
+    "Win": "I HAVE A GROWTH OF ACID ARMOR",
+    "Loss": "I HAVE A GROWTH OF SUCTION CUPS",
+    "Sprite": "em_pokemaniac.png"
+  },
+  {
+    "Class": "Pokemaniac",
+    "Name": "Xander",
+    "Greeting": "I GOT MY POKEMON ON RENTAL",
+    "Win": "IT'S INCREDIBLE MY RENTAL POKEMON WON",
+    "Loss": "RENTAL POKEMON AREN'T UP TO SCRATCH",
+    "Sprite": "em_pokemaniac.png"
+  },
+  {
+    "Class": "Gentleman",
+    "Name": "Marvin",
+    "Greeting": "YOU'RE UP TO THE CHALLENGE?",
+    "Win": "I DIDN'T THINK YOU'RE GOOD ENOUGH",
+    "Loss": "I AM FEELING PERFECT THANK YOU SO MUCH",
+    "Sprite": "em_gentleman.png"
+  },
+  {
+    "Class": "Gentleman",
+    "Name": "Brennan",
+    "Greeting": "I WISH TO SEE THE NEWS",
+    "Win": "COMICS GET DAMP FROM DRIZZLE?",
+    "Loss": "THE TIGHT MONEY LIVING CHANNEL?!",
+    "Sprite": "em_gentleman.png"
+  },
+  {
+    "Class": "Bug Maniac",
+    "Name": "Baley",
+    "Greeting": "SCREECH IS LIKE MUSIC TO ME!",
+    "Win": "MY SCREECH STRATEGY IS THE BEST",
+    "Loss": "YOU'RE SOUNDPROOF?",
+    "Sprite": "em_bug_maniac.png"
+  },
+  {
+    "Class": "Ruin Maniac",
+    "Name": "Zackary",
+    "Greeting": "CAN YOU DIG IT YO?",
+    "Win": "TAKE DOWN TAKE A DIVE YO YO",
+    "Loss": "BREAK DOWN DIVE TIME FOR ME",
+    "Sprite": "em_ruin_maniac.png"
+  },
+  {
+    "Class": "Collector",
+    "Name": "Gabriel",
+    "Greeting": "POUND THE THICK FAT ON MY BELLY DRUM",
+    "Win": "POUND MY BELLY DRUM POUND MY BELLY DRUM",
+    "Loss": "MY BELLY DRUM WAS TOO WEAK...",
+    "Sprite": "em_collector.png"
+  },
+  {
+    "Class": "Parasol Lady",
+    "Name": "Emily",
+    "Greeting": "HOW ABOUT A TINY BIT OF HYPNOSIS?",
+    "Win": "MY HYPNOSIS STRATEGY WORKS TO PERFECTION",
+    "Loss": "MY HYPNOSIS STRATEGY WENT BADLY...",
+    "Sprite": "parasol_lady.png"
+  },
+  {
+    "Class": "Beauty",
+    "Name": "Jordyn",
+    "Greeting": "YOU DON'T KNOW MY SECRET...",
+    "Win": "I AM NOT AS I APPEAR...",
+    "Loss": "BUT HOW DID YOU KNOW?",
+    "Sprite": "em_beauty.png"
+  },
+  {
+    "Class": "Aroma Lady",
+    "Name": "Sofia",
+    "Greeting": "PROBABLY HAS A SWEET SCENT",
+    "Win": "THAT'S THE FEELING THAT I GET",
+    "Loss": "I WORK AT THE DEPT STORE",
+    "Sprite": "em_aroma_lady.png"
+  },
+  {
+    "Class": "Cooltrainer",
+    "Name": "Braden",
+    "Greeting": "I CHOOSE YOU! THIS IS IT!",
+    "Win": "I AM FEELING PRETTY AWESOME ABOUT MYSELF",
+    "Loss": "ALL RIGHT! I SURRENDER!",
+    "Sprite": "em_cooltrainer_m.png"
+  },
+  {
+    "Class": "Cooltrainer",
+    "Name": "Kayden",
+    "Greeting": "THEY OVERDO THAT GOURMET THING...",
+    "Win": "THAT GOURMET THING ISN'T FOR ME",
+    "Loss": "HEY THIS IS PRETTY TASTY",
+    "Sprite": "em_cooltrainer_m.png"
+  },
+  {
+    "Class": "Cooltrainer",
+    "Name": "Cooper",
+    "Greeting": "THIS SHOULD ABSOLUTELY BE A PUSHOVER",
+    "Win": "THAT WAS TOO EXCITING FOR ME...",
+    "Loss": "PLEASE! SORRY I AM SORRY",
+    "Sprite": "em_cooltrainer_m.png"
+  },
+  {
+    "Class": "Cooltrainer",
+    "Name": "Julia",
+    "Greeting": "SPIRIT ALONE WON'T MAKE YOU WIN",
+    "Win": "YOU SHOULD ACCEPT THIS WITH SERENE GRACE",
+    "Loss": "FOR NOW GOOD BYE BUT IT'S NOT OVER",
+    "Sprite": "em_cooltrainer_f.png"
+  },
+  {
+    "Class": "Cooltrainer",
+    "Name": "Amara",
+    "Greeting": "WROOOAAR!!! I AM SO READY!!",
+    "Win": "I LOSE MYSELF IF IT'S EXCITING",
+    "Loss": "THAT'S TOO MUCH TO TACKLE!",
+    "Sprite": "em_cooltrainer_f.png"
+  },
+  {
+    "Class": "Cooltrainer",
+    "Name": "Lynn",
+    "Greeting": "YOUR SECRET CAN'T BE HIDDEN FOREVER",
+    "Win": "I KNOW YOUR SECRET NOW!",
+    "Loss": "YOU CAN'T SAFEGUARD YOUR OWN SECRET",
+    "Sprite": "em_cooltrainer_f.png"
+  },
+  {
+    "Class": "Pok\u00e9mon Ranger",
+    "Name": "Jovan",
+    "Greeting": "YOUR BATTLE SENSE IS SADLY LACKING",
+    "Win": "MY BATTLE SENSE IS COOL ISN'T IT?",
+    "Loss": "I WAS MINUS MY NORMAL POWER TODAY",
+    "Sprite": "em_pkmn_ranger_m.png"
+  },
+  {
+    "Class": "Pok\u00e9mon Ranger",
+    "Name": "Dominic",
+    "Greeting": "I HAVE THIS EXCELLENT CAMERA",
+    "Win": "MY CAMERA WAS AWFULLY EXPENSIVE",
+    "Loss": "MY CAMERA DOESN'T MISS A THING",
+    "Sprite": "em_pkmn_ranger_m.png"
+  },
+  {
+    "Class": "Pok\u00e9mon Ranger",
+    "Name": "Nikolas",
+    "Greeting": "I MIMIC POKEMON AFTER EVERY BATTLE",
+    "Win": "IF I WIN I PRETEND I AM A TAUROS",
+    "Loss": "IF I LOSE I PRETEND I AM A MILTANK",
+    "Sprite": "em_pkmn_ranger_m.png"
+  },
+  {
+    "Class": "Pok\u00e9mon Ranger",
+    "Name": "Valeria",
+    "Greeting": "I WISH YOU WOULD NOT GLARE",
+    "Win": "YOU'RE MEAN! I MEAN REALLY",
+    "Loss": "YOU HAVE A REALLY SCARY FACE!",
+    "Sprite": "em_pkmn_ranger_f.png"
+  },
+  {
+    "Class": "Pok\u00e9mon Ranger",
+    "Name": "Delaney",
+    "Greeting": "SCHOOL IS OVER TIME TO PLAY",
+    "Win": "MY BOY FRIEND IS FROM SCHOOL",
+    "Loss": "I HAVE TO WORK NEXT WEEK",
+    "Sprite": "em_pkmn_ranger_f.png"
+  },
+  {
+    "Class": "Pok\u00e9mon Ranger",
+    "Name": "Meghan",
+    "Greeting": "SCHOOL IS OUT TIME TO PLAY",
+    "Win": "MY BOY FRIEND LIKES COMICS",
+    "Loss": "IT'S BACK TO SCHOOL SOON",
+    "Sprite": "em_pkmn_ranger_f.png"
+  },
+  {
+    "Class": "Dragon Tamer",
+    "Name": "Roberto",
+    "Greeting": "DRAGON POKEMON ARE INVINCIBLE!",
+    "Win": "YOU WEREN'T BAD I WAS JUST BETTER",
+    "Loss": "AREN'T YOU SATISFIED YET?",
+    "Sprite": "em_dragon_tamer.png"
+  },
+  {
+    "Class": "Dragon Tamer",
+    "Name": "Damian",
+    "Greeting": "MY PURE POWER IS MACHINE LIKE!",
+    "Win": "MY MACH PUNCH WILL MAKE A BRICK BREAK",
+    "Loss": "ARRGH! NO!!",
+    "Sprite": "em_dragon_tamer.png"
+  },
+  {
+    "Class": "Dragon Tamer",
+    "Name": "Brody",
+    "Greeting": "MY FASHION SENSE SEEMS?",
+    "Win": "IT'S MY FAMILY STAY AT HOME LOOK!",
+    "Loss": "I QUESTION YOUR FASHION SENSE SERIOUSLY",
+    "Sprite": "em_dragon_tamer.png"
+  },
+  {
+    "Class": "Dragon Tamer",
+    "Name": "Graham",
+    "Greeting": "YEAH! YEAH YEAH!!",
+    "Win": "WAHAHAHA WAHAHAHA! WAHAHAHA WAHAHAHA!!",
+    "Loss": "I AM SORRY... IT'S MY BAD",
+    "Sprite": "em_dragon_tamer.png"
+  },
+  {
+    "Class": "Pokefan",
+    "Name": "Tylor",
+    "Greeting": "ARE YOU FEELING MY HEAT WAVE?",
+    "Win": "YES I AM ON FIRE!",
+    "Loss": "BUT I WAS ON FIRE FOR YOU",
+    "Sprite": "em_pokefan_m.png"
+  },
+  {
+    "Class": "Pokefan",
+    "Name": "Jaren",
+    "Greeting": "FIGHTING SPIRIT? ME?",
+    "Win": "I WANT MORE CUTE POKEMON",
+    "Loss": "YOUR POKEMON LOOK QUITE CUTE",
+    "Sprite": "em_pokefan_f.png"
+  },
+  {
+    "Class": "Pok\u00e9mon Breeder",
+    "Name": "Cordell",
+    "Greeting": "A BATTLE IS DECIDED ON SPIRIT",
+    "Win": "CAN'T YOU ACCEPT THAT?",
+    "Loss": "I WILL BE ON MY WAY",
+    "Sprite": "em_pkmn_breeder_m.png"
+  },
+  {
+    "Class": "Pok\u00e9mon Breeder",
+    "Name": "Jazlyn",
+    "Greeting": "IS YOUR POKEDEX REALLY AWESOME?",
+    "Win": "OH YEAH WOW YOUR POKEDEX IS SUPER",
+    "Loss": "AN AVANT GARDE POKEDEX WOULD BE AWESOME",
+    "Sprite": "em_pkmn_breeder_f.png"
+  },
+  {
+    "Class": "Youngster",
+    "Name": "Zachery",
+    "Greeting": "I HAVE MY OWN PLACE YEEHAW!",
+    "Win": "IT'S AN EXCITING TIME FOR ME",
+    "Loss": "YOU CAN'T FLATTEN MY HAPPINESS!",
+    "Sprite": "em_youngster.png"
+  },
+  {
+    "Class": "Youngster",
+    "Name": "Johan",
+    "Greeting": "WINTER WILL SOON BE HERE",
+    "Win": "MY ALLOWANCE COULD USE A HELPING HAND",
+    "Loss": "I ALWAYS USE MY ALLOWANCE UP",
+    "Sprite": "em_youngster.png"
+  },
+  {
+    "Class": "Lass",
+    "Name": "Shea",
+    "Greeting": "DO YOU BATTLE WITH BEAUTY?",
+    "Win": "YOU BATTLE IN AN UGLY WAY",
+    "Loss": "WHAT IS BEAUTY TO YOU?",
+    "Sprite": "em_lass.png"
+  },
+  {
+    "Class": "Lass",
+    "Name": "Kaila",
+    "Greeting": "I AM FEELING THIRSTY RIGHT NOW...",
+    "Win": "I COULD USE A COLD DRINK",
+    "Loss": "THAT LOSS IS HARD TO SWALLOW",
+    "Sprite": "em_lass.png"
+  },
+  {
+    "Class": "School Kid",
+    "Name": "Isiah",
+    "Greeting": "I PRETEND TO STUDY A LOT",
+    "Win": "I TRICK MOTHER FOR MY ALLOWANCE",
+    "Loss": "I DON'T WANT TO STUDY MORE",
+    "Sprite": "em_school_kid_m.png"
+  },
+  {
+    "Class": "School Kid",
+    "Name": "Garrett",
+    "Greeting": "I ENJOY COMICS AND THIS GAME",
+    "Win": "I LIKE THIS MUSIC IDOL TOO",
+    "Loss": "BUT I HAVE TO STUDY MORE",
+    "Sprite": "em_school_kid_m.png"
+  },
+  {
+    "Class": "School Kid",
+    "Name": "Haylie",
+    "Greeting": "I WORRY TOO MUCH TO SLEEP",
+    "Win": "A WIN GIVES ME A CALM MIND",
+    "Loss": "MY INSOMNIA WILL GET BAD...",
+    "Sprite": "em_school_kid_f.png"
+  },
+  {
+    "Class": "School Kid",
+    "Name": "Megan",
+    "Greeting": "I BELIEVE IN AN AROMATHERAPY BATH",
+    "Win": "I WANT A HEALTHY CLEAR BODY",
+    "Loss": "IF ONLY AROMATHERAPY WERE LESS EXPENSIVE",
+    "Sprite": "em_school_kid_f.png"
+  },
+  {
+    "Class": "Rich Boy",
+    "Name": "Issac",
+    "Greeting": "MY HOBBY?",
+    "Win": "I LIKE ANY KIND OF WATER SPORT",
+    "Loss": "I DISLIKE ANY KIND OF MUD SPORT",
+    "Sprite": "em_rich_boy.png"
+  },
+  {
+    "Class": "Rich Boy",
+    "Name": "Quinton",
+    "Greeting": "I AM SAD CAUSE I AM TOO WEAK",
+    "Win": "YOU AREN'T TOO STRONG FOR ME",
+    "Loss": "HEY WHAT DID I DO?",
+    "Sprite": "em_rich_boy.png"
+  },
+  {
+    "Class": "Lady",
+    "Name": "Salma",
+    "Greeting": "YOU'VE GOT YOUR HUSTLE ON!",
+    "Win": "I WIN YOU HUSTLE ON OUT",
+    "Loss": "I DON'T GET HOW I LOST",
+    "Sprite": "em_lady.png"
+  },
+  {
+    "Class": "Lady",
+    "Name": "Ansley",
+    "Greeting": "I AM BORED... DANCE FOR ME",
+    "Win": "YOU'VE BORED ME SOME MORE",
+    "Loss": "TAKE YOUR FRUSTRATION SOME OTHER PLACE",
+    "Sprite": "em_lady.png"
+  },
+  {
+    "Class": "Bug Catcher",
+    "Name": "Holden",
+    "Greeting": "LET'S COMMEMORATE MY COOLNESS IN BATTLE",
+    "Win": "YOU'RE TOO WEAK FOR ANY PRAISE",
+    "Loss": "YOUR BATTLE SENSE IS AMUSING",
+    "Sprite": "em_bug_catcher.png"
+  },
+  {
+    "Class": "Bug Catcher",
+    "Name": "Luca",
+    "Greeting": "WE WILL HAVE A COOL BATTLE",
+    "Win": "I WON IN A COOL WAY",
+    "Loss": "HELLO? I AM JUST A KID",
+    "Sprite": "em_bug_catcher.png"
+  },
+  {
+    "Class": "Ninja Boy",
+    "Name": "Jamison",
+    "Greeting": "MY SECRET POWER IS OVERWHELMING TO POKEMON",
+    "Win": "DID YOU SEE THAT?",
+    "Loss": "I WILL USE SMOKESCREEN TO ESCAPE",
+    "Sprite": "em_ninja_boy.png"
+  },
+  {
+    "Class": "Ninja Boy",
+    "Name": "Gunnar",
+    "Greeting": "I CUT DOWN EVERY OPPONENT",
+    "Win": "DON'T GRUDGE ME FOR YOUR LOSS",
+    "Loss": "PLEASE LOSE THAT SCARY FACE OF YOURS",
+    "Sprite": "em_ninja_boy.png"
+  },
+  {
+    "Class": "Tuber",
+    "Name": "Craig",
+    "Greeting": "I CAN'T WAIT FOR MY TRAIN",
+    "Win": "MY TRAIN ISN'T HERE YET...",
+    "Loss": "HERE IT IS MY TRAIN SEE YA!",
+    "Sprite": "em_tuber_m.png"
+  },
+  {
+    "Class": "Tuber",
+    "Name": "Pierce",
+    "Greeting": "THERE WAS A HEAT WAVE LAST WEEK",
+    "Win": "I CAN'T TAKE A HEAT WAVE",
+    "Loss": "DIDN'T IT HAIL TOO?",
+    "Sprite": "em_tuber_m.png"
+  },
+  {
+    "Class": "Tuber",
+    "Name": "Regina",
+    "Greeting": "I LIKE TO PLAY IN WATER",
+    "Win": "I REFUSE TO COME OUT",
+    "Loss": "YOU'RE NOT MUCH GOOD IN WATER",
+    "Sprite": "em_tuber_f.png"
+  },
+  {
+    "Class": "Tuber",
+    "Name": "Alison",
+    "Greeting": "THIS KINDERGARTEN MAGAZINE IS TOO MUCH",
+    "Win": "HOW TO BUG YOUR TEACHER?",
+    "Loss": "ENJOY A TASTY SCHOOL DIET?",
+    "Sprite": "em_tuber_f.png"
+  },
+  {
+    "Class": "Bug Maniac",
+    "Name": "Hank",
+    "Greeting": "THERE IS A BUG EVENT SOON",
+    "Win": "IT'S A BUG FASHION SHOW!",
+    "Loss": "DON'T YOU LIKE BUG POKEMON?",
+    "Sprite": "em_bug_maniac.png"
+  },
+  {
+    "Class": "Bug Maniac",
+    "Name": "Earl",
+    "Greeting": "THE INVINCIBLE BUG TRAINER IS HERE",
+    "Win": "THE INVINCIBLE BUG TRAINER AM I",
+    "Loss": "SEE HOW FAST I RUN AWAY!",
+    "Sprite": "em_bug_maniac.png"
+  },
+  {
+    "Class": "Fisherman",
+    "Name": "Ramiro",
+    "Greeting": "I WENT TO A FISHING SCHOOL",
+    "Win": "SERIOUSLY I AM IN THE FISHING HALL OF FAME",
+    "Loss": "I WANT TO GO BACK...",
+    "Sprite": "em_fisherman.png"
+  },
+  {
+    "Class": "Fisherman",
+    "Name": "Hunter",
+    "Greeting": "SHOW ME A TOTALLY COOL CROSS CHOP",
+    "Win": "YOU'RE TOO WEAK TO DO A CROSS CHOP",
+    "Loss": "WAS IT A MISTAKE?",
+    "Sprite": "em_fisherman.png"
+  },
+  {
+    "Class": "Ruin Maniac",
+    "Name": "Aiden",
+    "Greeting": "MY WORK IS MAKING ME HEALTHY",
+    "Win": "YOU SEE? I AM HEALTHY!",
+    "Loss": "YOU'RE MORE HEALTHY THAN I AM...",
+    "Sprite": "em_ruin_maniac.png"
+  },
+  {
+    "Class": "Ruin Maniac",
+    "Name": "Xavier",
+    "Greeting": "HEY THERE! LOOK LOOK!!",
+    "Win": "GOOD BYE AND THANK YOU THAT WAS FUNNY",
+    "Loss": "WOWEE! NO NO!!",
+    "Sprite": "em_ruin_maniac.png"
+  },
+  {
+    "Class": "Collector",
+    "Name": "Clinton",
+    "Greeting": "WANT TO SEE MY HYPNOSIS?",
+    "Win": "YOUR FURY SWIPES YOUR STRENGTH YOUNG TRAINER",
+    "Loss": "TCH... I AM TOO WEAK...",
+    "Sprite": "em_collector.png"
+  },
+  {
+    "Class": "Collector",
+    "Name": "Jesse",
+    "Greeting": "THIS BATTLE IS FOR MY MOTHER",
+    "Win": "MOTHER WILL BE HAPPY FOR ME",
+    "Loss": "I WANT MY MOTHER!",
+    "Sprite": "em_collector.png"
+  },
+  {
+    "Class": "Guitarist",
+    "Name": "Eduardo",
+    "Greeting": "OUR MUSIC WILL PLAY ALL NIGHT",
+    "Win": "NIGHTTIME IS WHEN I PLAY BEST",
+    "Loss": "LET'S PARTY UNTIL THE MORNING SUN!",
+    "Sprite": "em_guitarist.png"
+  },
+  {
+    "Class": "Guitarist",
+    "Name": "Hal",
+    "Greeting": "I AM TRENDY AREN'T I?",
+    "Win": "I AM FEELING HIP AND HAPPENING OH YEAH!",
+    "Loss": "I AM ALWAYS TRENDY THANK YOU VERY MUCH",
+    "Sprite": "em_guitarist.png"
+  },
+  {
+    "Class": "Bird Keeper",
+    "Name": "Gage",
+    "Greeting": "HERE IT IS A FLYING TYPE HIDDEN MOVE",
+    "Win": "IT'S A FLYING TYPE VICTORY!",
+    "Loss": "IF I LOSE I JUST FLY AWAY",
+    "Sprite": "em_bird_keeper.png"
+  },
+  {
+    "Class": "Bird Keeper",
+    "Name": "Arnold",
+    "Greeting": "I AM FEELING WEIRD FROM A DREAM",
+    "Win": "YOUR SCARY FACE WAS IN MY DREAM",
+    "Loss": "MY INCREDIBLE DREAM WAS SO WEIRD",
+    "Sprite": "em_bird_keeper.png"
+  },
+  {
+    "Class": "Sailor",
+    "Name": "Jarrett",
+    "Greeting": "COME ON LET'S DANCE LIKE IT'S YESTERDAY",
+    "Win": "YOU LIKE HOW I DANCE?",
+    "Loss": "YOU DON'T APPRECIATE HOW I DANCE",
+    "Sprite": "em_sailor.png"
+  },
+  {
+    "Class": "Sailor",
+    "Name": "Garett",
+    "Greeting": "MY GIRL GIVES ME A LITTLE SWEET KISS",
+    "Win": "MY GIRL FRIEND IS MY TREASURE",
+    "Loss": "A TREASURE ISN'T ALWAYS ABOUT MONEY",
+    "Sprite": "em_sailor.png"
+  },
+  {
+    "Class": "Hiker",
+    "Name": "Emanuel",
+    "Greeting": "SMARTNESS ALONE WON'T MAKE YOU WIN",
+    "Win": "I AM NOT VERY SMART BUT I WON",
+    "Loss": "HOW DID YOU FAKE OUT ME?",
+    "Sprite": "em_hiker.png"
+  },
+  {
+    "Class": "Hiker",
+    "Name": "Gustavo",
+    "Greeting": "CHARGE! CHARGE!!",
+    "Win": "SURRENDER? SO SOON?",
+    "Loss": "YOU CAN'T MAKE ME SURRENDER YET",
+    "Sprite": "em_hiker.png"
+  },
+  {
+    "Class": "Kindler",
+    "Name": "Kameron",
+    "Greeting": "TAKE THAT! IT'S MY FIERY TRICK",
+    "Win": "DID MY FIERY TRICK ASTONISH?",
+    "Loss": "YOU DIDN'T FALL FOR MY TRICK",
+    "Sprite": "em_kindler.png"
+  },
+  {
+    "Class": "Kindler",
+    "Name": "Alfredo",
+    "Greeting": "A FIERY GOURMET AM I!",
+    "Win": "IT'S A TASTY GOURMET VICTORY!",
+    "Loss": "WHAT A DISASTER THAT WAS!",
+    "Sprite": "em_kindler.png"
+  },
+  {
+    "Class": "Gentleman",
+    "Name": "Ruben",
+    "Greeting": "I CAN'T WAIT TO GET GOING",
+    "Win": "GET GOING! THIS IS GOOD BYE",
+    "Loss": "I'VE GOT TO GET GOING",
+    "Sprite": "em_gentleman.png"
+  },
+  {
+    "Class": "Gentleman",
+    "Name": "Lamar",
+    "Greeting": "A PRESENT FOR ME?",
+    "Win": "MMM THIS IS QUITE TASTY...",
+    "Loss": "OH IT'S A GAME IS IT?",
+    "Sprite": "em_gentleman.png"
+  },
+  {
+    "Class": "Youngster",
+    "Name": "Jaxon",
+    "Greeting": "A SHELL ARMOR IS WHAT I WANT",
+    "Win": "MY FATHER AND MOTHER WON'T ACCEPT",
+    "Loss": "PLEASE I NEED A SHELL ARMOR!",
+    "Sprite": "em_youngster.png"
+  },
+  {
+    "Class": "Youngster",
+    "Name": "Logan",
+    "Greeting": "IF I LOSE I WILL STUDY FOR SCHOOL",
+    "Win": "ME STUDY? NOT VERY LIKELY TO SEE",
+    "Loss": "NO THANKS I AM GOING TO SLEEP",
+    "Sprite": "em_youngster.png"
+  },
+  {
+    "Class": "Lass",
+    "Name": "Emilee",
+    "Greeting": "IS THIS KIND OF BATTLE OK?",
+    "Win": "LET'S GO FOR AN ICY WIND SURF",
+    "Loss": "HOW ABOUT A ROCK SLIDE SHOW?",
+    "Sprite": "em_lass.png"
+  },
+  {
+    "Class": "Lass",
+    "Name": "Josie",
+    "Greeting": "A POKEMON FASHION CONTEST IS PRETTY",
+    "Win": "I REALLY LIKE MODE FASHION THINGS",
+    "Loss": "YOU'RE TOTALLY LACKING IN FASHION SENSE",
+    "Sprite": "em_lass.png"
+  },
+  {
+    "Class": "Camper",
+    "Name": "Armando",
+    "Greeting": "I NEED MORE GRASS TYPE POKEMON",
+    "Win": "TRADE ME A GRASS POKEMON PLEASE",
+    "Loss": "THERE AREN'T ENOUGH GRASS TYPE POKEMON",
+    "Sprite": "em_camper.png"
+  },
+  {
+    "Class": "Camper",
+    "Name": "Skyler",
+    "Greeting": "INGRAIN IS MY CHOICE BATTLE MOVE",
+    "Win": "YOU CAN'T MOVE ME NOW!",
+    "Loss": "YOU CUT ME DOWN...",
+    "Sprite": "em_camper.png"
+  },
+  {
+    "Class": "Picnicker",
+    "Name": "Ruth",
+    "Greeting": "I WANT TO ENJOY THIS BATTLE",
+    "Win": "THAT WAS MUCH TOO EASY!",
+    "Loss": "PLEASE STOP I DON'T ENJOY THIS",
+    "Sprite": "em_picnicker.png"
+  },
+  {
+    "Class": "Picnicker",
+    "Name": "Melody",
+    "Greeting": "I WISH SUNDAY IS A SUNNY DAY",
+    "Win": "SUNDAY SEEMS FOREVER TO COME...",
+    "Loss": "THE FORECAST SAYS IT WILL HAIL",
+    "Sprite": "em_picnicker.png"
+  },
+  {
+    "Class": "Swimmer",
+    "Name": "Pedro",
+    "Greeting": "A SWIFT SWIM WILL DO YOU GOOD",
+    "Win": "THAT'S HOW I SINK AN OPPONENT",
+    "Loss": "UH OH! A WHIRLPOOL!",
+    "Sprite": "em_swimmer_m.png"
+  },
+  {
+    "Class": "Swimmer",
+    "Name": "Erick",
+    "Greeting": "I WILL TACKLE YOU DOWN!",
+    "Win": "DON'T YOU RUN AWAY YOU LOSER!",
+    "Loss": "I DIDN'T THINK YOU WOULD COUNTER",
+    "Sprite": "em_swimmer_m.png"
+  },
+  {
+    "Class": "Swimmer",
+    "Name": "Elaine",
+    "Greeting": "MY HEROINE ADVENTURE ISN'T GOING WELL",
+    "Win": "THANK YOU! THAT'S WHAT I NEED",
+    "Loss": "I KNOW I AM NOT A HEROINE",
+    "Sprite": "em_swimmer_f.png"
+  },
+  {
+    "Class": "Swimmer",
+    "Name": "Joyce",
+    "Greeting": "YOU MAKE ME GO AHAHA!",
+    "Win": "LALALA NO LOSING FOR ME!",
+    "Loss": "LALALA... HUH?",
+    "Sprite": "em_swimmer_f.png"
+  },
+  {
+    "Class": "Pokefan",
+    "Name": "Todd",
+    "Greeting": "YOU'RE A LIGHTNINGROD FOR MY POWER",
+    "Win": "THAT'S ALL YOU COULD ABSORB?",
+    "Loss": "YOU REFLECT MY POWER BACK?",
+    "Sprite": "em_pokefan_m.png"
+  },
+  {
+    "Class": "Pokefan",
+    "Name": "Gavin",
+    "Greeting": "I WILL BIDE MY TIME",
+    "Win": "IT'S OVER SO SOON?",
+    "Loss": "MY MISTAKE WAS TOO EXPENSIVE...",
+    "Sprite": "em_pokefan_m.png"
+  },
+  {
+    "Class": "Pokefan",
+    "Name": "Malory",
+    "Greeting": "PROMISE TO SHOW ME CUTE POKEMON",
+    "Win": "GIGGLE... THANK YOU SO MUCH",
+    "Loss": "TCH YOUR POKEMON AREN'T VERY NICE",
+    "Sprite": "em_pokefan_f.png"
+  },
+  {
+    "Class": "Pokefan",
+    "Name": "Esther",
+    "Greeting": "I WANT A NICE PRESENT...",
+    "Win": "PLEASE GET ME A POKEMON GAME",
+    "Loss": "MESSAGE CARDS MAKE A WEAK PRESENT",
+    "Sprite": "em_pokefan_f.png"
+  },
+  {
+    "Class": "Pok\u00e9mon Breeder",
+    "Name": "Oscar",
+    "Greeting": "LET'S SEE YOUR POWER IN FULL",
+    "Win": "THAT WAS NOT YOUR FULL POWER!",
+    "Loss": "NOT FUNNY... YOU'RE TOO STRONG",
+    "Sprite": "em_pkmn_breeder_m.png"
+  },
+  {
+    "Class": "Pok\u00e9mon Breeder",
+    "Name": "Wilson",
+    "Greeting": "WORK IS MAKING ME AN EARLY BIRD",
+    "Win": "ALL WORK AND NO PLAY...",
+    "Loss": "ENDURE IS ALL I CAN DO",
+    "Sprite": "em_pkmn_breeder_m.png"
+  },
+  {
+    "Class": "Pok\u00e9mon Breeder",
+    "Name": "Clare",
+    "Greeting": "YAY! A TOUGH TRAINER!",
+    "Win": "AWW! A WIMPY TRAINER!",
+    "Loss": "COOL! A GENIUS TRAINER!",
+    "Sprite": "em_pkmn_breeder_f.png"
+  },
+  {
+    "Class": "Pok\u00e9mon Breeder",
+    "Name": "Tess",
+    "Greeting": "WANT SOME DESIGN SWEETS?",
+    "Win": "THEY RE A SECRET POKEMON GOURMET ITEM",
+    "Loss": "THEY RE TASTY! REFRESHING TOO!",
+    "Sprite": "em_pkmn_breeder_f.png"
+  },
+  {
+    "Class": "Cooltrainer",
+    "Name": "Leon",
+    "Greeting": "I AM BETTER THAN ANY OTHER TRAINER",
+    "Win": "I DID IT JUMP KICK FOR JOY",
+    "Loss": "BACK HOME I WILL GO...",
+    "Sprite": "em_cooltrainer_m.png"
+  },
+  {
+    "Class": "Cooltrainer",
+    "Name": "Alonzo",
+    "Greeting": "I'VE NOT LOST ONCE YET!",
+    "Win": "YOUR SAD LOOK BECOMES YOU",
+    "Loss": "I DON'T BELIEVE THIS...",
+    "Sprite": "em_cooltrainer_m.png"
+  },
+  {
+    "Class": "Cooltrainer",
+    "Name": "Vince",
+    "Greeting": "THE TOP TRAINER THAT'S ME!",
+    "Win": "THE TOP RANK BELONGS TO ME!",
+    "Loss": "I WILL APPEAL THIS OUTRAGE!",
+    "Sprite": "em_cooltrainer_m.png"
+  },
+  {
+    "Class": "Cooltrainer",
+    "Name": "Bryon",
+    "Greeting": "MY BARRAGE WILL SLAM YOU!",
+    "Win": "YOU DIDN'T COUNT ON ANY LESS?",
+    "Loss": "I JUST DON'T GET IT...",
+    "Sprite": "em_cooltrainer_m.png"
+  },
+  {
+    "Class": "Cooltrainer",
+    "Name": "Ava",
+    "Greeting": "I AM A TREASURE OF THIS WORLD",
+    "Win": "MY WORLD IS FULL OF WONDER",
+    "Loss": "WHY ARE YOU SO TERRIBLE?",
+    "Sprite": "em_cooltrainer_f.png"
+  },
+  {
+    "Class": "Cooltrainer",
+    "Name": "Miriam",
+    "Greeting": "OH A TRAINER WITH A SCARY FACE",
+    "Win": "AHAHA YOU ONLY LOOK SCARY!",
+    "Loss": "AIYEEH! YOU REALLY ARE SCARY",
+    "Sprite": "em_cooltrainer_f.png"
+  },
+  {
+    "Class": "Cooltrainer",
+    "Name": "Carrie",
+    "Greeting": "I WILL SHOW YOU GUTSY!",
+    "Win": "IT'S ALL ABOUT GUTS!",
+    "Loss": "OH NO... SELF DESTRUCT MODE!",
+    "Sprite": "em_cooltrainer_f.png"
+  },
+  {
+    "Class": "Cooltrainer",
+    "Name": "Gillian",
+    "Greeting": "I SEEK A TRULY GREAT BATTLE",
+    "Win": "I NEED A LOT BETTER BATTLE...",
+    "Loss": "THAT WAS A LITTLE TOO MUCH TO TAKE",
+    "Sprite": "em_cooltrainer_f.png"
+  },
+  {
+    "Class": "Pok\u00e9mon Ranger",
+    "Name": "Tyler",
+    "Greeting": "YO! LET'S GO!!",
+    "Win": "YO! I WON YO",
+    "Loss": "YO! I LOST YO",
+    "Sprite": "em_pkmn_ranger_m.png"
+  },
+  {
+    "Class": "Pok\u00e9mon Ranger",
+    "Name": "Chaz",
+    "Greeting": "MY POKEMON HAVE TOO MUCH POWER",
+    "Win": "THEY HAVE MORE POWER NOW!",
+    "Loss": "YEAH TAKE DOWN THEIR POWER A TINY BIT PLEASE",
+    "Sprite": "em_pkmn_ranger_m.png"
+  },
+  {
+    "Class": "Pok\u00e9mon Ranger",
+    "Name": "Nelson",
+    "Greeting": "WELL THEN WILL THIS POKEMON WORK?",
+    "Win": "I SEE THAT IT WAS TOO STRONG",
+    "Loss": "IT DIDN'T MATCH UP WELL I THINK",
+    "Sprite": "em_pkmn_ranger_m.png"
+  },
+  {
+    "Class": "Pok\u00e9mon Ranger",
+    "Name": "Shania",
+    "Greeting": "ALL MY POKEMON ABSOLUTELY ADORE ME",
+    "Win": "HAPPINESS IS A POKEMON WITH CUTE CHARM",
+    "Loss": "YOU'RE SO MEAN TO CUTE POKEMON",
+    "Sprite": "em_pkmn_ranger_f.png"
+  },
+  {
+    "Class": "Pok\u00e9mon Ranger",
+    "Name": "Stella",
+    "Greeting": "I WANT TO SEE YOUR POKEMON",
+    "Win": "WELL AREN'T THEY BORING? AHAHA",
+    "Loss": "YOUR POKEMON ARE SOMETHING ELSE ALL RIGHT",
+    "Sprite": "em_pkmn_ranger_f.png"
+  },
+  {
+    "Class": "Pok\u00e9mon Ranger",
+    "Name": "Dorine",
+    "Greeting": "I AM YOUNG AND STRONG!",
+    "Win": "SEE? AREN'T I GOOD?",
+    "Loss": "THIS ISN'T WORKING OUT AT ALL",
+    "Sprite": "em_pkmn_ranger_f.png"
+  },
+  {
+    "Class": "Dragon Tamer",
+    "Name": "Maddox",
+    "Greeting": "DRAGON POKEMON ARE MY NUMBER ONE CHOICE",
+    "Win": "IT'S NO SECRET DRAGON POKEMON WIN",
+    "Loss": "DRAGON POKEMON SHOULD NOT LOSE!",
+    "Sprite": "em_dragon_tamer.png"
+  },
+  {
+    "Class": "Dragon Tamer",
+    "Name": "Davin",
+    "Greeting": "LET'S HEAR YOU ROAR!",
+    "Win": "WROOOAAR! VICTORY!!",
+    "Loss": "WROOOAAR! WHY?!",
+    "Sprite": "em_dragon_tamer.png"
+  },
+  {
+    "Class": "Dragon Tamer",
+    "Name": "Trevon",
+    "Greeting": "I AM LIVING ONLY WITH DRAGON POKEMON",
+    "Win": "THE WAY I AM LIVING IS PERFECT",
+    "Loss": "YOU'VE DESTROYED THE WAY I AM LIVING",
+    "Sprite": "em_dragon_tamer.png"
+  },
+  {
+    "Class": "Black Belt",
+    "Name": "Mateo",
+    "Greeting": "THIS SHOULD BE OVER SOON ENOUGH",
+    "Win": "WELL THAT DIDN'T TAKE VERY MUCH",
+    "Loss": "I CAN'T LOSE SO SOON!",
+    "Sprite": "em_black_belt.png"
+  },
+  {
+    "Class": "Black Belt",
+    "Name": "Bret",
+    "Greeting": "I LIKE ROCK SOLID POKEMON THE BEST",
+    "Win": "TOUGHNESS IS THE WAY TO GO",
+    "Loss": "I ALSO HAVE A PLUSH DOLL COLLECTION",
+    "Sprite": "em_black_belt.png"
+  },
+  {
+    "Class": "Black Belt",
+    "Name": "Raul",
+    "Greeting": "I REJECT EVERY WEAK TRAINER",
+    "Win": "HUMPH! ANOTHER WEAK TRAINER...",
+    "Loss": "THERE IS NOTHING WEAK ABOUT YOU",
+    "Sprite": "em_black_belt.png"
+  },
+  {
+    "Class": "Battle Girl",
+    "Name": "Kay",
+    "Greeting": "AND YET ANOTHER BATTLE?",
+    "Win": "I WON BUT I AM TIRED...",
+    "Loss": "GOOD IT'S OVER AT LAST...",
+    "Sprite": "em_battle_girl.png"
+  },
+  {
+    "Class": "Battle Girl",
+    "Name": "Elena",
+    "Greeting": "A BATTLE GIRL THAT'S ME!",
+    "Win": "ISN'T A BATTLE GIRL AWESOME?",
+    "Loss": "YOU DISLIKE A BATTLE GIRL?",
+    "Sprite": "em_battle_girl.png"
+  },
+  {
+    "Class": "Battle Girl",
+    "Name": "Alana",
+    "Greeting": "EAT MY INVINCIBLE ATTACK YOU!",
+    "Win": "YOU HAVE MUCH TO LEARN",
+    "Loss": "SO MUCH FOR MY INVINCIBLE ATTACK",
+    "Sprite": "em_battle_girl.png"
+  },
+  {
+    "Class": "Expert",
+    "Name": "Alexas",
+    "Greeting": "GOOD TO MEET YOU YOUNG TRAINER!",
+    "Win": "WAHAHAHA! GIVE IT UP",
+    "Loss": "YOU ARE A STRONG TRAINER KID",
+    "Sprite": "em_expert_m.png"
+  },
+  {
+    "Class": "Expert",
+    "Name": "Weston",
+    "Greeting": "I DON'T PLAY DOWN ALL RIGHT?",
+    "Win": "YOU'RE FAR TOO EASY TO ATTACK",
+    "Loss": "WELL WELL... I SURRENDER...",
+    "Sprite": "em_expert_m.png"
+  },
+  {
+    "Class": "Expert",
+    "Name": "Jasper",
+    "Greeting": "I AM NOT OLD I AM SKILLED!",
+    "Win": "SKILLED THAT'S WHAT I AM!",
+    "Loss": "I AM SHOCKED! DOWN I GO",
+    "Sprite": "em_expert_m.png"
+  },
+  {
+    "Class": "Expert",
+    "Name": "Nadia",
+    "Greeting": "YOU CAN'T BEAT ME DOWN!",
+    "Win": "HAH! I BEAT YOU",
+    "Loss": "I AM BEAT UP AND DOWNCAST...",
+    "Sprite": "em_expert_f.png"
+  },
+  {
+    "Class": "Expert",
+    "Name": "Miranda",
+    "Greeting": "WELL WELL LET'S START",
+    "Win": "WHAT? DONE SO SOON?",
+    "Loss": "WELL I SEE THAT I AM TOO WEAK",
+    "Sprite": "em_expert_f.png"
+  },
+  {
+    "Class": "Expert",
+    "Name": "Emma",
+    "Greeting": "I'VE BEEN HEARING ABOUT YOU",
+    "Win": "I THINK I'VE MISHEARD THINGS",
+    "Loss": "WHAT I'VE BEEN HEARING IS RIGHT",
+    "Sprite": "em_expert_f.png"
+  },
+  {
+    "Class": "Psychic",
+    "Name": "Rolando",
+    "Greeting": "I AM A SUPER POKEMON HERO!",
+    "Win": "WAS THAT ENOUGH FOR YOU?",
+    "Loss": "YOU SHOULD NOT BEAT A HERO",
+    "Sprite": "em_psychic_m.png"
+  },
+  {
+    "Class": "Psychic",
+    "Name": "Stanly",
+    "Greeting": "THIS SHOULD BE AN EASY MATCH",
+    "Win": "IT REALLY WAS EASY",
+    "Loss": "ARE YOU HAPPY NOW?",
+    "Sprite": "em_psychic_m.png"
+  },
+  {
+    "Class": "Psychic",
+    "Name": "Dario",
+    "Greeting": "MY FORESIGHT SAYS I WILL WIN",
+    "Win": "MY FORESIGHT HAS BEEN PERFECT",
+    "Loss": "I DIDN'T SEE THIS REVERSAL...",
+    "Sprite": "em_psychic_m.png"
+  },
+  {
+    "Class": "Psychic",
+    "Name": "Karlee",
+    "Greeting": "SOMETHING GOOD WILL COME OF THIS",
+    "Win": "YOU SEE? FANTASTIC!",
+    "Loss": "THAT SOMETHING GOOD WENT TO YOU",
+    "Sprite": "em_psychic_f.png"
+  },
+  {
+    "Class": "Psychic",
+    "Name": "Jaylin",
+    "Greeting": "EVERY TRAINER HAS BEEN TOO WEAK...",
+    "Win": "IT'S MAKING ME YAWN THAT BATTLE",
+    "Loss": "I SLEPT AND SO I LOST",
+    "Sprite": "em_psychic_f.png"
+  },
+  {
+    "Class": "Psychic",
+    "Name": "Ingrid",
+    "Greeting": "I AM NOT A VERY MEAN TRAINER",
+    "Win": "WASN'T THAT A GOOD MATCH?",
+    "Loss": "I LOST CAUSE YOU'RE MEAN...",
+    "Sprite": "em_psychic_f.png"
+  },
+  {
+    "Class": "Hex Maniac",
+    "Name": "Delilah",
+    "Greeting": "DON'T GRUDGE ME IF I WIN OK?",
+    "Win": "I AM SORRY TO SEE YOU ANGRY",
+    "Loss": "I HAVE A GRUDGE WITH YOU",
+    "Sprite": "em_hex_maniac.png"
+  },
+  {
+    "Class": "Hex Maniac",
+    "Name": "Carly",
+    "Greeting": "I WILL SCATTER SOME POISON POWDER ABOUT",
+    "Win": "IT'S SCARY HOW MY STRATEGY WORKS",
+    "Loss": "I DISLIKE YOU AND YOUR POKEMON",
+    "Sprite": "em_hex_maniac.png"
+  },
+  {
+    "Class": "Hex Maniac",
+    "Name": "Lexie",
+    "Greeting": "WANT TO SEE SCARY POKEMON?",
+    "Win": "WASN'T THAT SCARY EH?",
+    "Loss": "YOU'RE MORE SCARY THAN MY POKEMON",
+    "Sprite": "em_hex_maniac.png"
+  },
+  {
+    "Class": "Pokemaniac",
+    "Name": "Miller",
+    "Greeting": "HELLO? HELLO?!",
+    "Win": "HELLO MOTHER! I WON!",
+    "Loss": "MY PHONE ISN'T WORKING...",
+    "Sprite": "em_pokemaniac.png"
+  },
+  {
+    "Class": "Pokemaniac",
+    "Name": "Marv",
+    "Greeting": "YOU CAN LOSE YOUR SWAGGER NOW",
+    "Win": "THERE IS NO SWAGGER LEFT EH?",
+    "Loss": "GO ON SWAGGER ALL YOU WANT",
+    "Sprite": "em_pokemaniac.png"
+  },
+  {
+    "Class": "Pokemaniac",
+    "Name": "Layton",
+    "Greeting": "I KNOW I AM TOTALLY COOL!",
+    "Win": "YOU CAN LOOK UP TO ME",
+    "Loss": "YOU'RE COOL! NO REALLY!",
+    "Sprite": "em_pokemaniac.png"
+  },
+  {
+    "Class": "Gentleman",
+    "Name": "Brooks",
+    "Greeting": "THIS IS A HIGH LEVEL BATTLE",
+    "Win": "THAT WAS HIGH LEVEL AND EXCITING TOO",
+    "Loss": "YOU'RE TOO HIGH IN LEVEL...",
+    "Sprite": "em_gentleman.png"
+  },
+  {
+    "Class": "Gentleman",
+    "Name": "Gregory",
+    "Greeting": "I AM NOT THAT OLD YET",
+    "Win": "WHO SAYS I AM TOO OLD?",
+    "Loss": "PLEASE I AM REALLY NOT THAT OLD",
+    "Sprite": "em_gentleman.png"
+  },
+  {
+    "Class": "Gentleman",
+    "Name": "Reese",
+    "Greeting": "I'VE A COUPLE THINGS",
+    "Win": "DON'T DIET PLAY SPORTS INSTEAD",
+    "Loss": "INSTEAD OF TELEVISION GET A BOOK",
+    "Sprite": "em_gentleman.png"
+  },
+  {
+    "Class": "Running Triathlete",
+    "Name": "Mason",
+    "Greeting": "PLEASE DON'T MAKE THIS SCARY",
+    "Win": "THANK YOU... I AM HAPPY NOW",
+    "Loss": "I AM DISAPPOINTED...",
+    "Sprite": "em_running_triathlete_m.png"
+  },
+  {
+    "Class": "Running Triathlete",
+    "Name": "Toby",
+    "Greeting": "LISTEN UP I ALWAYS WIN",
+    "Win": "I AM A GENIUS OR WHAT?",
+    "Loss": "I CAN BEAT YOU AT SMARTNESS",
+    "Sprite": "em_running_triathlete_m.png"
+  },
+  {
+    "Class": "Running Triathlete",
+    "Name": "Dorothy",
+    "Greeting": "THE SPORTS WORLD SHOULD ACCEPT POKEMON",
+    "Win": "THANK YOU! THAT WIN WAS REFRESHING",
+    "Loss": "THANK YOU! THAT LOSS WAS REFRESHING",
+    "Sprite": "em_running_triathlete_f.png"
+  },
+  {
+    "Class": "Running Triathlete",
+    "Name": "Piper",
+    "Greeting": "COME ON YOU NEED A SPEED BOOST?",
+    "Win": "YOU NEED TO SHOW MORE GUTS",
+    "Loss": "OH YOU!",
+    "Sprite": "em_running_triathlete_f.png"
+  },
+  {
+    "Class": "Swimming Triathlete",
+    "Name": "Finn",
+    "Greeting": "NOT ANOTHER TRAINER BATTLE...",
+    "Win": "WON'T THIS EVER END?",
+    "Loss": "I FINALLY GET TO REST A LITTLE",
+    "Sprite": "em_swimming_triathlete_m.png"
+  },
+  {
+    "Class": "Swimming Triathlete",
+    "Name": "Samir",
+    "Greeting": "I DIVE BELOW THE SURF!",
+    "Win": "YAHOO TAKE A DIVE YOU!",
+    "Loss": "I AM GOING TO SINK...",
+    "Sprite": "em_swimming_triathlete_m.png"
+  },
+  {
+    "Class": "Swimming Triathlete",
+    "Name": "Fiona",
+    "Greeting": "DID YOU LIMBER UP BEFORE?",
+    "Win": "YOU NEED TO BE MORE READY",
+    "Loss": "BEING LIMBER DIDN'T WORK FOR ME",
+    "Sprite": "em_swimming_triathlete_f.png"
+  },
+  {
+    "Class": "Swimming Triathlete",
+    "Name": "Gloria",
+    "Greeting": "I LIKE TO ATTACK WITH SUCTION CUPS",
+    "Win": "GIGGLE... IT'S OVER FOR YOU",
+    "Loss": "I DON'T GET HOW SUCTION CUPS WORK",
+    "Sprite": "em_swimming_triathlete_f.png"
+  },
+  {
+    "Class": "Cycling Triathlete",
+    "Name": "Nico",
+    "Greeting": "LIKE A SONIC BOOM I VE ARRIVED",
+    "Win": "SORRY TO MAKE YOU SO DOWNCAST",
+    "Loss": "I AM GOING WITH A SUPERSONIC SPEED BOOST",
+    "Sprite": "em_cycling_triathlete_m.png"
+  },
+  {
+    "Class": "Cycling Triathlete",
+    "Name": "Jeremy",
+    "Greeting": "A POKEMON MASTER THAT'S MY DREAM",
+    "Win": "MY DREAM ISN'T FAR OFF!",
+    "Loss": "WHAT I DREAM ISN'T HAPPENING...",
+    "Sprite": "em_cycling_triathlete_m.png"
+  },
+  {
+    "Class": "Cycling Triathlete",
+    "Name": "Caitlin",
+    "Greeting": "DON'T YOU THINK I AM CUTE?",
+    "Win": "THERE IS MORE TO ME THAN CUTENESS",
+    "Loss": "MY CUTE CHARM DOESN'T ATTRACT YOU?",
+    "Sprite": "em_cycling_triathlete_f.png"
+  },
+  {
+    "Class": "Cycling Triathlete",
+    "Name": "Reena",
+    "Greeting": "I AM ALWAYS HAPPY HAPPY HAPPY!",
+    "Win": "OH YAY! YAHOO FOR ME",
+    "Loss": "YAHOO! I AM HAPPY FOR YOU",
+    "Sprite": "em_cycling_triathlete_f.png"
+  },
+  {
+    "Class": "Bug Maniac",
+    "Name": "Avery",
+    "Greeting": "I'VE GOT A LOT OF BUG POKEMON",
+    "Win": "MY BUG POKEMON ARE ALL UNBELIEVABLE",
+    "Loss": "MY BUG POKEMON ARE ALL UPSIDE DOWN",
+    "Sprite": "em_bug_maniac.png"
+  },
+  {
+    "Class": "Bug Maniac",
+    "Name": "Liam",
+    "Greeting": "WE REALLY DISLIKE FIRE AND FLYING",
+    "Win": "BUG POKEMON AREN'T BAD HEY?",
+    "Loss": "YOU KNOW WHAT WE DISLIKE HEY?",
+    "Sprite": "em_bug_maniac.png"
+  },
+  {
+    "Class": "Fisherman",
+    "Name": "Theo",
+    "Greeting": "FISHING IS MY CHOICE IN LIFE",
+    "Win": "WATER POKEMON ATTRACT ME WITHOUT END",
+    "Loss": "DON'T COUNT ON THAT HAPPENING ANOTHER TIME",
+    "Sprite": "em_fisherman.png"
+  },
+  {
+    "Class": "Fisherman",
+    "Name": "Bailey",
+    "Greeting": "I AM AN ADULT I BATTLE EASY",
+    "Win": "I AM AN ADULT I SWALLOW JOY",
+    "Loss": "I AM AN ADULT I SWALLOW FRUSTRATION",
+    "Sprite": "em_fisherman.png"
+  },
+  {
+    "Class": "Ruin Maniac",
+    "Name": "Hugo",
+    "Greeting": "I TRY THE BEST I CAN",
+    "Win": "I CAN WIN IF I TRY ENOUGH",
+    "Loss": "I DID TRY DIDN'T I?",
+    "Sprite": "em_ruin_maniac.png"
+  },
+  {
+    "Class": "Ruin Maniac",
+    "Name": "Bryce",
+    "Greeting": "I WAS ON VACATION UNTIL ONLY YESTERDAY",
+    "Win": "I HAVEN'T LOST MY SKILL YET",
+    "Loss": "THAT'S IT... I NEED SLEEP",
+    "Sprite": "em_ruin_maniac.png"
+  },
+  {
+    "Class": "Collector",
+    "Name": "Gideon",
+    "Greeting": "WHAT'S UP? YOU THINK I AM SCARY?",
+    "Win": "I AM COOL BUT NOT SCARY!",
+    "Loss": "LOOK AT MY FABULOUS FASHION SENSE",
+    "Sprite": "em_collector.png"
+  },
+  {
+    "Class": "Collector",
+    "Name": "Triston",
+    "Greeting": "I WOULD RATHER LOOK AT POKEMON",
+    "Win": "HUH? YOU MEAN I WON?!",
+    "Loss": "SEE? I ALWAYS LOSE",
+    "Sprite": "em_collector.png"
+  },
+  {
+    "Class": "Guitarist",
+    "Name": "Charles",
+    "Greeting": "IT'S HOPELESS TO STRUGGLE WITH ME",
+    "Win": "SUBMISSION WAS YOUR ONLY CHOICE",
+    "Loss": "I AM GOING DOWN DOWN DOWN!",
+    "Sprite": "em_guitarist.png"
+  },
+  {
+    "Class": "Guitarist",
+    "Name": "Raymond",
+    "Greeting": "WANT TO HEAR MY SONG?",
+    "Win": "SATISFIED THAT'S WHAT I AM!",
+    "Loss": "SATISFIED IS WHAT I CAN'T BE",
+    "Sprite": "em_guitarist.png"
+  },
+  {
+    "Class": "Bird Keeper",
+    "Name": "Dirk",
+    "Greeting": "FLYING POKEMON ARE ABOVE THE REST",
+    "Win": "YOU CAN'T WIN! FLYING POKEMON RULE",
+    "Loss": "AREN'T THERE MORE FLYING POKEMON?",
+    "Sprite": "em_bird_keeper.png"
+  },
+  {
+    "Class": "Bird Keeper",
+    "Name": "Harold",
+    "Greeting": "MY POKEMON APPEAL TO YOU?",
+    "Win": "YOU DO LIKE MY POKEMON?",
+    "Loss": "SO YOU DISLIKE MY POKEMON?",
+    "Sprite": "em_bird_keeper.png"
+  },
+  {
+    "Class": "Sailor",
+    "Name": "Omar",
+    "Greeting": "LET ME WIN IN RETURN FOR A PRESENT",
+    "Win": "HERE YOU ARE SOME TOXIC SWEETS",
+    "Loss": "YOUR PRESENT? WHAT FOR?!",
+    "Sprite": "em_sailor.png"
+  },
+  {
+    "Class": "Sailor",
+    "Name": "Peter",
+    "Greeting": "I BRAG ABOUT MY HAPPINESS OK?",
+    "Win": "YOU HAVE TO LISTEN TO ME BRAG",
+    "Loss": "I AM DISAPPOINTED YOU WON'T LISTEN TO ME",
+    "Sprite": "em_sailor.png"
+  },
+  {
+    "Class": "Hiker",
+    "Name": "Dev",
+    "Greeting": "COME ON LET'S GET A MOVE ON",
+    "Win": "I GET TO NAP AFTER THAT",
+    "Loss": "I NEED TO NAP AFTER THAT",
+    "Sprite": "em_hiker.png"
+  },
+  {
+    "Class": "Hiker",
+    "Name": "Corey",
+    "Greeting": "LET'S TEACH YOU HOW TOUGH I AM",
+    "Win": "LOOK AT ME MAKE A BRICK BREAK",
+    "Loss": "MY FRUSTRATION IS CLOSE TO ERUPTION",
+    "Sprite": "em_hiker.png"
+  },
+  {
+    "Class": "Kindler",
+    "Name": "Andre",
+    "Greeting": "NOW THIS IS A PERFECT FLAME BODY",
+    "Win": "LOOK AT MY FIERY DANCE!",
+    "Loss": "YOU WANT AN EXPLOSION HERE?",
+    "Sprite": "em_kindler.png"
+  },
+  {
+    "Class": "Kindler",
+    "Name": "Ferris",
+    "Greeting": "I AM NUMBER ONE IN THE OLD CLASS",
+    "Win": "NUMBER ONE THAT'S WHAT I AM!",
+    "Loss": "I AM NOT NUMBER ONE ANY MORE...",
+    "Sprite": "em_kindler.png"
+  },
+  {
+    "Class": "Parasol Lady",
+    "Name": "Alivia",
+    "Greeting": "I AM FEELING GIDDY SO SHOULD YOU",
+    "Win": "IT WAS ALL TOGETHER TOO EASY",
+    "Loss": "I WILL GIDDY UP AND AWAY",
+    "Sprite": "parasol_lady.png"
+  },
+  {
+    "Class": "Parasol Lady",
+    "Name": "Paige",
+    "Greeting": "LET'S ENJOY OUR BATTLE TOGETHER",
+    "Win": "THAT'S IT! THANK YOU VERY MUCH",
+    "Loss": "THAT'S IT! DO GO ON",
+    "Sprite": "parasol_lady.png"
+  },
+  {
+    "Class": "Beauty",
+    "Name": "Anya",
+    "Greeting": "I DISLIKE OH SO PRETTY FASHION",
+    "Win": "FASHION SHOULD MATCH THE PERSON",
+    "Loss": "PRETTY COULD BE GOOD",
+    "Sprite": "em_beauty.png"
+  },
+  {
+    "Class": "Beauty",
+    "Name": "Dawn",
+    "Greeting": "I GO ALL OUT!",
+    "Win": "DON'T BE A BABY!",
+    "Loss": "YOU WON! MOVE ON!",
+    "Sprite": "em_beauty.png"
+  },
+  {
+    "Class": "Aroma Lady",
+    "Name": "Abby",
+    "Greeting": "I LIKE A TRAINER THAT'S REFRESHING",
+    "Win": "VICTORY HAS A SWEET SCENT!",
+    "Loss": "WHAT AN AWFUL STENCH!",
+    "Sprite": "em_aroma_lady.png"
+  },
+  {
+    "Class": "Aroma Lady",
+    "Name": "Gretel",
+    "Greeting": "I CAUSE OUTRAGE AS A TRAINER",
+    "Win": "IT'S ONLY NATURAL SEE YA BYE BYE!",
+    "Loss": "IT'S HARD TO BELIEVE BUT CONGRATS",
+    "Sprite": "em_aroma_lady.png"
+  }
+]

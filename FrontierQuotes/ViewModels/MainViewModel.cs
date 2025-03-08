@@ -77,14 +77,20 @@ public partial class MainViewModel : ViewModelBase
 
     public MainViewModel()
     {
-        _trainerQuoteds = LoadInfo()!;
+        List<TrainerQuoted>? gen4 = LoadInfo(new Uri("avares://FrontierQuotes/Assets/gen4/trainers.json"))!;
+        List<TrainerQuoted>? gen3 = LoadInfo(new Uri("avares://FrontierQuotes/Assets/gen3/trainers.json"))!;
+        _trainerQuoteds = gen4;
+        _trainerQuoteds.AddRange(gen3);
+        int ii = -1;
         foreach (TrainerQuoted trainer in _trainerQuoteds!)
         {
+            ii++;
             if (_loadedSprites.Contains(trainer.Sprite))
             {
                 continue;
             }
-            Sprites.Add(new Bitmap(AssetLoader.Open(new Uri($"avares://FrontierQuotes/Assets/Sprites/{trainer.Sprite}"))));
+            Uri uri = ii < Gen4TrainerCount ? new Uri($"avares://FrontierQuotes/Assets/gen4/Sprites/{trainer.Sprite}") : new Uri($"avares://FrontierQuotes/Assets/gen3/Sprites/{trainer.Sprite}");
+            Sprites.Add(new Bitmap(AssetLoader.Open(uri)));
             _loadedSprites.Add(trainer.Sprite);
         }
         var allNames = _trainerQuoteds.Select(s => s.Name); 
@@ -172,9 +178,9 @@ public partial class MainViewModel : ViewModelBase
         _ = NextQuote();
     }
 
-    private List<TrainerQuoted>? LoadInfo()
+    private List<TrainerQuoted>? LoadInfo(Uri uri)
     {
-        using Stream stream = AssetLoader.Open(new Uri("avares://FrontierQuotes/Assets/trainers.json"));
+        using Stream stream = AssetLoader.Open(uri);
         using StreamReader reader = new(stream);
         string json =  reader.ReadToEnd();
         return JsonSerializer.Deserialize<List<TrainerQuoted>>(json, SourceGenerationContext.Default.ListTrainerQuoted);
